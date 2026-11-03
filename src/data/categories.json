@@ -1,0 +1,86 @@
+[
+  {
+    "id": "identity",
+    "name": "Identity & travel",
+    "urdu": "شناخت اور سفر",
+    "icon": "Fingerprint"
+  },
+  {
+    "id": "transport",
+    "name": "Transport & vehicles",
+    "urdu": "ٹرانسپورٹ",
+    "icon": "Car"
+  },
+  {
+    "id": "education",
+    "name": "Education & jobs",
+    "urdu": "تعلیم اور روزگار",
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "tax",
+    "name": "Tax & business",
+    "urdu": "ٹیکس اور کاروبار",
+    "icon": "BriefcaseBusiness"
+  },
+  {
+    "id": "property",
+    "name": "Land & property",
+    "urdu": "زمین اور جائیداد",
+    "icon": "House"
+  },
+  {
+    "id": "support",
+    "name": "Help & complaints",
+    "urdu": "مدد اور شکایات",
+    "icon": "LifeBuoy"
+  },
+  {
+    "id": "government",
+    "name": "Government portals",
+    "urdu": "سرکاری پورٹلز",
+    "icon": "Landmark"
+  },
+  {
+    "id": "health",
+    "name": "Health & wellbeing",
+    "urdu": "صحت",
+    "icon": "HeartPulse"
+  },
+  {
+    "id": "utilities",
+    "name": "Bills & utilities",
+    "urdu": "بل اور سہولیات",
+    "icon": "Zap"
+  },
+  {
+    "id": "justice",
+    "name": "Law & justice",
+    "urdu": "قانون اور انصاف",
+    "icon": "Scale"
+  },
+  {
+    "id": "safety",
+    "name": "Police & safety",
+    "urdu": "پولیس اور حفاظت",
+    "icon": "Shield"
+  },
+  {
+    "id": "welfare",
+    "name": "Welfare & support",
+    "urdu": "فلاح و بہبود",
+    "icon": "HandHeart"
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture & food",
+    "urdu": "زراعت اور خوراک",
+    "icon": "Sprout"
+  },
+  {
+    "id": "data",
+    "name": "Statistics & information",
+    "urdu": "اعداد و شمار",
+    "icon": "ChartNoAxesCombined"
+  }
+]

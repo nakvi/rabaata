@@ -1,0 +1,93 @@
+{
+  "stopWords": [
+    "i",
+    "want",
+    "to",
+    "a",
+    "an",
+    "the",
+    "my",
+    "how",
+    "do",
+    "can",
+    "get",
+    "please",
+    "me",
+    "hai",
+    "hain",
+    "ka",
+    "ki",
+    "ke",
+    "ko",
+    "main",
+    "mein",
+    "mujhe",
+    "mujhy",
+    "chahiye",
+    "karna",
+    "krna",
+    "banwana",
+    "banna",
+    "kese",
+    "kaise",
+    "apply",
+    "for",
+    "renew",
+    "renewal",
+    "کرنا",
+    "ہے",
+    "چاہیے",
+    "مجھے",
+    "بنوانا"
+  ],
+  "synonyms": {
+    "licence": "license",
+    "gaari": "gari",
+    "nokri": "naukri",
+    "jobs": "job",
+    "bills": "bill",
+    "scholarships": "scholarship",
+    "applications": "application",
+    "shikayat": "complaint",
+    "شناختی کارڈ": "cnic",
+    "پاسپورٹ": "passport",
+    "بجلی": "bijli",
+    "نوکری": "naukri",
+    "اسکالرشپ": "scholarship",
+    "زمين": "zameen"
+  },
+  "suggestions": [
+    {
+      "label": "CNIC / identity card",
+      "query": "cnic"
+    },
+    {
+      "label": "Government jobs",
+      "query": "jobs"
+    },
+    {
+      "label": "Electricity bill",
+      "query": "electricity bill"
+    },
+    {
+      "label": "Passport renewal",
+      "query": "passport"
+    },
+    {
+      "label": "Land records",
+      "query": "land record"
+    },
+    {
+      "label": "Scholarships",
+      "query": "scholarship"
+    },
+    {
+      "label": "Vehicle registration",
+      "query": "vehicle registration"
+    },
+    {
+      "label": "Police & complaints",
+      "query": "police"
+    }
+  ]
+}

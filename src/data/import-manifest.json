@@ -1,0 +1,1171 @@
+{
+  "source": "https://pakistangov.online/directory",
+  "date": "2026-11-02",
+  "sourceCount": 194,
+  "entries": [
+    {
+      "name": "Election Commission of Pakistan",
+      "url": "https://ecp.gov.pk/",
+      "resourceId": "ecp-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Religious Affairs & Interfaith Harmony (Hajj)",
+      "url": "https://mora.gov.pk/",
+      "resourceId": "mora-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Pakistan Citizen's Portal (PMDU)",
+      "url": "https://citizenportal.gov.pk/",
+      "resourceId": "citizen-portal",
+      "section": "Federal government"
+    },
+    {
+      "name": "Pakistan National Portal (Government of Pakistan)",
+      "url": "https://pakistan.gov.pk/",
+      "resourceId": "pakistan-portal",
+      "section": "Federal government"
+    },
+    {
+      "name": "Accountant General Pakistan Revenues",
+      "url": "https://agpr.gov.pk/",
+      "resourceId": "agpr-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Cabinet Division",
+      "url": "https://cabinet.gov.pk/",
+      "resourceId": "cabinet-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Establishment Division",
+      "url": "https://establishment.gov.pk/",
+      "resourceId": "establishment-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Finance",
+      "url": "https://finance.gov.pk/",
+      "resourceId": "finance-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "National Assembly of Pakistan",
+      "url": "https://na.gov.pk/",
+      "resourceId": "na-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Prime Minister's Office",
+      "url": "https://pmo.gov.pk/",
+      "resourceId": "pmo-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Auditor-General of Pakistan",
+      "url": "https://agp.gov.pk/",
+      "resourceId": "agp-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Controller General of Accounts",
+      "url": "https://cga.gov.pk/",
+      "resourceId": "cga-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Economic Affairs Division",
+      "url": "https://ead.gov.pk/",
+      "resourceId": "ead-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Climate Change & Environmental Coordination",
+      "url": "https://mocc.gov.pk/",
+      "resourceId": "mocc-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Defence",
+      "url": "https://mod.gov.pk/",
+      "resourceId": "mod-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Defence Production",
+      "url": "https://modp.gov.pk/",
+      "resourceId": "modp-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Housing & Works",
+      "url": "https://mohw.gov.pk/",
+      "resourceId": "mohw-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Information & Broadcasting",
+      "url": "https://moib.gov.pk/",
+      "resourceId": "moib-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of IT & Telecommunication",
+      "url": "https://moitt.gov.pk/",
+      "resourceId": "moitt-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Maritime Affairs",
+      "url": "https://moma.gov.pk/",
+      "resourceId": "moma-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of National Food Security & Research",
+      "url": "https://mnfsr.gov.pk/",
+      "resourceId": "mnfsr-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Privatisation",
+      "url": "https://privatisation.gov.pk/",
+      "resourceId": "privatisation-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Ministry of Water Resources",
+      "url": "https://mowr.gov.pk/",
+      "resourceId": "mowr-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "National Information Technology Board",
+      "url": "https://nitb.gov.pk/",
+      "resourceId": "nitb-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "President of Pakistan (Aiwan-e-Sadr)",
+      "url": "https://president.gov.pk/",
+      "resourceId": "president-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Press Information Department",
+      "url": "https://pid.gov.pk/",
+      "resourceId": "pid-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Radio Pakistan",
+      "url": "https://radio.gov.pk/",
+      "resourceId": "radio-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Senate of Pakistan",
+      "url": "https://senate.gov.pk/",
+      "resourceId": "senate-gov-pk",
+      "section": "Federal government"
+    },
+    {
+      "name": "Directorate General of Immigration & Passports",
+      "url": "https://dgip.gov.pk/",
+      "resourceId": "passport",
+      "section": "Identity, passports & travel"
+    },
+    {
+      "name": "National Database & Registration Authority (NADRA)",
+      "url": "https://www.nadra.gov.pk/",
+      "resourceId": "nadra",
+      "section": "Identity, passports & travel"
+    },
+    {
+      "name": "Central Directorate of National Savings",
+      "url": "https://savings.gov.pk/",
+      "resourceId": "savings-gov-pk",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Federal Board of Revenue",
+      "url": "https://fbr.gov.pk/",
+      "resourceId": "fbr",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Pakistan Single Window",
+      "url": "https://psw.gov.pk/",
+      "resourceId": "psw-gov-pk",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Small & Medium Enterprises Development Authority",
+      "url": "https://smeda.org/",
+      "resourceId": "smeda-org",
+      "section": "Tax & business"
+    },
+    {
+      "name": "WeBOC (Web-Based One Customs), Pakistan Customs",
+      "url": "https://weboc.gov.pk/",
+      "resourceId": "weboc-gov-pk",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Board of Investment",
+      "url": "https://invest.gov.pk/",
+      "resourceId": "invest-gov-pk",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Ministry of Industries & Production",
+      "url": "https://moip.gov.pk/",
+      "resourceId": "moip-gov-pk",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Pakistan Trade Portal",
+      "url": "https://pakistantradeportal.gov.pk/",
+      "resourceId": "pakistantradeportal-gov-pk",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Trade Development Authority of Pakistan",
+      "url": "https://tdap.gov.pk/",
+      "resourceId": "tdap-gov-pk",
+      "section": "Tax & business"
+    },
+    {
+      "name": "Benazir Income Support Programme",
+      "url": "https://bisp.gov.pk/",
+      "resourceId": "bisp-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "BISP 8171 Eligibility Check Portal",
+      "url": "https://8171.bisp.gov.pk/",
+      "resourceId": "8171-bisp-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Employees' Old-Age Benefits Institution",
+      "url": "https://eobi.gov.pk/",
+      "resourceId": "eobi-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Pakistan Bait-ul-Mal",
+      "url": "https://pbm.gov.pk/",
+      "resourceId": "pbm-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Punjab Social Protection Authority",
+      "url": "https://pspa.punjab.gov.pk/",
+      "resourceId": "pspa-punjab-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Poverty Alleviation & Social Safety Division",
+      "url": "https://pass.gov.pk/",
+      "resourceId": "pass-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Punjab Employees Social Security Institution",
+      "url": "https://pessi.punjab.gov.pk/",
+      "resourceId": "pessi-punjab-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Sindh Employees' Social Security Institution",
+      "url": "https://sessi.gov.pk/",
+      "resourceId": "sessi-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Sindh Social Protection Authority",
+      "url": "https://sspa.gos.pk/",
+      "resourceId": "sspa-gos-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Workers Welfare Fund",
+      "url": "https://wwf.gov.pk/",
+      "resourceId": "wwf-gov-pk",
+      "section": "Social protection"
+    },
+    {
+      "name": "Balochistan Public Service Commission",
+      "url": "https://bpsc.gob.pk/",
+      "resourceId": "bpsc",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Federal Board of Intermediate & Secondary Education",
+      "url": "https://fbise.edu.pk/",
+      "resourceId": "fbise-edu-pk",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Federal Public Service Commission",
+      "url": "https://fpsc.gov.pk/",
+      "resourceId": "fpsc",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Higher Education Commission",
+      "url": "https://www.hec.gov.pk/",
+      "resourceId": "hec",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa Public Service Commission",
+      "url": "https://www.kppsc.gov.pk/",
+      "resourceId": "kppsc",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Punjab Public Service Commission",
+      "url": "https://ppsc.gop.pk/",
+      "resourceId": "ppsc",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Sindh Public Service Commission",
+      "url": "https://spsc.gos.pk/",
+      "resourceId": "spsc",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Allama Iqbal Open University",
+      "url": "https://aiou.edu.pk/",
+      "resourceId": "aiou-edu-pk",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Balochistan Government Jobs Portal",
+      "url": "https://jobs.balochistan.gov.pk/",
+      "resourceId": "jobs-balochistan-gov-pk",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Ministry of Federal Education & Professional Training",
+      "url": "https://mofept.gov.pk/",
+      "resourceId": "mofept-gov-pk",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "National Vocational & Technical Training Commission",
+      "url": "https://navttc.gov.pk/",
+      "resourceId": "navttc-gov-pk",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Punjab Technical Education & Vocational Training Authority",
+      "url": "https://tevta.gop.pk/",
+      "resourceId": "tevta-gop-pk",
+      "section": "Jobs & education"
+    },
+    {
+      "name": "Drug Regulatory Authority of Pakistan",
+      "url": "https://www.dra.gov.pk/",
+      "resourceId": "dra-gov-pk",
+      "section": "Health"
+    },
+    {
+      "name": "Federal Directorate of Immunization (EPI)",
+      "url": "https://www.epi.gov.pk/",
+      "resourceId": "epi-gov-pk",
+      "section": "Health"
+    },
+    {
+      "name": "Ministry of National Health Services, Regulations & Coordination",
+      "url": "https://nhsrc.gov.pk/",
+      "resourceId": "nhsrc-gov-pk",
+      "section": "Health"
+    },
+    {
+      "name": "National Institute of Health",
+      "url": "https://nih.org.pk/",
+      "resourceId": "nih-org-pk",
+      "section": "Health"
+    },
+    {
+      "name": "Pakistan Medical & Dental Council",
+      "url": "https://pmdc.pk/",
+      "resourceId": "pmdc-pk",
+      "section": "Health"
+    },
+    {
+      "name": "Faisalabad Electric Supply Company",
+      "url": "https://fesco.com.pk/",
+      "resourceId": "fesco-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Gujranwala Electric Power Company",
+      "url": "https://gepco.com.pk/",
+      "resourceId": "gepco-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Hyderabad Electric Supply Company",
+      "url": "https://hesco.gov.pk/",
+      "resourceId": "hesco-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Islamabad Electric Supply Company",
+      "url": "https://iesco.com.pk/",
+      "resourceId": "iesco-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Multan Electric Power Company",
+      "url": "https://mepco.com.pk/",
+      "resourceId": "mepco-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Pakistan Railways",
+      "url": "https://pakrail.gov.pk/",
+      "resourceId": "pakrail-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Peshawar Electric Supply Company",
+      "url": "https://pesco.com.pk/",
+      "resourceId": "pesco-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "PITC Electricity Bill Portal (Power Information Technology Company)",
+      "url": "https://bill.pitc.com.pk/",
+      "resourceId": "bill-pitc-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Quetta Electric Supply Company",
+      "url": "https://qesco.com.pk/",
+      "resourceId": "qesco-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Sui Northern Gas Pipelines Ltd",
+      "url": "https://sngpl.com.pk/",
+      "resourceId": "sngpl-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Sui Southern Gas Company Ltd",
+      "url": "https://www.ssgc.com.pk/",
+      "resourceId": "ssgc-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Sukkur Electric Power Company",
+      "url": "https://sepco.com.pk/",
+      "resourceId": "sepco-com-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Karachi Water & Sewerage Corporation",
+      "url": "https://kwsc.gos.pk/",
+      "resourceId": "kwsc-gos-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Pakistan Post",
+      "url": "https://pakpost.gov.pk/",
+      "resourceId": "pakpost-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Tribal Areas Electricity Supply Company",
+      "url": "https://tesco.gov.pk/",
+      "resourceId": "tesco-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "WASA Lahore",
+      "url": "https://wasa.punjab.gov.pk/",
+      "resourceId": "wasa-punjab-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Central Power Purchasing Agency",
+      "url": "https://cppa.gov.pk/",
+      "resourceId": "cppa-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Ministry of Energy (Petroleum Division)",
+      "url": "https://petroleum.gov.pk/",
+      "resourceId": "petroleum-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Ministry of Energy (Power Division)",
+      "url": "https://power.gov.pk/",
+      "resourceId": "power-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "National Energy Efficiency & Conservation Authority",
+      "url": "https://neeca.gov.pk/",
+      "resourceId": "neeca-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Water & Power Development Authority",
+      "url": "https://wapda.gov.pk/",
+      "resourceId": "wapda-gov-pk",
+      "section": "Utilities"
+    },
+    {
+      "name": "Balochistan Code",
+      "url": "https://balochistancode.gob.pk/",
+      "resourceId": "balochistancode-gob-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Pakistan Code (Federal Laws Database)",
+      "url": "https://pakistancode.gov.pk/",
+      "resourceId": "pakistancode-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Punjab Laws Online (Punjab Code)",
+      "url": "https://punjablaws.gov.pk/",
+      "resourceId": "punjablaws-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Sindh Laws (Sindh Code)",
+      "url": "https://sindhlaws.gov.pk/",
+      "resourceId": "sindhlaws-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Balochistan High Court",
+      "url": "https://bhc.gov.pk/",
+      "resourceId": "bhc-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Federal Tax Ombudsman",
+      "url": "https://fto.gov.pk/",
+      "resourceId": "fto-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Ministry of Law & Justice",
+      "url": "https://molaw.gov.pk/",
+      "resourceId": "molaw-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Peshawar High Court",
+      "url": "https://peshawarhighcourt.gov.pk/",
+      "resourceId": "peshawarhighcourt-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Sindh High Court",
+      "url": "https://sindhhighcourt.gov.pk/",
+      "resourceId": "sindhhighcourt-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Wafaqi Mohtasib (Federal Ombudsman)",
+      "url": "https://mohtasib.gov.pk/",
+      "resourceId": "mohtasib-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Federal Shariat Court",
+      "url": "https://www.federalshariatcourt.gov.pk/",
+      "resourceId": "federalshariatcourt-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Law & Justice Commission of Pakistan",
+      "url": "https://ljcp.gov.pk/",
+      "resourceId": "ljcp-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Ministry of Human Rights",
+      "url": "https://mohr.gov.pk/",
+      "resourceId": "mohr-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "National Accountability Bureau",
+      "url": "https://nab.gov.pk/",
+      "resourceId": "nab-gov-pk",
+      "section": "Law & justice"
+    },
+    {
+      "name": "Federal Investigation Agency",
+      "url": "https://fia.gov.pk/",
+      "resourceId": "fia-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa Police",
+      "url": "https://www.kppolice.gov.pk/",
+      "resourceId": "kppolice-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Punjab Police",
+      "url": "https://punjabpolice.gov.pk/",
+      "resourceId": "punjabpolice-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Sindh Police",
+      "url": "https://sindhpolice.gov.pk/",
+      "resourceId": "sindhpolice-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Balochistan Police",
+      "url": "https://balochistanpolice.gov.pk/",
+      "resourceId": "balochistanpolice-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Karachi Police",
+      "url": "https://karachipolice.gov.pk/",
+      "resourceId": "karachipolice-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "National Disaster Management Authority",
+      "url": "https://ndma.gov.pk/",
+      "resourceId": "ndma-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "National Highways & Motorway Police",
+      "url": "https://nhmp.gov.pk/",
+      "resourceId": "nhmp-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Pakistan Meteorological Department",
+      "url": "https://pmd.gov.pk/",
+      "resourceId": "pmd-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Provincial Disaster Management Authority, Punjab",
+      "url": "https://pdma.gop.pk/",
+      "resourceId": "pdma-gop-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Punjab Emergency Service (Rescue 1122)",
+      "url": "https://www.rescue.gov.pk/",
+      "resourceId": "rescue-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Punjab Safe Cities Authority",
+      "url": "https://psca.gop.pk/",
+      "resourceId": "psca-gop-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Rescue 1122 Khyber Pakhtunkhwa",
+      "url": "https://rescuekp.gov.pk/",
+      "resourceId": "rescuekp-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Anti Narcotics Force",
+      "url": "https://anf.gov.pk/",
+      "resourceId": "anf-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "National Counter Terrorism Authority",
+      "url": "https://www.nacta.gov.pk/",
+      "resourceId": "nacta-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Provincial Disaster Management Authority, Balochistan",
+      "url": "https://www.pdma.gob.pk/",
+      "resourceId": "pdma-gob-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Provincial Disaster Management Authority, Khyber Pakhtunkhwa",
+      "url": "https://pdma.gov.pk/",
+      "resourceId": "pdma-gov-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "Provincial Disaster Management Authority, Sindh",
+      "url": "https://pdma.gos.pk/",
+      "resourceId": "pdma-gos-pk",
+      "section": "Police & safety"
+    },
+    {
+      "name": "PTA Device Identification, Registration & Blocking System (DIRBS)",
+      "url": "https://dirbs.pta.gov.pk/",
+      "resourceId": "dirbs-pta-gov-pk",
+      "section": "Regulators"
+    },
+    {
+      "name": "National Electric Power Regulatory Authority",
+      "url": "https://nepra.org.pk/",
+      "resourceId": "nepra-org-pk",
+      "section": "Regulators"
+    },
+    {
+      "name": "Oil & Gas Regulatory Authority",
+      "url": "https://ogra.org.pk/",
+      "resourceId": "ogra-org-pk",
+      "section": "Regulators"
+    },
+    {
+      "name": "Pakistan Telecommunication Authority",
+      "url": "https://pta.gov.pk/",
+      "resourceId": "pta-gov-pk",
+      "section": "Regulators"
+    },
+    {
+      "name": "Competition Commission of Pakistan",
+      "url": "https://cc.gov.pk/",
+      "resourceId": "cc-gov-pk",
+      "section": "Regulators"
+    },
+    {
+      "name": "Pakistan Electronic Media Regulatory Authority",
+      "url": "https://pemra.gov.pk/",
+      "resourceId": "pemra-gov-pk",
+      "section": "Regulators"
+    },
+    {
+      "name": "Pakistan Nuclear Regulatory Authority",
+      "url": "https://pnra.org/",
+      "resourceId": "pnra-org",
+      "section": "Regulators"
+    },
+    {
+      "name": "Public Procurement Regulatory Authority",
+      "url": "https://ppra.gov.pk/",
+      "resourceId": "ppra-gov-pk",
+      "section": "Regulators"
+    },
+    {
+      "name": "e-Khidmat Markaz Punjab",
+      "url": "https://ekhidmatmarkaz.punjab.gov.pk/",
+      "resourceId": "ekhidmatmarkaz-punjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Excise, Taxation & Narcotics Control Department, Punjab",
+      "url": "https://excise.punjab.gov.pk/",
+      "resourceId": "punjab-excise",
+      "section": "Punjab"
+    },
+    {
+      "name": "Government of the Punjab",
+      "url": "https://punjab.gov.pk/",
+      "resourceId": "punjab-portal",
+      "section": "Punjab"
+    },
+    {
+      "name": "Agriculture Department, Punjab",
+      "url": "https://agripunjab.gov.pk/",
+      "resourceId": "agripunjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Board of Revenue, Punjab",
+      "url": "https://bor.punjab.gov.pk/",
+      "resourceId": "bor-punjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Chief Minister Punjab",
+      "url": "https://cmpunjab.gov.pk/",
+      "resourceId": "cmpunjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Lahore Development Authority",
+      "url": "https://lda.gop.pk/",
+      "resourceId": "lda-gop-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Primary & Secondary Healthcare Department, Punjab",
+      "url": "https://pshealthpunjab.gov.pk/",
+      "resourceId": "pshealthpunjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Punjab Food Authority",
+      "url": "https://pfa.gop.pk/",
+      "resourceId": "pfa-gop-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Punjab Revenue Authority",
+      "url": "https://pra.punjab.gov.pk/",
+      "resourceId": "pra-punjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "School Education Department, Punjab",
+      "url": "https://schools.punjab.gov.pk/",
+      "resourceId": "schools-punjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Specialized Healthcare & Medical Education Department, Punjab",
+      "url": "https://health.punjab.gov.pk/",
+      "resourceId": "health-punjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Labour & Human Resource Department, Punjab",
+      "url": "https://labour.punjab.gov.pk/",
+      "resourceId": "labour-punjab-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Provincial Assembly of the Punjab",
+      "url": "https://pap.gov.pk/",
+      "resourceId": "pap-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Punjab Education Sector Reform Programme",
+      "url": "https://pesrp.edu.pk/",
+      "resourceId": "pesrp-edu-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Punjab Information Technology Board",
+      "url": "https://pitb.gov.pk/",
+      "resourceId": "pitb-gov-pk",
+      "section": "Punjab"
+    },
+    {
+      "name": "Excise, Taxation & Narcotics Control Department, Sindh",
+      "url": "https://excise.gos.pk/",
+      "resourceId": "sindh-excise",
+      "section": "Sindh"
+    },
+    {
+      "name": "Government of Sindh",
+      "url": "https://www.sindh.gov.pk/",
+      "resourceId": "sindh-portal",
+      "section": "Sindh"
+    },
+    {
+      "name": "Sindh Zameen (Land Records, Board of Revenue Sindh)",
+      "url": "https://sindhzameen.gos.pk/",
+      "resourceId": "sindhzameen-gos-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Karachi Metropolitan Corporation",
+      "url": "https://kmc.gos.pk/",
+      "resourceId": "kmc-gos-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "School Education & Literacy Department, Sindh",
+      "url": "https://sindheducation.gov.pk/",
+      "resourceId": "sindheducation-gov-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Sindh Building Control Authority",
+      "url": "https://sbca.gos.pk/",
+      "resourceId": "sbca-gos-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Sindh Minimum Wages Board",
+      "url": "https://mwb.sindh.gov.pk/",
+      "resourceId": "mwb-sindh-gov-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Sindh Revenue Board",
+      "url": "https://www.srb.gos.pk/",
+      "resourceId": "srb-gos-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Finance Department, Sindh",
+      "url": "https://finance.gos.pk/",
+      "resourceId": "finance-gos-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Sindh Food Authority",
+      "url": "https://sfa.gos.pk/",
+      "resourceId": "sfa-gos-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Sindh Higher Education Commission",
+      "url": "https://sindhhec.gov.pk/",
+      "resourceId": "sindhhec-gov-pk",
+      "section": "Sindh"
+    },
+    {
+      "name": "Excise, Taxation & Narcotics Control Department, Khyber Pakhtunkhwa",
+      "url": "https://www.kpexcise.gov.pk/",
+      "resourceId": "kpexcise-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "KP e-Citizen Portal",
+      "url": "https://ecitizen.kp.gov.pk/",
+      "resourceId": "ecitizen-kp-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Dastak (KP Citizen Services App Portal)",
+      "url": "https://dastak.kp.gov.pk/",
+      "resourceId": "dastak-kp-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Elementary & Secondary Education Department, Khyber Pakhtunkhwa",
+      "url": "https://kpese.gov.pk/",
+      "resourceId": "kpese-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Health Department, Khyber Pakhtunkhwa",
+      "url": "https://healthkp.gov.pk/",
+      "resourceId": "healthkp-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa Revenue Authority",
+      "url": "https://kpra.gov.pk/",
+      "resourceId": "kpra-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa Revenue Authority",
+      "url": "https://kpra.kp.gov.pk/",
+      "resourceId": "kpra-kp-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "KP e-Stamping",
+      "url": "https://estamping.kp.gov.pk/",
+      "resourceId": "estamping-kp-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa Food Safety & Halal Food Authority",
+      "url": "https://kpfsa.gov.pk/",
+      "resourceId": "kpfsa-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Khyber Pakhtunkhwa Information Technology Board",
+      "url": "https://kpitb.gov.pk/",
+      "resourceId": "kpitb-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Local Government Department, Khyber Pakhtunkhwa",
+      "url": "https://lgkp.gov.pk/",
+      "resourceId": "lgkp-gov-pk",
+      "section": "Khyber Pakhtunkhwa"
+    },
+    {
+      "name": "Government of Balochistan",
+      "url": "https://balochistan.gov.pk/",
+      "resourceId": "balochistan-portal",
+      "section": "Balochistan"
+    },
+    {
+      "name": "Balochistan Revenue Authority",
+      "url": "https://bra.gob.pk/",
+      "resourceId": "bra-gob-pk",
+      "section": "Balochistan"
+    },
+    {
+      "name": "Balochistan Zameen (Land Records)",
+      "url": "https://balochistan-zameen.gob.pk/",
+      "resourceId": "balochistan-zameen-gob-pk",
+      "section": "Balochistan"
+    },
+    {
+      "name": "Excise Portal Balochistan (vehicle tax/registration)",
+      "url": "https://exciseportal.balochistan.gov.pk/",
+      "resourceId": "exciseportal-balochistan-gov-pk",
+      "section": "Balochistan"
+    },
+    {
+      "name": "Excise, Taxation & Anti-Narcotics Department, Balochistan",
+      "url": "https://excise.balochistan.gov.pk/",
+      "resourceId": "excise-balochistan-gov-pk",
+      "section": "Balochistan"
+    },
+    {
+      "name": "Finance Department, Balochistan",
+      "url": "https://finance.balochistan.gov.pk/",
+      "resourceId": "finance-balochistan-gov-pk",
+      "section": "Balochistan"
+    },
+    {
+      "name": "Health Department, Balochistan",
+      "url": "https://health.balochistan.gov.pk/",
+      "resourceId": "health-balochistan-gov-pk",
+      "section": "Balochistan"
+    },
+    {
+      "name": "School Education Department, Balochistan",
+      "url": "https://sed.balochistan.gov.pk/",
+      "resourceId": "sed-balochistan-gov-pk",
+      "section": "Balochistan"
+    },
+    {
+      "name": "Government of Azad Jammu & Kashmir",
+      "url": "https://ajk.gov.pk/",
+      "resourceId": "ajk-portal",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Government of Gilgit-Baltistan",
+      "url": "https://gilgitbaltistan.gov.pk/",
+      "resourceId": "gb-portal",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Azad Jammu & Kashmir Police",
+      "url": "https://ajkpolice.gok.pk/",
+      "resourceId": "ajkpolice-gok-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Excise & Taxation Department, Gilgit-Baltistan",
+      "url": "https://gbexcise.gov.pk/",
+      "resourceId": "gbexcise-gov-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Gilgit-Baltistan Police",
+      "url": "https://gbp.gov.pk/",
+      "resourceId": "gbp-gov-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Azad Jammu & Kashmir Legislative Assembly",
+      "url": "https://ajkassembly.gok.pk/",
+      "resourceId": "ajkassembly-gok-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Gilgit-Baltistan Chief Court",
+      "url": "https://www.gbcc.gov.pk/",
+      "resourceId": "gbcc-gov-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Health Department, Azad Jammu & Kashmir",
+      "url": "https://healthajk.gok.pk/",
+      "resourceId": "healthajk-gok-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "High Court of Azad Jammu & Kashmir",
+      "url": "https://ajkhighcourt.gok.pk/",
+      "resourceId": "ajkhighcourt-gok-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Prime Minister of Azad Jammu & Kashmir",
+      "url": "https://ajkpm.gok.pk/",
+      "resourceId": "ajkpm-gok-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Supreme Court of Azad Jammu & Kashmir",
+      "url": "https://ajksupremecourt.gok.pk/",
+      "resourceId": "ajksupremecourt-gok-pk",
+      "section": "Gilgit-Baltistan & AJK"
+    },
+    {
+      "name": "Excise & Taxation Department, Islamabad",
+      "url": "https://islamabadexcise.gov.pk/",
+      "resourceId": "islamabadexcise-gov-pk",
+      "section": "Islamabad Capital Territory"
+    },
+    {
+      "name": "Capital Development Authority, Islamabad",
+      "url": "https://cda.gov.pk/",
+      "resourceId": "cda",
+      "section": "Islamabad Capital Territory"
+    },
+    {
+      "name": "Federal Directorate of Education, Islamabad",
+      "url": "https://fde.gov.pk/",
+      "resourceId": "fde-gov-pk",
+      "section": "Islamabad Capital Territory"
+    },
+    {
+      "name": "Islamabad Capital Territory Administration",
+      "url": "https://ictadministration.gov.pk/",
+      "resourceId": "ictadministration-gov-pk",
+      "section": "Islamabad Capital Territory"
+    },
+    {
+      "name": "Islamabad Capital Territory Police",
+      "url": "https://islamabadpolice.gov.pk/",
+      "resourceId": "islamabad-police",
+      "section": "Islamabad Capital Territory"
+    },
+    {
+      "name": "Metropolitan Corporation Islamabad",
+      "url": "https://mci.gov.pk/",
+      "resourceId": "mci-gov-pk",
+      "section": "Islamabad Capital Territory"
+    },
+    {
+      "name": "Ministry of Foreign Affairs",
+      "url": "https://mofa.gov.pk/",
+      "resourceId": "mofa-gov-pk",
+      "section": "Overseas Pakistanis"
+    },
+    {
+      "name": "Ministry of Overseas Pakistanis & Human Resource Development",
+      "url": "https://ophrd.gov.pk/",
+      "resourceId": "ophrd-gov-pk",
+      "section": "Overseas Pakistanis"
+    },
+    {
+      "name": "Pakistan Bureau of Statistics",
+      "url": "https://www.pbs.gov.pk/",
+      "resourceId": "pbs-gov-pk",
+      "section": "Statistics & data"
+    },
+    {
+      "name": "Ministry of Planning, Development & Special Initiatives (Planning Commission)",
+      "url": "https://pc.gov.pk/",
+      "resourceId": "pc-gov-pk",
+      "section": "Statistics & data"
+    }
+  ]
+}

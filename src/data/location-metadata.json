@@ -1,0 +1,27 @@
+{
+  "snapshotDate": "2026-11-02",
+  "counts": {
+    "punjab": 41,
+    "sindh": 30,
+    "kp": 40,
+    "balochistan": 37,
+    "ajk": 10,
+    "gb": 14,
+    "ict": 1
+  },
+  "notes": [
+    "Working directory district list reconciled from published references. Administrative notifications can change.",
+    "Karezat is included as a disputed/status-under-review entry; sources conflict on its activation.",
+    "Turbat is an alias for Kech; Bar Swat also called Upper Swat.",
+    "GB list includes four notified additional districts whose activation has varied by source."
+  ],
+  "sources": {
+    "punjab": "https://lgcd.punjab.gov.pk/node/889",
+    "sindh": "https://www.shrc.org.pk/info-districts.php",
+    "kp": "https://www.app.com.pk/national/swat-divided-into-two-separate-districts/",
+    "balochistan": "https://lgrd.gob.pk/city-tehsil-local-governments/",
+    "ajk": "https://ajkhighcourt.gok.pk/Userside/About",
+    "gb": "https://gilgitbaltistan.gov.pk/",
+    "ict": "https://www.pbs.gov.pk/gis/"
+  }
+}

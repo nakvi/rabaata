@@ -1,0 +1,4166 @@
+{
+  "Explore services": {
+    "ur": "خدمات تلاش کریں",
+    "roman": "Khidmaat talash karein"
+  },
+  "Government apps": {
+    "ur": "سرکاری ایپس",
+    "roman": "Sarkari apps"
+  },
+  "How it works": {
+    "ur": "یہ کیسے کام کرتا ہے",
+    "roman": "Yeh kaise kaam karta hai"
+  },
+  "Saved": {
+    "ur": "محفوظ",
+    "roman": "Mehfooz"
+  },
+  "Find a service": {
+    "ur": "خدمت تلاش کریں",
+    "roman": "Khidmat talash karein"
+  },
+  "YOUR GATEWAY TO PUBLIC SERVICES": {
+    "ur": "سرکاری خدمات تک آسان رسائی",
+    "roman": "Sarkari khidmaat tak aasaan rasai"
+  },
+  "Pakistan.": {
+    "ur": "پاکستان۔",
+    "roman": "Pakistan."
+  },
+  "A little more": {
+    "ur": "اب پہلے سے زیادہ",
+    "roman": "Ab pehle se zyada"
+  },
+  "within reach.": {
+    "ur": "آپ کی دسترس میں۔",
+    "roman": "Aap ki dastaras mein."
+  },
+  "Your government directory. Thoughtfully connected.": {
+    "ur": "آپ کی سرکاری ڈائریکٹری، ایک جگہ پر۔",
+    "roman": "Aap ki sarkari directory, aik jagah par."
+  },
+  "A simpler way to find what you need, wherever you live.": {
+    "ur": "آپ جہاں بھی رہیں، مطلوبہ خدمت آسانی سے تلاش کریں۔",
+    "roman": "Aap jahan bhi rahein, zaroori khidmat aasani se talash karein."
+  },
+  "CNIC, electricity bill, jobs…": {
+    "ur": "شناختی کارڈ، بجلی کا بل، نوکریاں…",
+    "roman": "CNIC, bijli ka bill, naukriyan…"
+  },
+  "Try": {
+    "ur": "تلاش کریں",
+    "roman": "Talash karein"
+  },
+  "CNIC": {
+    "ur": "شناختی کارڈ",
+    "roman": "Shanakhti card"
+  },
+  "Government jobs": {
+    "ur": "سرکاری نوکریاں",
+    "roman": "Sarkari naukriyan"
+  },
+  "Vehicle services": {
+    "ur": "گاڑیوں کی خدمات",
+    "roman": "Gari ki khidmaat"
+  },
+  "Official destinations": {
+    "ur": "سرکاری ویب سائٹس",
+    "roman": "Sarkari websites"
+  },
+  "No account needed": {
+    "ur": "اکاؤنٹ کی ضرورت نہیں",
+    "roman": "Account ki zaroorat nahi"
+  },
+  "CONNECTED PAKISTAN": {
+    "ur": "مربوط پاکستان",
+    "roman": "Munsalik Pakistan"
+  },
+  "Your identity": {
+    "ur": "آپ کی شناخت",
+    "roman": "Aap ki shanakht"
+  },
+  "One clear starting point": {
+    "ur": "ایک واضح آغاز",
+    "roman": "Aik wazeh aaghaz"
+  },
+  "New possibilities": {
+    "ur": "نئے مواقع",
+    "roman": "Naye mawaqay"
+  },
+  "Education & opportunities": {
+    "ur": "تعلیم اور مواقع",
+    "roman": "Taleem aur mawaqay"
+  },
+  "From your district. To your next step.": {
+    "ur": "آپ کے ضلع سے، آپ کے اگلے قدم تک۔",
+    "roman": "Aap ke zila se, aap ke aglay qadam tak."
+  },
+  "directory resources": {
+    "ur": "ڈائریکٹری وسائل",
+    "roman": "Directory ke wasail"
+  },
+  "7 provinces & territories": {
+    "ur": "۷ صوبے اور علاقے",
+    "roman": "7 soobay aur ilaqay"
+  },
+  "Websites & mobile apps": {
+    "ur": "ویب سائٹس اور موبائل ایپس",
+    "roman": "Websites aur mobile apps"
+  },
+  "Independent. Transparent.": {
+    "ur": "آزاد، واضح اور شفاف۔",
+    "roman": "Azad, wazeh aur shaffaf."
+  },
+  "START WITH WHAT YOU NEED": {
+    "ur": "اپنی ضرورت سے آغاز کریں",
+    "roman": "Apni zaroorat se aaghaz karein"
+  },
+  "Everyday needs.": {
+    "ur": "روزمرہ کی ضروریات۔",
+    "roman": "Rozmarra ki zarooriyat."
+  },
+  "Clearer directions.": {
+    "ur": "واضح رہنمائی۔",
+    "roman": "Wazeh rehnumai."
+  },
+  "You shouldn’t need to know the department name.": {
+    "ur": "محکمے کا نام معلوم ہونا ضروری نہیں۔",
+    "roman": "Mehkame ka naam maloom hona zaroori nahi."
+  },
+  "Start with the thing you want to get done.": {
+    "ur": "اپنے مطلوبہ کام سے آغاز کریں۔",
+    "roman": "Apne matlooba kaam se aaghaz karein."
+  },
+  "resources": {
+    "ur": "وسائل",
+    "roman": "Wasail"
+  },
+  "A place for": {
+    "ur": "ہر ضرورت کے لیے",
+    "roman": "Har zaroorat ke liye"
+  },
+  "every next step.": {
+    "ur": "ایک آسان راستہ۔",
+    "roman": "Aik aasaan rasta."
+  },
+  "Explore all resources →": {
+    "ur": "تمام وسائل دیکھیں ←",
+    "roman": "Tamam wasail dekhein →"
+  },
+  "CLOSER TO HOME": {
+    "ur": "آپ کے قریب",
+    "roman": "Aap ke qareeb"
+  },
+  "Your province.": {
+    "ur": "آپ کا صوبہ۔",
+    "roman": "Aap ka sooba."
+  },
+  "Your starting point.": {
+    "ur": "آپ کا نقطۂ آغاز۔",
+    "roman": "Aap ka nuqta-e-aaghaz."
+  },
+  "Find regional resources alongside national services available in your area.": {
+    "ur": "اپنے علاقے کی صوبائی اور وفاقی خدمات تلاش کریں۔",
+    "roman": "Apne ilaqay ki soobai aur wafaqi khidmaat talash karein."
+  },
+  "Explore by district": {
+    "ur": "ضلع کے مطابق دیکھیں",
+    "roman": "Zila ke mutabiq dekhein"
+  },
+  "A SHORTER PATH": {
+    "ur": "ایک آسان راستہ",
+    "roman": "Aik aasaan rasta"
+  },
+  "Find it. Understand it. Get started.": {
+    "ur": "تلاش کریں، سمجھیں اور آغاز کریں۔",
+    "roman": "Talash karein, samjhein aur aaghaz karein."
+  },
+  "Choose your area": {
+    "ur": "اپنا علاقہ منتخب کریں",
+    "roman": "Apna ilaqa muntakhib karein"
+  },
+  "Select a province and district to bring relevant resources into focus.": {
+    "ur": "متعلقہ وسائل کے لیے صوبہ اور ضلع منتخب کریں۔",
+    "roman": "Mutaliqa wasail ke liye sooba aur zila muntakhib karein."
+  },
+  "Find your service": {
+    "ur": "اپنی خدمت تلاش کریں",
+    "roman": "Apni khidmat talash karein"
+  },
+  "Search by task, browse a category, or discover an official mobile app.": {
+    "ur": "کام، شعبے یا سرکاری ایپ کے مطابق تلاش کریں۔",
+    "roman": "Kaam, shobay ya sarkari app ke mutabiq talash karein."
+  },
+  "Continue with confidence": {
+    "ur": "اعتماد کے ساتھ آگے بڑھیں",
+    "roman": "Aitemad ke saath aagay barhein"
+  },
+  "See the destination and open the official website to take your next step.": {
+    "ur": "اگلا قدم اٹھانے کے لیے سرکاری ویب سائٹ کھولیں۔",
+    "roman": "Agla qadam uthanay ke liye sarkari website kholein."
+  },
+  "LESS SEARCHING. MORE DOING.": {
+    "ur": "کم تلاش، زیادہ کام۔",
+    "roman": "Kam talash, zyada kaam."
+  },
+  "Your next step starts here.": {
+    "ur": "آپ کا اگلا قدم یہاں سے شروع ہوتا ہے۔",
+    "roman": "Aap ka agla qadam yahan se shuru hota hai."
+  },
+  "Explore the directory": {
+    "ur": "ڈائریکٹری دیکھیں",
+    "roman": "Directory dekhein"
+  },
+  "Public services. A clearer path.": {
+    "ur": "سرکاری خدمات، آسان راستہ۔",
+    "roman": "Sarkari khidmaat, aasaan rasta."
+  },
+  "Explore directory": {
+    "ur": "ڈائریکٹری دیکھیں",
+    "roman": "Directory dekhein"
+  },
+  "Your saved links": {
+    "ur": "آپ کے محفوظ لنکس",
+    "roman": "Aap ke mehfooz links"
+  },
+  "About & sources": {
+    "ur": "تعارف اور ذرائع",
+    "roman": "Taaruf aur zaraye"
+  },
+  "Independent directory. Not affiliated with the Government of Pakistan.": {
+    "ur": "یہ آزاد ڈائریکٹری ہے، حکومت پاکستان سے منسلک نہیں۔",
+    "roman": "Yeh azad directory hai, Hukoomat-e-Pakistan se munsalik nahi."
+  },
+  "Applications and payments take place on official websites.": {
+    "ur": "درخواستیں اور ادائیگیاں سرکاری ویب سائٹس پر ہوتی ہیں۔",
+    "roman": "Darkhwastein aur adaigiyan sarkari websites par hoti hain."
+  },
+  "THE PUBLIC SERVICE DIRECTORY": {
+    "ur": "سرکاری خدمات کی ڈائریکٹری",
+    "roman": "Sarkari khidmaat ki directory"
+  },
+  "Your useful little collection.": {
+    "ur": "آپ کے محفوظ وسائل۔",
+    "roman": "Aap ke mehfooz wasail."
+  },
+  "Find your way forward.": {
+    "ur": "اپنے کام کا راستہ تلاش کریں۔",
+    "roman": "Apne kaam ka rasta talash karein."
+  },
+  "POPULAR SEARCHES": {
+    "ur": "مقبول تلاش",
+    "roman": "Maqbool talash"
+  },
+  "Refine your search": {
+    "ur": "اپنی تلاش محدود کریں",
+    "roman": "Apni talash mehdood karein"
+  },
+  "Reset": {
+    "ur": "دوبارہ ترتیب دیں",
+    "roman": "Dobara tarteeb dein"
+  },
+  "Province / territory": {
+    "ur": "صوبہ / علاقہ",
+    "roman": "Sooba / ilaqa"
+  },
+  "All Pakistan": {
+    "ur": "پورا پاکستان",
+    "roman": "Poora Pakistan"
+  },
+  "District": {
+    "ur": "ضلع",
+    "roman": "Zila"
+  },
+  "All listed districts": {
+    "ur": "تمام اضلاع",
+    "roman": "Tamam azla"
+  },
+  "Select a province first": {
+    "ur": "پہلے صوبہ منتخب کریں",
+    "roman": "Pehle sooba muntakhib karein"
+  },
+  "Category": {
+    "ur": "شعبہ",
+    "roman": "Shoba"
+  },
+  "All categories": {
+    "ur": "تمام شعبے",
+    "roman": "Tamam shobay"
+  },
+  "Resource type": {
+    "ur": "وسیلے کی قسم",
+    "roman": "Wasail ki qisam"
+  },
+  "Websites & apps": {
+    "ur": "ویب سائٹس اور ایپس",
+    "roman": "Websites aur apps"
+  },
+  "Websites": {
+    "ur": "ویب سائٹس",
+    "roman": "Websites"
+  },
+  "Mobile apps": {
+    "ur": "موبائل ایپس",
+    "roman": "Mobile apps"
+  },
+  "Only this area's listings": {
+    "ur": "صرف اس علاقے کی فہرستیں",
+    "roman": "Sirf is ilaqay ki fehristein"
+  },
+  "Saved resources": {
+    "ur": "محفوظ وسائل",
+    "roman": "Mehfooz wasail"
+  },
+  "A note on coverage": {
+    "ur": "علاقائی معلومات",
+    "roman": "Ilaqai maloomat"
+  },
+  "Search directory": {
+    "ur": "ڈائریکٹری میں تلاش کریں",
+    "roman": "Directory mein talash karein"
+  },
+  "Clear search": {
+    "ur": "تلاش صاف کریں",
+    "roman": "Talash saaf karein"
+  },
+  "resources found": {
+    "ur": "وسائل ملے",
+    "roman": "Wasail milay"
+  },
+  "Best match / directory order": {
+    "ur": "متعلقہ نتائج",
+    "roman": "Mutaliqa nataij"
+  },
+  "Name A–Z": {
+    "ur": "نام کے مطابق",
+    "roman": "Naam ke mutabiq"
+  },
+  "Federal / national listing": {
+    "ur": "وفاقی / قومی فہرست",
+    "roman": "Wafaqi / qaumi fehrist"
+  },
+  "listing": {
+    "ur": "فہرست",
+    "roman": "Fehrist"
+  },
+  "View details": {
+    "ur": "تفصیل دیکھیں",
+    "roman": "Tafseel dekhein"
+  },
+  "Get app links": {
+    "ur": "ایپ کے لنکس",
+    "roman": "App ke links"
+  },
+  "Open website": {
+    "ur": "ویب سائٹ کھولیں",
+    "roman": "Website kholein"
+  },
+  "MOBILE APP": {
+    "ur": "موبائل ایپ",
+    "roman": "Mobile app"
+  },
+  "WEBSITE": {
+    "ur": "ویب سائٹ",
+    "roman": "Website"
+  },
+  "Showing": {
+    "ur": "دکھائے جا رہے ہیں",
+    "roman": "Dikhaye ja rahe hain"
+  },
+  "of": {
+    "ur": "کل",
+    "roman": "Kul"
+  },
+  "← Previous": {
+    "ur": "پچھلا →",
+    "roman": "← Pichla"
+  },
+  "Next →": {
+    "ur": "← اگلا",
+    "roman": "Agla →"
+  },
+  "No matches yet.": {
+    "ur": "کوئی نتیجہ نہیں ملا۔",
+    "roman": "Koi nateeja nahi mila."
+  },
+  "Clear filters": {
+    "ur": "فلٹر صاف کریں",
+    "roman": "Filter saaf karein"
+  },
+  "Loading your directory…": {
+    "ur": "ڈائریکٹری لوڈ ہو رہی ہے…",
+    "roman": "Directory load ho rahi hai…"
+  },
+  "Saved on this browser.": {
+    "ur": "اس براؤزر میں محفوظ ہو گیا۔",
+    "roman": "Is browser mein mehfooz ho gaya."
+  },
+  "Removed from saved links.": {
+    "ur": "محفوظ لنکس سے ہٹا دیا گیا۔",
+    "roman": "Mehfooz links se hata diya gaya."
+  },
+  "Filter link copied.": {
+    "ur": "فلٹر کا لنک کاپی ہو گیا۔",
+    "roman": "Filter ka link copy ho gaya."
+  },
+  "Copy the address from your browser to share these filters.": {
+    "ur": "فلٹر شیئر کرنے کے لیے براؤزر کا پتہ کاپی کریں۔",
+    "roman": "Filter share karne ke liye browser ka pata copy karein."
+  },
+  "Browser storage unavailable. Saved for this visit only.": {
+    "ur": "براؤزر اسٹوریج دستیاب نہیں، صرف اس وزٹ کے لیے محفوظ ہے۔",
+    "roman": "Browser storage dastiyab nahi, sirf is visit ke liye mehfooz hai."
+  },
+  "Static keyword search · No AI or live government data · Confirm details with the department.": {
+    "ur": "محفوظ الفاظ پر تلاش · براہ راست سرکاری ڈیٹا نہیں · محکمے سے تصدیق کریں۔",
+    "roman": "Mehfooz alfaaz par talash · Live sarkari data nahi · Mehkame se tasdeeq karein."
+  },
+  "Back to directory": {
+    "ur": "ڈائریکٹری میں واپس",
+    "roman": "Directory mein wapas"
+  },
+  "Continue to official website": {
+    "ur": "سرکاری ویب سائٹ پر جائیں",
+    "roman": "Sarkari website par jayein"
+  },
+  "Official app download page": {
+    "ur": "سرکاری ایپ ڈاؤن لوڈ صفحہ",
+    "roman": "Sarkari app download safha"
+  },
+  "Before you continue": {
+    "ur": "آگے بڑھنے سے پہلے",
+    "roman": "Aagay barhnay se pehle"
+  },
+  "Print this guide": {
+    "ur": "یہ رہنمائی پرنٹ کریں",
+    "roman": "Yeh rehnumai print karein"
+  },
+  "Your next steps": {
+    "ur": "آپ کے اگلے اقدامات",
+    "roman": "Aap ke aglay iqdamat"
+  },
+  "Related resources": {
+    "ur": "متعلقہ وسائل",
+    "roman": "Mutaliqa wasail"
+  },
+  "DESTINATION & SOURCES": {
+    "ur": "ویب سائٹ اور ذرائع",
+    "roman": "Website aur zaraye"
+  },
+  "Know where you’re going.": {
+    "ur": "اپنی منزل کو جانیں۔",
+    "roman": "Apni manzil ko janein."
+  },
+  "Editorial status": {
+    "ur": "نظرثانی کی حالت",
+    "roman": "Nazar-e-sani ki halat"
+  },
+  "Source reviewed": {
+    "ur": "ذریعے کا جائزہ",
+    "roman": "Zariye ka jaiza"
+  },
+  "Not individually reviewed": {
+    "ur": "انفرادی جائزہ باقی ہے",
+    "roman": "Infiradi jaiza baqi hai"
+  },
+  "Availability": {
+    "ur": "دستیابی",
+    "roman": "Dastiyabi"
+  },
+  "Not monitored live": {
+    "ur": "براہ راست نگرانی نہیں",
+    "roman": "Live nigrani nahi"
+  },
+  "Location classification": {
+    "ur": "علاقائی درجہ بندی",
+    "roman": "Ilaqai darja bandi"
+  },
+  "Directory grouping; service eligibility not verified": {
+    "ur": "ڈائریکٹری کی درجہ بندی؛ اہلیت کی تصدیق باقی ہے",
+    "roman": "Directory ki darja bandi; ahliat ki tasdeeq baqi hai"
+  },
+  "Directory discovery": {
+    "ur": "فہرست کا ذریعہ",
+    "roman": "Fehrist ka zariya"
+  },
+  "Ask Pakistan directory ↗": {
+    "ur": "آسک پاکستان ڈائریکٹری ↗",
+    "roman": "Ask Pakistan directory ↗"
+  },
+  "How to suggest a correction →": {
+    "ur": "تصحیح کیسے تجویز کریں ←",
+    "roman": "Durusti kaise tajweez karein →"
+  },
+  "A CLEARER WAY TO PUBLIC SERVICES": {
+    "ur": "سرکاری خدمات کا آسان راستہ",
+    "roman": "Sarkari khidmaat ka aasaan rasta"
+  },
+  "One starting point.": {
+    "ur": "ایک نقطۂ آغاز۔",
+    "roman": "Aik nuqta-e-aaghaz."
+  },
+  "Many possibilities.": {
+    "ur": "بے شمار امکانات۔",
+    "roman": "Be-shumar imkanat."
+  },
+  "How this directory works": {
+    "ur": "یہ ڈائریکٹری کیسے کام کرتی ہے",
+    "roman": "Yeh directory kaise kaam karti hai"
+  },
+  "Coverage is growing": {
+    "ur": "مزید علاقے شامل ہو رہے ہیں",
+    "roman": "Mazeed ilaqay shamil ho rahe hain"
+  },
+  "Sources and editorial status": {
+    "ur": "ذرائع اور نظرثانی",
+    "roman": "Zaraye aur nazar-e-sani"
+  },
+  "Privacy": {
+    "ur": "رازداری",
+    "roman": "Raazdari"
+  },
+  "Corrections and new listings": {
+    "ur": "تصحیحات اور نئی فہرستیں",
+    "roman": "Durustiyan aur nayi fehristein"
+  },
+  "Independent, always clear": {
+    "ur": "آزاد اور واضح",
+    "roman": "Azad aur wazeh"
+  },
+  "Snapshot & district notes": {
+    "ur": "ڈیٹا اور اضلاع کے نوٹس",
+    "roman": "Data aur azla ke notes"
+  },
+  "Light": {
+    "ur": "روشن",
+    "roman": "Roshan"
+  },
+  "Dark": {
+    "ur": "تاریک",
+    "roman": "Tareek"
+  },
+  "System": {
+    "ur": "سسٹم",
+    "roman": "System"
+  },
+  "CNIC / identity card": {
+    "ur": "شناختی کارڈ",
+    "roman": "Shanakhti card"
+  },
+  "Electricity bill": {
+    "ur": "بجلی کا بل",
+    "roman": "Bijli ka bill"
+  },
+  "Passport renewal": {
+    "ur": "پاسپورٹ کی تجدید",
+    "roman": "Passport ki tajdeed"
+  },
+  "Land records": {
+    "ur": "زمین کا ریکارڈ",
+    "roman": "Zameen ka record"
+  },
+  "Scholarships": {
+    "ur": "وظائف",
+    "roman": "Wazaif"
+  },
+  "Vehicle registration": {
+    "ur": "گاڑی کی رجسٹریشن",
+    "roman": "Gari ki registration"
+  },
+  "Police & complaints": {
+    "ur": "پولیس اور شکایات",
+    "roman": "Police aur shikayat"
+  },
+  "No district website recorded yet.": {
+    "ur": "اس ضلع کی الگ ویب سائٹ ابھی درج نہیں۔",
+    "roman": "Is zila ki alag website abhi darj nahi."
+  },
+  "Local listings first": {
+    "ur": "پہلے مقامی فہرستیں",
+    "roman": "Pehle maqami fehristein"
+  },
+  "District reference set. Regional and federal resources remain available unless local-only is selected.": {
+    "ur": "اضلاع کی حوالہ فہرست۔ مقامی فلٹر کے بغیر صوبائی اور وفاقی وسائل بھی نظر آئیں گے۔",
+    "roman": "Azla ki hawala fehrist. Maqami filter ke baghair soobai aur wafaqi wasail bhi nazar aayen ge."
+  },
+  "Pakistan flag watermark": {
+    "ur": "پاکستانی پرچم کا ہلکا پس منظر",
+    "roman": "Pakistani parcham ka halka pas-e-manzar"
+  },
+  "A general preparation checklist—not an official document requirement list.": {
+    "ur": "یہ عمومی تیاری کی فہرست ہے، سرکاری دستاویزات کی لازمی فہرست نہیں۔",
+    "roman": "Yeh aam tayari ki fehrist hai, sarkari documents ki lazmi fehrist nahi."
+  },
+  "Check eligibility and service coverage on the official website.": {
+    "ur": "سرکاری ویب سائٹ پر اہلیت اور علاقے کی تصدیق کریں۔",
+    "roman": "Sarkari website par ahliat aur ilaqay ki tasdeeq karein."
+  },
+  "Read the current document requirements and fees.": {
+    "ur": "موجودہ دستاویزات اور فیس کی معلومات پڑھیں۔",
+    "roman": "Maujooda documents aur fees ki maloomat parhein."
+  },
+  "Confirm the official website address before entering personal information.": {
+    "ur": "ذاتی معلومات درج کرنے سے پہلے سرکاری ویب سائٹ کا پتہ چیک کریں۔",
+    "roman": "Zati maloomat denay se pehle sarkari website ka pata check karein."
+  },
+  "Save your application reference after submitting.": {
+    "ur": "درخواست جمع کرنے کے بعد حوالہ نمبر محفوظ کریں۔",
+    "roman": "Darkhwast jama karne ke baad hawala number mehfooz karein."
+  },
+  "Open the official department website using the link above.": {
+    "ur": "اوپر دیے گئے لنک سے محکمے کی سرکاری ویب سائٹ کھولیں۔",
+    "roman": "Upar diye gaye link se mehkame ki sarkari website kholein."
+  },
+  "Choose the service you need and check its current instructions.": {
+    "ur": "اپنی مطلوبہ خدمت منتخب کریں اور موجودہ ہدایات پڑھیں۔",
+    "roman": "Apni matlooba khidmat muntakhib karein aur maujooda hidayat parhein."
+  },
+  "Confirm whether the process is online, appointment-based, or requires a visit.": {
+    "ur": "تصدیق کریں کہ کام آن لائن ہوگا، وقت لینا ہوگا یا دفتر جانا ہوگا۔",
+    "roman": "Tasdeeq karein ke kaam online hoga, waqt lena hoga ya daftar jana hoga."
+  },
+  "Fees, eligibility, required documents and processing times are not reproduced here because they require service-specific editorial verification.": {
+    "ur": "فیس، اہلیت، دستاویزات اور مدت کی درست معلومات متعلقہ محکمے سے حاصل کریں۔",
+    "roman": "Fees, ahliat, documents aur muddat ki durust maloomat mutaliqa mehkame se hasil karein."
+  },
+  "This directory does not process applications, collect identity documents, or accept government payments.": {
+    "ur": "یہ ڈائریکٹری درخواستیں، شناختی دستاویزات یا سرکاری ادائیگیاں وصول نہیں کرتی۔",
+    "roman": "Yeh directory darkhwastein, shanakhti documents ya sarkari adaigiyan wasool nahi karti."
+  },
+  "Save a resource using its bookmark button, or broaden your filters.": {
+    "ur": "بک مارک بٹن سے وسیلہ محفوظ کریں یا فلٹر تبدیل کریں۔",
+    "roman": "Bookmark button se waseela mehfooz karein ya filter tabdeel karein."
+  },
+  "Try one of the keyword suggestions above, or include provincial and nationwide resources. Search uses the saved directory data only.": {
+    "ur": "اوپر تجویز کردہ الفاظ آزمائیں یا صوبائی اور قومی فہرستیں شامل کریں۔ تلاش صرف محفوظ ڈیٹا میں ہوتی ہے۔",
+    "roman": "Upar tajweez karda alfaaz azmayein ya soobai aur qaumi fehristein shamil karein. Talash sirf mehfooz data mein hoti hai."
+  },
+  "“Punjab-wide” resources remain visible when you select Lahore. Local-only mode excludes broader coverage.": {
+    "ur": "لاہور منتخب کرنے پر پنجاب اور قومی فہرستیں بھی نظر آئیں گی۔ صرف مقامی فلٹر انہیں ہٹا دے گا۔",
+    "roman": "Lahore muntakhib karne par Punjab aur qaumi fehristein bhi nazar aayengi. Sirf maqami filter inhein hata dega."
+  },
+  "Pakistan": {
+    "ur": "پاکستان",
+    "roman": "Pakistan"
+  },
+  "Punjab": {
+    "ur": "پنجاب",
+    "roman": "Punjab"
+  },
+  "Sindh": {
+    "ur": "سندھ",
+    "roman": "Sindh"
+  },
+  "Khyber Pakhtunkhwa": {
+    "ur": "خیبر پختونخوا",
+    "roman": "Khyber Pakhtunkhwa"
+  },
+  "Balochistan": {
+    "ur": "بلوچستان",
+    "roman": "Balochistan"
+  },
+  "Islamabad Capital Territory": {
+    "ur": "اسلام آباد",
+    "roman": "Islamabad Capital Territory"
+  },
+  "Azad Jammu & Kashmir": {
+    "ur": "آزاد جموں و کشمیر",
+    "roman": "Azad Jammu & Kashmir"
+  },
+  "Gilgit-Baltistan": {
+    "ur": "گلگت بلتستان",
+    "roman": "Gilgit-Baltistan"
+  },
+  "Attock": {
+    "ur": "اٹک",
+    "roman": "Attock"
+  },
+  "Bahawalnagar": {
+    "ur": "بہاولنگر",
+    "roman": "Bahawalnagar"
+  },
+  "Bahawalpur": {
+    "ur": "بہاولپور",
+    "roman": "Bahawalpur"
+  },
+  "Bhakkar": {
+    "ur": "بھکر",
+    "roman": "Bhakkar"
+  },
+  "Chakwal": {
+    "ur": "چکوال",
+    "roman": "Chakwal"
+  },
+  "Chiniot": {
+    "ur": "چنیوٹ",
+    "roman": "Chiniot"
+  },
+  "Dera Ghazi Khan": {
+    "ur": "ڈیرہ غازی خان",
+    "roman": "Dera Ghazi Khan"
+  },
+  "Faisalabad": {
+    "ur": "فیصل آباد",
+    "roman": "Faisalabad"
+  },
+  "Gujranwala": {
+    "ur": "گوجرانوالہ",
+    "roman": "Gujranwala"
+  },
+  "Gujrat": {
+    "ur": "گجرات",
+    "roman": "Gujrat"
+  },
+  "Hafizabad": {
+    "ur": "حافظ آباد",
+    "roman": "Hafizabad"
+  },
+  "Jhang": {
+    "ur": "جھنگ",
+    "roman": "Jhang"
+  },
+  "Jhelum": {
+    "ur": "جہلم",
+    "roman": "Jhelum"
+  },
+  "Kasur": {
+    "ur": "قصور",
+    "roman": "Kasur"
+  },
+  "Khanewal": {
+    "ur": "خانیوال",
+    "roman": "Khanewal"
+  },
+  "Khushab": {
+    "ur": "خوشاب",
+    "roman": "Khushab"
+  },
+  "Kot Addu": {
+    "ur": "کوٹ ادو",
+    "roman": "Kot Addu"
+  },
+  "Lahore": {
+    "ur": "لاہور",
+    "roman": "Lahore"
+  },
+  "Layyah": {
+    "ur": "لیہ",
+    "roman": "Layyah"
+  },
+  "Lodhran": {
+    "ur": "لودھراں",
+    "roman": "Lodhran"
+  },
+  "Mandi Bahauddin": {
+    "ur": "منڈی بہاؤالدین",
+    "roman": "Mandi Bahauddin"
+  },
+  "Mianwali": {
+    "ur": "میانوالی",
+    "roman": "Mianwali"
+  },
+  "Multan": {
+    "ur": "ملتان",
+    "roman": "Multan"
+  },
+  "Murree": {
+    "ur": "مری",
+    "roman": "Murree"
+  },
+  "Muzaffargarh": {
+    "ur": "مظفر گڑھ",
+    "roman": "Muzaffargarh"
+  },
+  "Nankana Sahib": {
+    "ur": "ننکانہ صاحب",
+    "roman": "Nankana Sahib"
+  },
+  "Narowal": {
+    "ur": "نارووال",
+    "roman": "Narowal"
+  },
+  "Okara": {
+    "ur": "اوکاڑہ",
+    "roman": "Okara"
+  },
+  "Pakpattan": {
+    "ur": "پاکپتن",
+    "roman": "Pakpattan"
+  },
+  "Rahim Yar Khan": {
+    "ur": "رحیم یار خان",
+    "roman": "Rahim Yar Khan"
+  },
+  "Rajanpur": {
+    "ur": "راجن پور",
+    "roman": "Rajanpur"
+  },
+  "Rawalpindi": {
+    "ur": "راولپنڈی",
+    "roman": "Rawalpindi"
+  },
+  "Sahiwal": {
+    "ur": "ساہیوال",
+    "roman": "Sahiwal"
+  },
+  "Sargodha": {
+    "ur": "سرگودھا",
+    "roman": "Sargodha"
+  },
+  "Sheikhupura": {
+    "ur": "شیخوپورہ",
+    "roman": "Sheikhupura"
+  },
+  "Sialkot": {
+    "ur": "سیالکوٹ",
+    "roman": "Sialkot"
+  },
+  "Talagang": {
+    "ur": "تلہ گنگ",
+    "roman": "Talagang"
+  },
+  "Taunsa": {
+    "ur": "تونسہ",
+    "roman": "Taunsa"
+  },
+  "Toba Tek Singh": {
+    "ur": "ٹوبہ ٹیک سنگھ",
+    "roman": "Toba Tek Singh"
+  },
+  "Vehari": {
+    "ur": "وہاڑی",
+    "roman": "Vehari"
+  },
+  "Wazirabad": {
+    "ur": "وزیر آباد",
+    "roman": "Wazirabad"
+  },
+  "Badin": {
+    "ur": "بدین",
+    "roman": "Badin"
+  },
+  "Dadu": {
+    "ur": "دادو",
+    "roman": "Dadu"
+  },
+  "Ghotki": {
+    "ur": "گھوٹکی",
+    "roman": "Ghotki"
+  },
+  "Hyderabad": {
+    "ur": "حیدرآباد",
+    "roman": "Hyderabad"
+  },
+  "Jacobabad": {
+    "ur": "جیکب آباد",
+    "roman": "Jacobabad"
+  },
+  "Jamshoro": {
+    "ur": "جامشورو",
+    "roman": "Jamshoro"
+  },
+  "Karachi Central": {
+    "ur": "کراچی وسطی",
+    "roman": "Karachi Central"
+  },
+  "Karachi East": {
+    "ur": "کراچی شرقی",
+    "roman": "Karachi East"
+  },
+  "Karachi South": {
+    "ur": "کراچی جنوبی",
+    "roman": "Karachi South"
+  },
+  "Karachi West": {
+    "ur": "کراچی غربی",
+    "roman": "Karachi West"
+  },
+  "Keamari": {
+    "ur": "کیماڑی",
+    "roman": "Keamari"
+  },
+  "Korangi": {
+    "ur": "کورنگی",
+    "roman": "Korangi"
+  },
+  "Malir": {
+    "ur": "ملیر",
+    "roman": "Malir"
+  },
+  "Kashmore": {
+    "ur": "کشمور",
+    "roman": "Kashmore"
+  },
+  "Khairpur": {
+    "ur": "خیرپور",
+    "roman": "Khairpur"
+  },
+  "Larkana": {
+    "ur": "لاڑکانہ",
+    "roman": "Larkana"
+  },
+  "Matiari": {
+    "ur": "مٹیاری",
+    "roman": "Matiari"
+  },
+  "Mirpur Khas": {
+    "ur": "میرپور خاص",
+    "roman": "Mirpur Khas"
+  },
+  "Naushahro Feroze": {
+    "ur": "نوشہرو فیروز",
+    "roman": "Naushahro Feroze"
+  },
+  "Qambar Shahdadkot": {
+    "ur": "قمبر شہدادکوٹ",
+    "roman": "Qambar Shahdadkot"
+  },
+  "Sanghar": {
+    "ur": "سانگھڑ",
+    "roman": "Sanghar"
+  },
+  "Shaheed Benazirabad": {
+    "ur": "شہید بینظیر آباد",
+    "roman": "Shaheed Benazirabad"
+  },
+  "Shikarpur": {
+    "ur": "شکارپور",
+    "roman": "Shikarpur"
+  },
+  "Sujawal": {
+    "ur": "سجاول",
+    "roman": "Sujawal"
+  },
+  "Sukkur": {
+    "ur": "سکھر",
+    "roman": "Sukkur"
+  },
+  "Tando Allahyar": {
+    "ur": "ٹنڈو الہ یار",
+    "roman": "Tando Allahyar"
+  },
+  "Tando Muhammad Khan": {
+    "ur": "ٹنڈو محمد خان",
+    "roman": "Tando Muhammad Khan"
+  },
+  "Tharparkar": {
+    "ur": "تھرپارکر",
+    "roman": "Tharparkar"
+  },
+  "Thatta": {
+    "ur": "ٹھٹھہ",
+    "roman": "Thatta"
+  },
+  "Umerkot": {
+    "ur": "عمرکوٹ",
+    "roman": "Umerkot"
+  },
+  "Abbottabad": {
+    "ur": "ایبٹ آباد",
+    "roman": "Abbottabad"
+  },
+  "Allai": {
+    "ur": "الائی",
+    "roman": "Allai"
+  },
+  "Bajaur": {
+    "ur": "باجوڑ",
+    "roman": "Bajaur"
+  },
+  "Bannu": {
+    "ur": "بنوں",
+    "roman": "Bannu"
+  },
+  "Battagram": {
+    "ur": "بٹگرام",
+    "roman": "Battagram"
+  },
+  "Buner": {
+    "ur": "بونیر",
+    "roman": "Buner"
+  },
+  "Central Dir": {
+    "ur": "وسطی دیر",
+    "roman": "Central Dir"
+  },
+  "Charsadda": {
+    "ur": "چارسدہ",
+    "roman": "Charsadda"
+  },
+  "Dera Ismail Khan": {
+    "ur": "ڈیرہ اسماعیل خان",
+    "roman": "Dera Ismail Khan"
+  },
+  "Hangu": {
+    "ur": "ہنگو",
+    "roman": "Hangu"
+  },
+  "Haripur": {
+    "ur": "ہری پور",
+    "roman": "Haripur"
+  },
+  "Karak": {
+    "ur": "کرک",
+    "roman": "Karak"
+  },
+  "Khyber": {
+    "ur": "خیبر",
+    "roman": "Khyber"
+  },
+  "Kohat": {
+    "ur": "کوہاٹ",
+    "roman": "Kohat"
+  },
+  "Kolai-Palas Kohistan": {
+    "ur": "کولئی پالس کوہستان",
+    "roman": "Kolai-Palas Kohistan"
+  },
+  "Kurram": {
+    "ur": "کرم",
+    "roman": "Kurram"
+  },
+  "Lakki Marwat": {
+    "ur": "لکی مروت",
+    "roman": "Lakki Marwat"
+  },
+  "Lower Chitral": {
+    "ur": "لوئر چترال",
+    "roman": "Lower Chitral"
+  },
+  "Lower Dir": {
+    "ur": "لوئر دیر",
+    "roman": "Lower Dir"
+  },
+  "Lower Kohistan": {
+    "ur": "لوئر کوہستان",
+    "roman": "Lower Kohistan"
+  },
+  "Lower South Waziristan": {
+    "ur": "لوئر جنوبی وزیرستان",
+    "roman": "Lower South Waziristan"
+  },
+  "Malakand": {
+    "ur": "مالاکنڈ",
+    "roman": "Malakand"
+  },
+  "Mansehra": {
+    "ur": "مانسہرہ",
+    "roman": "Mansehra"
+  },
+  "Mardan": {
+    "ur": "مردان",
+    "roman": "Mardan"
+  },
+  "Mohmand": {
+    "ur": "مہمند",
+    "roman": "Mohmand"
+  },
+  "North Waziristan": {
+    "ur": "شمالی وزیرستان",
+    "roman": "North Waziristan"
+  },
+  "Nowshera": {
+    "ur": "نوشہرہ",
+    "roman": "Nowshera"
+  },
+  "Orakzai": {
+    "ur": "اورکزئی",
+    "roman": "Orakzai"
+  },
+  "Paharpur": {
+    "ur": "پہاڑپور",
+    "roman": "Paharpur"
+  },
+  "Peshawar": {
+    "ur": "پشاور",
+    "roman": "Peshawar"
+  },
+  "Shangla": {
+    "ur": "شانگلہ",
+    "roman": "Shangla"
+  },
+  "Swabi": {
+    "ur": "صوابی",
+    "roman": "Swabi"
+  },
+  "Swat": {
+    "ur": "سوات",
+    "roman": "Swat"
+  },
+  "Bar Swat": {
+    "ur": "بر سوات",
+    "roman": "Bar Swat"
+  },
+  "Tank": {
+    "ur": "ٹانک",
+    "roman": "Tank"
+  },
+  "Torghar": {
+    "ur": "تورغر",
+    "roman": "Torghar"
+  },
+  "Upper Chitral": {
+    "ur": "اپر چترال",
+    "roman": "Upper Chitral"
+  },
+  "Upper Dir": {
+    "ur": "اپر دیر",
+    "roman": "Upper Dir"
+  },
+  "Upper Kohistan": {
+    "ur": "اپر کوہستان",
+    "roman": "Upper Kohistan"
+  },
+  "Upper South Waziristan": {
+    "ur": "اپر جنوبی وزیرستان",
+    "roman": "Upper South Waziristan"
+  },
+  "Awaran": {
+    "ur": "آواران",
+    "roman": "Awaran"
+  },
+  "Barkhan": {
+    "ur": "بارکھان",
+    "roman": "Barkhan"
+  },
+  "Chagai": {
+    "ur": "چاغی",
+    "roman": "Chagai"
+  },
+  "Chaman": {
+    "ur": "چمن",
+    "roman": "Chaman"
+  },
+  "Dera Bugti": {
+    "ur": "ڈیرہ بگٹی",
+    "roman": "Dera Bugti"
+  },
+  "Duki": {
+    "ur": "دکی",
+    "roman": "Duki"
+  },
+  "Gwadar": {
+    "ur": "گوادر",
+    "roman": "Gwadar"
+  },
+  "Harnai": {
+    "ur": "ہرنائی",
+    "roman": "Harnai"
+  },
+  "Hub": {
+    "ur": "حب",
+    "roman": "Hub"
+  },
+  "Jaffarabad": {
+    "ur": "جعفرآباد",
+    "roman": "Jaffarabad"
+  },
+  "Jhal Magsi": {
+    "ur": "جھل مگسی",
+    "roman": "Jhal Magsi"
+  },
+  "Kachhi": {
+    "ur": "کچھی",
+    "roman": "Kachhi"
+  },
+  "Kalat": {
+    "ur": "قلات",
+    "roman": "Kalat"
+  },
+  "Karezat": {
+    "ur": "کاریزات",
+    "roman": "Karezat"
+  },
+  "Kech": {
+    "ur": "کیچ",
+    "roman": "Kech"
+  },
+  "Kharan": {
+    "ur": "خاران",
+    "roman": "Kharan"
+  },
+  "Khuzdar": {
+    "ur": "خضدار",
+    "roman": "Khuzdar"
+  },
+  "Killa Abdullah": {
+    "ur": "قلعہ عبداللہ",
+    "roman": "Killa Abdullah"
+  },
+  "Killa Saifullah": {
+    "ur": "قلعہ سیف اللہ",
+    "roman": "Killa Saifullah"
+  },
+  "Kohlu": {
+    "ur": "کوہلو",
+    "roman": "Kohlu"
+  },
+  "Lasbela": {
+    "ur": "لسبیلہ",
+    "roman": "Lasbela"
+  },
+  "Loralai": {
+    "ur": "لورالائی",
+    "roman": "Loralai"
+  },
+  "Mastung": {
+    "ur": "مستونگ",
+    "roman": "Mastung"
+  },
+  "Musakhel": {
+    "ur": "موسیٰ خیل",
+    "roman": "Musakhel"
+  },
+  "Nasirabad": {
+    "ur": "نصیر آباد",
+    "roman": "Nasirabad"
+  },
+  "Nushki": {
+    "ur": "نوشکی",
+    "roman": "Nushki"
+  },
+  "Panjgur": {
+    "ur": "پنجگور",
+    "roman": "Panjgur"
+  },
+  "Pishin": {
+    "ur": "پشین",
+    "roman": "Pishin"
+  },
+  "Quetta": {
+    "ur": "کوئٹہ",
+    "roman": "Quetta"
+  },
+  "Sherani": {
+    "ur": "شیرانی",
+    "roman": "Sherani"
+  },
+  "Sibi": {
+    "ur": "سبی",
+    "roman": "Sibi"
+  },
+  "Sohbatpur": {
+    "ur": "صحبت پور",
+    "roman": "Sohbatpur"
+  },
+  "Surab": {
+    "ur": "سوراب",
+    "roman": "Surab"
+  },
+  "Usta Muhammad": {
+    "ur": "اوستہ محمد",
+    "roman": "Usta Muhammad"
+  },
+  "Washuk": {
+    "ur": "واشک",
+    "roman": "Washuk"
+  },
+  "Zhob": {
+    "ur": "ژوب",
+    "roman": "Zhob"
+  },
+  "Ziarat": {
+    "ur": "زیارت",
+    "roman": "Ziarat"
+  },
+  "Bagh": {
+    "ur": "باغ",
+    "roman": "Bagh"
+  },
+  "Bhimber": {
+    "ur": "بھمبر",
+    "roman": "Bhimber"
+  },
+  "Haveli": {
+    "ur": "حویلی",
+    "roman": "Haveli"
+  },
+  "Jhelum Valley": {
+    "ur": "وادی جہلم",
+    "roman": "Jhelum Valley"
+  },
+  "Kotli": {
+    "ur": "کوٹلی",
+    "roman": "Kotli"
+  },
+  "Mirpur": {
+    "ur": "میرپور",
+    "roman": "Mirpur"
+  },
+  "Muzaffarabad": {
+    "ur": "مظفرآباد",
+    "roman": "Muzaffarabad"
+  },
+  "Neelum": {
+    "ur": "نیلم",
+    "roman": "Neelum"
+  },
+  "Poonch": {
+    "ur": "پونچھ",
+    "roman": "Poonch"
+  },
+  "Sudhnuti": {
+    "ur": "سدھنوتی",
+    "roman": "Sudhnuti"
+  },
+  "Astore": {
+    "ur": "استور",
+    "roman": "Astore"
+  },
+  "Darel": {
+    "ur": "داریل",
+    "roman": "Darel"
+  },
+  "Diamir": {
+    "ur": "دیامر",
+    "roman": "Diamir"
+  },
+  "Ghanche": {
+    "ur": "گانچھے",
+    "roman": "Ghanche"
+  },
+  "Ghizer": {
+    "ur": "غذر",
+    "roman": "Ghizer"
+  },
+  "Gilgit": {
+    "ur": "گلگت",
+    "roman": "Gilgit"
+  },
+  "Gupis-Yasin": {
+    "ur": "گوپس یاسین",
+    "roman": "Gupis-Yasin"
+  },
+  "Hunza": {
+    "ur": "ہنزہ",
+    "roman": "Hunza"
+  },
+  "Kharmang": {
+    "ur": "کھرمنگ",
+    "roman": "Kharmang"
+  },
+  "Nagar": {
+    "ur": "نگر",
+    "roman": "Nagar"
+  },
+  "Rondu": {
+    "ur": "روندو",
+    "roman": "Rondu"
+  },
+  "Shigar": {
+    "ur": "شگر",
+    "roman": "Shigar"
+  },
+  "Skardu": {
+    "ur": "سکردو",
+    "roman": "Skardu"
+  },
+  "Tangir": {
+    "ur": "تانگیر",
+    "roman": "Tangir"
+  },
+  "Islamabad": {
+    "ur": "اسلام آباد",
+    "roman": "Islamabad"
+  },
+  "Identity & travel": {
+    "ur": "شناخت اور سفر",
+    "roman": "Shanakht aur safar"
+  },
+  "Transport & vehicles": {
+    "ur": "ٹرانسپورٹ",
+    "roman": "Transport aur gariyan"
+  },
+  "Education & jobs": {
+    "ur": "تعلیم اور روزگار",
+    "roman": "Taleem aur rozgar"
+  },
+  "Tax & business": {
+    "ur": "ٹیکس اور کاروبار",
+    "roman": "Tax aur karobar"
+  },
+  "Land & property": {
+    "ur": "زمین اور جائیداد",
+    "roman": "Zameen aur jaidad"
+  },
+  "Help & complaints": {
+    "ur": "مدد اور شکایات",
+    "roman": "Madad aur shikayat"
+  },
+  "Government portals": {
+    "ur": "سرکاری پورٹلز",
+    "roman": "Sarkari portals"
+  },
+  "Health & wellbeing": {
+    "ur": "صحت",
+    "roman": "Sehat aur tandurusti"
+  },
+  "Bills & utilities": {
+    "ur": "بل اور سہولیات",
+    "roman": "Bill aur sahooliyat"
+  },
+  "Law & justice": {
+    "ur": "قانون اور انصاف",
+    "roman": "Qanoon aur insaaf"
+  },
+  "Police & safety": {
+    "ur": "پولیس اور حفاظت",
+    "roman": "Police aur hifazat"
+  },
+  "Welfare & support": {
+    "ur": "فلاح و بہبود",
+    "roman": "Falah aur behbood"
+  },
+  "Agriculture & food": {
+    "ur": "زراعت اور خوراک",
+    "roman": "Zaraat aur khuraak"
+  },
+  "Statistics & information": {
+    "ur": "اعداد و شمار",
+    "roman": "Shumariyat aur maloomat"
+  },
+  "Election Commission of Pakistan": {
+    "ur": "الیکشن کمیشن آف پاکستان",
+    "roman": "Election Commission Pakistan"
+  },
+  "Find public information and official service links from Election Commission of Pakistan.": {
+    "ur": "الیکشن کمیشن آف پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Election Commission Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Imported listing; department review pending": {
+    "ur": "فہرست شامل ہے؛ محکمے کی معلومات کا جائزہ باقی ہے۔",
+    "roman": "Fehrist shamil hai; mehkame ki maloomat ka jaiza baqi hai."
+  },
+  "Ministry of Religious Affairs & Interfaith Harmony (Hajj)": {
+    "ur": "وزارت مذہبی امور و بین المذاہب ہم آہنگی (حج)",
+    "roman": "Wazarat-e-mazhabi umoor aur bain-ul-mazahib hum aahangi (Hajj)"
+  },
+  "Find public information and official service links from Ministry of Religious Affairs & Interfaith Harmony (Hajj).": {
+    "ur": "وزارت مذہبی امور و بین المذاہب ہم آہنگی (حج) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-mazhabi umoor aur bain-ul-mazahib hum aahangi (Hajj) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Citizen’s Portal": {
+    "ur": "پاکستان سٹیزن پورٹل",
+    "roman": "Pakistan Citizen Portal"
+  },
+  "Prime Minister’s Performance Delivery Unit": {
+    "ur": "وزیر اعظم Performance فراہمی یونٹ",
+    "roman": "Wazeer-e-azam’s Performance Delivery Unit"
+  },
+  "Find official complaint-channel information and mobile app download links.": {
+    "ur": "پاکستان سٹیزن پورٹل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Citizen Portal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Editorial review required": {
+    "ur": "فہرست شامل ہے؛ محکمے کی معلومات کا جائزہ باقی ہے۔",
+    "roman": "Fehrist shamil hai; mehkame ki maloomat ka jaiza baqi hai."
+  },
+  "Pakistan National Portal": {
+    "ur": "پاکستان کا قومی پورٹل",
+    "roman": "Pakistan ka qaumi portal"
+  },
+  "Government of Pakistan": {
+    "ur": "حکومت پاکستان",
+    "roman": "Hukoomat-e-Pakistan"
+  },
+  "Discover federal and provincial government services from the national portal.": {
+    "ur": "پاکستان کا قومی پورٹل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan ka qaumi portal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Accountant General Pakistan Revenues": {
+    "ur": "اکاؤنٹنٹ جنرل پاکستان ریونیو",
+    "roman": "Accountant General Pakistan Revenue"
+  },
+  "Find public information and official service links from Accountant General Pakistan Revenues.": {
+    "ur": "اکاؤنٹنٹ جنرل پاکستان ریونیو کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Accountant General Pakistan Revenue ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Cabinet Division": {
+    "ur": "کابینہ ڈویژن",
+    "roman": "Kabina division"
+  },
+  "Find public information and official service links from Cabinet Division.": {
+    "ur": "کابینہ ڈویژن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Kabina division ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Establishment Division": {
+    "ur": "اسٹیبلشمنٹ ڈویژن",
+    "roman": "Establishment division"
+  },
+  "Find public information and official service links from Establishment Division.": {
+    "ur": "اسٹیبلشمنٹ ڈویژن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Establishment division ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Finance": {
+    "ur": "وزارت خزانہ",
+    "roman": "Wazarat-e-khazana"
+  },
+  "Find public information and official service links from Ministry of Finance.": {
+    "ur": "وزارت خزانہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-khazana ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Assembly of Pakistan": {
+    "ur": "قومی اسمبلی پاکستان",
+    "roman": "Qaumi Assembly Pakistan"
+  },
+  "Find public information and official service links from National Assembly of Pakistan.": {
+    "ur": "قومی اسمبلی پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Assembly Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Prime Minister's Office": {
+    "ur": "وزیر اعظم کا دفتر",
+    "roman": "Wazeer-e-azam ka daftar"
+  },
+  "Find public information and official service links from Prime Minister's Office.": {
+    "ur": "وزیر اعظم کا دفتر کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazeer-e-azam ka daftar ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Auditor-General of Pakistan": {
+    "ur": "آڈیٹر جنرل پاکستان",
+    "roman": "Auditor General Pakistan"
+  },
+  "Find public information and official service links from Auditor-General of Pakistan.": {
+    "ur": "آڈیٹر جنرل پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Auditor General Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Controller General of Accounts": {
+    "ur": "کنٹرولر جنرل اکاؤنٹس",
+    "roman": "Controller General Accounts"
+  },
+  "Find public information and official service links from Controller General of Accounts.": {
+    "ur": "کنٹرولر جنرل اکاؤنٹس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Controller General Accounts ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Economic Affairs Division": {
+    "ur": "اقتصادی امور ڈویژن",
+    "roman": "Iqtisadi umoor division"
+  },
+  "Find public information and official service links from Economic Affairs Division.": {
+    "ur": "اقتصادی امور ڈویژن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Iqtisadi umoor division ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Climate Change & Environmental Coordination": {
+    "ur": "وزارت موسمیاتی تبدیلی و ماحولیاتی رابطہ کاری",
+    "roman": "Wazarat-e-mausamiyati tabdeeli aur maholiyati rabta kari"
+  },
+  "Find public information and official service links from Ministry of Climate Change & Environmental Coordination.": {
+    "ur": "وزارت موسمیاتی تبدیلی و ماحولیاتی رابطہ کاری کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-mausamiyati tabdeeli aur maholiyati rabta kari ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Defence": {
+    "ur": "وزارت دفاع",
+    "roman": "Wazarat-e-difa"
+  },
+  "Find public information and official service links from Ministry of Defence.": {
+    "ur": "وزارت دفاع کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-difa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Defence Production": {
+    "ur": "وزارت دفاعی پیداوار",
+    "roman": "Wazarat-e-difai paidawar"
+  },
+  "Find public information and official service links from Ministry of Defence Production.": {
+    "ur": "وزارت دفاعی پیداوار کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-difai paidawar ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Housing & Works": {
+    "ur": "وزارت ہاؤسنگ و تعمیرات",
+    "roman": "Wazarat-e-housing aur tameerat"
+  },
+  "Find public information and official service links from Ministry of Housing & Works.": {
+    "ur": "وزارت ہاؤسنگ و تعمیرات کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-housing aur tameerat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Information & Broadcasting": {
+    "ur": "وزارت اطلاعات و نشریات",
+    "roman": "Wazarat-e-ittilaat aur nashriyat"
+  },
+  "Find public information and official service links from Ministry of Information & Broadcasting.": {
+    "ur": "وزارت اطلاعات و نشریات کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-ittilaat aur nashriyat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of IT & Telecommunication": {
+    "ur": "وزارت IT اور ٹیلی کمیونیکیشن",
+    "roman": "Wazarat-e-IT aur Telecommunication"
+  },
+  "Find public information and official service links from Ministry of IT & Telecommunication.": {
+    "ur": "وزارت IT اور ٹیلی کمیونیکیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-IT aur Telecommunication ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Maritime Affairs": {
+    "ur": "وزارت بحری امور",
+    "roman": "Wazarat-e-Maritime Umoor"
+  },
+  "Find public information and official service links from Ministry of Maritime Affairs.": {
+    "ur": "وزارت بحری امور کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Maritime Umoor ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of National Food Security & Research": {
+    "ur": "وزارت قومی خوراک تحفظ اور تحقیق",
+    "roman": "Wazarat-e-Qaumi Khuraak Tahaffuz aur Tehqeeq"
+  },
+  "Find public information and official service links from Ministry of National Food Security & Research.": {
+    "ur": "وزارت قومی خوراک تحفظ اور تحقیق کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Qaumi Khuraak Tahaffuz aur Tehqeeq ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Privatisation": {
+    "ur": "وزارت نجکاری",
+    "roman": "Wazarat-e-Privatisation"
+  },
+  "Find public information and official service links from Ministry of Privatisation.": {
+    "ur": "وزارت نجکاری کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Privatisation ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Water Resources": {
+    "ur": "وزارت پانی وسائل",
+    "roman": "Wazarat-e-Pani Resources"
+  },
+  "Find public information and official service links from Ministry of Water Resources.": {
+    "ur": "وزارت پانی وسائل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Pani Resources ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Information Technology Board": {
+    "ur": "قومی انفارمیشن ٹیکنالوجی بورڈ",
+    "roman": "Qaumi Information Technology Board"
+  },
+  "Find public information and official service links from National Information Technology Board.": {
+    "ur": "قومی انفارمیشن ٹیکنالوجی بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Information Technology Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "President of Pakistan (Aiwan-e-Sadr)": {
+    "ur": "صدر پاکستان (ایوان صدر)",
+    "roman": "Sadar ka Pakistan (Aiwan-e-Sadr)"
+  },
+  "Find public information and official service links from President of Pakistan (Aiwan-e-Sadr).": {
+    "ur": "صدر پاکستان (ایوان صدر) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sadar ka Pakistan (Aiwan-e-Sadr) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Press Information Department": {
+    "ur": "پریس اطلاعات محکمہ",
+    "roman": "Press Ittilaat Mehkama"
+  },
+  "Find public information and official service links from Press Information Department.": {
+    "ur": "پریس اطلاعات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Press Ittilaat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Radio Pakistan": {
+    "ur": "ریڈیو پاکستان",
+    "roman": "Radio Pakistan"
+  },
+  "Find public information and official service links from Radio Pakistan.": {
+    "ur": "ریڈیو پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Radio Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Senate of Pakistan": {
+    "ur": "سینیٹ پاکستان",
+    "roman": "Senate ka Pakistan"
+  },
+  "Find public information and official service links from Senate of Pakistan.": {
+    "ur": "سینیٹ پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Senate ka Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Passport services": {
+    "ur": "پاسپورٹ کی خدمات",
+    "roman": "Passport ki khidmaat"
+  },
+  "Directorate General of Immigration & Passports": {
+    "ur": "ڈائریکٹوریٹ جنرل کا Immigration اور Passports",
+    "roman": "Directorate General ka Immigration aur Passports"
+  },
+  "Explore passport information, offices and official application channels.": {
+    "ur": "پاسپورٹ کی خدمات کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Passport ki khidmaat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "NADRA": {
+    "ur": "نادرا",
+    "roman": "NADRA"
+  },
+  "National Database & Registration Authority": {
+    "ur": "قومی ڈیٹا بیس اور رجسٹریشن اتھارٹی",
+    "roman": "Qaumi Database aur Registration Authority"
+  },
+  "Find identity registration information and official digital identity services.": {
+    "ur": "نادرا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "NADRA ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Central Directorate of National Savings": {
+    "ur": "مرکزی ڈائریکٹوریٹ کا قومی بچت",
+    "roman": "Central Directorate ka Qaumi Savings"
+  },
+  "Find public information and official service links from Central Directorate of National Savings.": {
+    "ur": "مرکزی ڈائریکٹوریٹ کا قومی بچت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Central Directorate ka Qaumi Savings ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "FBR": {
+    "ur": "ایف بی آر",
+    "roman": "FBR"
+  },
+  "Federal Board of Revenue": {
+    "ur": "وفاقی بورڈ کا محصولات",
+    "roman": "Wafaqi Board ka Mahsoolat"
+  },
+  "Find taxpayer information, notices and official tax services.": {
+    "ur": "ایف بی آر کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "FBR ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Single Window": {
+    "ur": "پاکستان سنگل ونڈو",
+    "roman": "Pakistan Single Window"
+  },
+  "Find public information and official service links from Pakistan Single Window.": {
+    "ur": "پاکستان سنگل ونڈو کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Single Window ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Small & Medium Enterprises Development Authority": {
+    "ur": "چھوٹے اور درمیانے کاروباری ادارے ترقیات اتھارٹی",
+    "roman": "Small aur Medium Enterprises Taraqqiyat Authority"
+  },
+  "Find public information and official service links from Small & Medium Enterprises Development Authority.": {
+    "ur": "چھوٹے اور درمیانے کاروباری ادارے ترقیات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Small aur Medium Enterprises Taraqqiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "WeBOC (Web-Based One Customs), Pakistan Customs": {
+    "ur": "WeBOC (ویب پر مبنی ایک کسٹمز), پاکستان کسٹمز",
+    "roman": "WeBOC (Web-Based One Customs), Pakistan Customs"
+  },
+  "Find public information and official service links from WeBOC (Web-Based One Customs), Pakistan Customs.": {
+    "ur": "WeBOC (ویب پر مبنی ایک کسٹمز), پاکستان کسٹمز کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "WeBOC (Web-Based One Customs), Pakistan Customs ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Board of Investment": {
+    "ur": "بورڈ کا سرمایہ کاری",
+    "roman": "Board ka Investment"
+  },
+  "Find public information and official service links from Board of Investment.": {
+    "ur": "بورڈ کا سرمایہ کاری کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Board ka Investment ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Industries & Production": {
+    "ur": "وزارت صنعتیں اور پیداوار",
+    "roman": "Wazarat-e-Industries aur Production"
+  },
+  "Find public information and official service links from Ministry of Industries & Production.": {
+    "ur": "وزارت صنعتیں اور پیداوار کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Industries aur Production ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Trade Portal": {
+    "ur": "پاکستان تجارت پورٹل",
+    "roman": "Pakistan Trade Portal"
+  },
+  "Find public information and official service links from Pakistan Trade Portal.": {
+    "ur": "پاکستان تجارت پورٹل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Trade Portal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Trade Development Authority of Pakistan": {
+    "ur": "تجارت ترقیات اتھارٹی پاکستان",
+    "roman": "Trade Taraqqiyat Authority ka Pakistan"
+  },
+  "Find public information and official service links from Trade Development Authority of Pakistan.": {
+    "ur": "تجارت ترقیات اتھارٹی پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Trade Taraqqiyat Authority ka Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Benazir Income Support Programme": {
+    "ur": "بینظیر آمدنی معاونت پروگرام",
+    "roman": "Benazir Income Support Programme"
+  },
+  "Find public information and official service links from Benazir Income Support Programme.": {
+    "ur": "بینظیر آمدنی معاونت پروگرام کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Benazir Income Support Programme ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "BISP 8171 Eligibility Check Portal": {
+    "ur": "BISP 8171 اہلیت جانچ پورٹل",
+    "roman": "BISP 8171 Eligibility Check Portal"
+  },
+  "Find public information and official service links from BISP 8171 Eligibility Check Portal.": {
+    "ur": "BISP 8171 اہلیت جانچ پورٹل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "BISP 8171 Eligibility Check Portal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Employees' Old-Age Benefits Institution": {
+    "ur": "ملازمین' بڑھاپے کی مراعات ادارہ",
+    "roman": "Employees' Burhapay ki maraat Institution"
+  },
+  "Find public information and official service links from Employees' Old-Age Benefits Institution.": {
+    "ur": "ملازمین' بڑھاپے کی مراعات ادارہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Employees' Burhapay ki maraat Institution ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Bait-ul-Mal": {
+    "ur": "پاکستان بیت المال",
+    "roman": "Pakistan Bait-ul-Mal"
+  },
+  "Find public information and official service links from Pakistan Bait-ul-Mal.": {
+    "ur": "پاکستان بیت المال کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Bait-ul-Mal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Social Protection Authority": {
+    "ur": "پنجاب سماجی تحفظ اتھارٹی",
+    "roman": "Punjab Samaji Tahaffuz Authority"
+  },
+  "Find public information and official service links from Punjab Social Protection Authority.": {
+    "ur": "پنجاب سماجی تحفظ اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Samaji Tahaffuz Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Poverty Alleviation & Social Safety Division": {
+    "ur": "غربت خاتمہ اور سماجی حفاظت ڈویژن",
+    "roman": "Poverty Alleviation aur Samaji Safety Division"
+  },
+  "Find public information and official service links from Poverty Alleviation & Social Safety Division.": {
+    "ur": "غربت خاتمہ اور سماجی حفاظت ڈویژن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Poverty Alleviation aur Samaji Safety Division ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Employees Social Security Institution": {
+    "ur": "پنجاب ملازمین سماجی تحفظ ادارہ",
+    "roman": "Punjab Employees Samaji Tahaffuz Institution"
+  },
+  "Find public information and official service links from Punjab Employees Social Security Institution.": {
+    "ur": "پنجاب ملازمین سماجی تحفظ ادارہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Employees Samaji Tahaffuz Institution ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Employees' Social Security Institution": {
+    "ur": "سندھ ملازمین' سماجی تحفظ ادارہ",
+    "roman": "Sindh Employees' Samaji Tahaffuz Institution"
+  },
+  "Find public information and official service links from Sindh Employees' Social Security Institution.": {
+    "ur": "سندھ ملازمین' سماجی تحفظ ادارہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Employees' Samaji Tahaffuz Institution ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Social Protection Authority": {
+    "ur": "سندھ سماجی تحفظ اتھارٹی",
+    "roman": "Sindh Samaji Tahaffuz Authority"
+  },
+  "Find public information and official service links from Sindh Social Protection Authority.": {
+    "ur": "سندھ سماجی تحفظ اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Samaji Tahaffuz Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Workers Welfare Fund": {
+    "ur": "مزدور بہبود فنڈ",
+    "roman": "Workers Behbood Fund"
+  },
+  "Find public information and official service links from Workers Welfare Fund.": {
+    "ur": "مزدور بہبود فنڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Workers Behbood Fund ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Public Service Commission": {
+    "ur": "بلوچستان پبلک سروس کمیشن",
+    "roman": "Balochistan Public Service Commission"
+  },
+  "BPSC": {
+    "ur": "BPSC",
+    "roman": "BPSC"
+  },
+  "Find public service recruitment information.": {
+    "ur": "بلوچستان پبلک سروس کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Public Service Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Federal Board of Intermediate & Secondary Education": {
+    "ur": "وفاقی بورڈ کا انٹرمیڈیٹ اور ثانوی تعلیم",
+    "roman": "Wafaqi Board ka Intermediate aur Sanwi Taleem"
+  },
+  "Find public information and official service links from Federal Board of Intermediate & Secondary Education.": {
+    "ur": "وفاقی بورڈ کا انٹرمیڈیٹ اور ثانوی تعلیم کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Board ka Intermediate aur Sanwi Taleem ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Federal Public Service Commission": {
+    "ur": "وفاقی پبلک سروس کمیشن",
+    "roman": "Wafaqi Public Service Commission"
+  },
+  "FPSC": {
+    "ur": "FPSC",
+    "roman": "FPSC"
+  },
+  "Find federal recruitment notices and examination information.": {
+    "ur": "وفاقی پبلک سروس کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Public Service Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Higher Education Commission": {
+    "ur": "ہائر ایجوکیشن کمیشن",
+    "roman": "Higher Education Commission"
+  },
+  "HEC Pakistan": {
+    "ur": "HEC پاکستان",
+    "roman": "HEC Pakistan"
+  },
+  "Find higher education, scholarship and degree-related information.": {
+    "ur": "ہائر ایجوکیشن کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Higher Education Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "KP Public Service Commission": {
+    "ur": "KP پبلک سروس کمیشن",
+    "roman": "KP Public Service Commission"
+  },
+  "KPPSC": {
+    "ur": "KPPSC",
+    "roman": "KPPSC"
+  },
+  "Explore KP recruitment notices and examinations.": {
+    "ur": "KP پبلک سروس کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "KP Public Service Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Public Service Commission": {
+    "ur": "پنجاب پبلک سروس کمیشن",
+    "roman": "Punjab Public Service Commission"
+  },
+  "PPSC": {
+    "ur": "PPSC",
+    "roman": "PPSC"
+  },
+  "View Punjab recruitment and examination information.": {
+    "ur": "پنجاب پبلک سروس کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Public Service Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Public Service Commission": {
+    "ur": "سندھ پبلک سروس کمیشن",
+    "roman": "Sindh Public Service Commission"
+  },
+  "SPSC": {
+    "ur": "SPSC",
+    "roman": "SPSC"
+  },
+  "Find Sindh public service recruitment and examinations.": {
+    "ur": "سندھ پبلک سروس کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Public Service Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Allama Iqbal Open University": {
+    "ur": "علامہ اقبال اوپن یونیورسٹی",
+    "roman": "Allama Iqbal Open University"
+  },
+  "Find public information and official service links from Allama Iqbal Open University.": {
+    "ur": "علامہ اقبال اوپن یونیورسٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Allama Iqbal Open University ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Government Jobs Portal": {
+    "ur": "بلوچستان حکومت نوکریاں پورٹل",
+    "roman": "Balochistan Hukoomat Naukriyan Portal"
+  },
+  "Find public information and official service links from Balochistan Government Jobs Portal.": {
+    "ur": "بلوچستان حکومت نوکریاں پورٹل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Hukoomat Naukriyan Portal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Federal Education & Professional Training": {
+    "ur": "وزارت وفاقی تعلیم اور پیشہ ورانہ تربیت",
+    "roman": "Wazarat-e-Wafaqi Taleem aur Pesha warana Tarbiyat"
+  },
+  "Find public information and official service links from Ministry of Federal Education & Professional Training.": {
+    "ur": "وزارت وفاقی تعلیم اور پیشہ ورانہ تربیت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Wafaqi Taleem aur Pesha warana Tarbiyat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Vocational & Technical Training Commission": {
+    "ur": "قومی فنی اور تکنیکی تربیت کمیشن",
+    "roman": "Qaumi Fanni aur Takneeki Tarbiyat Commission"
+  },
+  "Find public information and official service links from National Vocational & Technical Training Commission.": {
+    "ur": "قومی فنی اور تکنیکی تربیت کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Fanni aur Takneeki Tarbiyat Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Technical Education & Vocational Training Authority": {
+    "ur": "پنجاب تکنیکی تعلیم اور فنی تربیت اتھارٹی",
+    "roman": "Punjab Takneeki Taleem aur Fanni Tarbiyat Authority"
+  },
+  "Find public information and official service links from Punjab Technical Education & Vocational Training Authority.": {
+    "ur": "پنجاب تکنیکی تعلیم اور فنی تربیت اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Takneeki Taleem aur Fanni Tarbiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Drug Regulatory Authority of Pakistan": {
+    "ur": "ادویات ضابطہ کار اتھارٹی پاکستان",
+    "roman": "Drug Zabta kaar Authority ka Pakistan"
+  },
+  "Find public information and official service links from Drug Regulatory Authority of Pakistan.": {
+    "ur": "ادویات ضابطہ کار اتھارٹی پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Drug Zabta kaar Authority ka Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Federal Directorate of Immunization (EPI)": {
+    "ur": "وفاقی ڈائریکٹوریٹ کا حفاظتی ٹیکے (EPI)",
+    "roman": "Wafaqi Directorate ka Hifazati teekay (EPI)"
+  },
+  "Find public information and official service links from Federal Directorate of Immunization (EPI).": {
+    "ur": "وفاقی ڈائریکٹوریٹ کا حفاظتی ٹیکے (EPI) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Directorate ka Hifazati teekay (EPI) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of National Health Services, Regulations & Coordination": {
+    "ur": "وزارت قومی صحت خدمات, ضوابط اور رابطہ کاری",
+    "roman": "Wazarat-e-Qaumi Sehat Khidmaat, Regulations aur Coordination"
+  },
+  "Find public information and official service links from Ministry of National Health Services, Regulations & Coordination.": {
+    "ur": "وزارت قومی صحت خدمات, ضوابط اور رابطہ کاری کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Qaumi Sehat Khidmaat, Regulations aur Coordination ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Institute of Health": {
+    "ur": "قومی ادارہ کا صحت",
+    "roman": "Qaumi Institute ka Sehat"
+  },
+  "Find public information and official service links from National Institute of Health.": {
+    "ur": "قومی ادارہ کا صحت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Institute ka Sehat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Medical & Dental Council": {
+    "ur": "پاکستان طبی اور ڈینٹل کونسل",
+    "roman": "Pakistan Tibbi aur Dental Council"
+  },
+  "Find public information and official service links from Pakistan Medical & Dental Council.": {
+    "ur": "پاکستان طبی اور ڈینٹل کونسل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Tibbi aur Dental Council ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Faisalabad Electric Supply Company": {
+    "ur": "فیصل آباد بجلی کی تقسیم کار کمپنی",
+    "roman": "Faisalabad Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Faisalabad Electric Supply Company.": {
+    "ur": "فیصل آباد بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Faisalabad Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gujranwala Electric Power Company": {
+    "ur": "گوجرانوالہ بجلی کی تقسیم کار کمپنی",
+    "roman": "Gujranwala Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Gujranwala Electric Power Company.": {
+    "ur": "گوجرانوالہ بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gujranwala Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Hyderabad Electric Supply Company": {
+    "ur": "حیدرآباد بجلی کی تقسیم کار کمپنی",
+    "roman": "Hyderabad Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Hyderabad Electric Supply Company.": {
+    "ur": "حیدرآباد بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Hyderabad Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Islamabad Electric Supply Company": {
+    "ur": "اسلام آباد بجلی کی تقسیم کار کمپنی",
+    "roman": "Islamabad Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Islamabad Electric Supply Company.": {
+    "ur": "اسلام آباد بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Islamabad Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Multan Electric Power Company": {
+    "ur": "ملتان بجلی کی تقسیم کار کمپنی",
+    "roman": "Multan Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Multan Electric Power Company.": {
+    "ur": "ملتان بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Multan Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Railways": {
+    "ur": "پاکستان ریلوے",
+    "roman": "Pakistan Railway"
+  },
+  "Find public information and official service links from Pakistan Railways.": {
+    "ur": "پاکستان ریلوے کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Railway ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Peshawar Electric Supply Company": {
+    "ur": "پشاور بجلی کی تقسیم کار کمپنی",
+    "roman": "Peshawar Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Peshawar Electric Supply Company.": {
+    "ur": "پشاور بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Peshawar Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "PITC Electricity Bill Portal (Power Information Technology Company)": {
+    "ur": "PITC بجلی بل پورٹل (بجلی انفارمیشن ٹیکنالوجی کمپنی)",
+    "roman": "PITC Electricity Bill Portal (Power Information Technology Company)"
+  },
+  "Find public information and official service links from PITC Electricity Bill Portal (Power Information Technology Company).": {
+    "ur": "PITC بجلی بل پورٹل (بجلی انفارمیشن ٹیکنالوجی کمپنی) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "PITC Electricity Bill Portal (Power Information Technology Company) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Quetta Electric Supply Company": {
+    "ur": "کوئٹہ بجلی کی تقسیم کار کمپنی",
+    "roman": "Quetta Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Quetta Electric Supply Company.": {
+    "ur": "کوئٹہ بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Quetta Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sui Northern Gas Pipelines Ltd": {
+    "ur": "سوئی ناردرن گیس پائپ لائنز لمیٹڈ",
+    "roman": "Sui Northern Gas Pipelines Ltd"
+  },
+  "Find public information and official service links from Sui Northern Gas Pipelines Ltd.": {
+    "ur": "سوئی ناردرن گیس پائپ لائنز لمیٹڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sui Northern Gas Pipelines Ltd ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sui Southern Gas Company Ltd": {
+    "ur": "سوئی سدرن گیس کمپنی لمیٹڈ",
+    "roman": "Sui Southern Gas Company Ltd"
+  },
+  "Find public information and official service links from Sui Southern Gas Company Ltd.": {
+    "ur": "سوئی سدرن گیس کمپنی لمیٹڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sui Southern Gas Company Ltd ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sukkur Electric Power Company": {
+    "ur": "سکھر بجلی کی تقسیم کار کمپنی",
+    "roman": "Sukkur Bijli taqseem karne wali company"
+  },
+  "Find public information and official service links from Sukkur Electric Power Company.": {
+    "ur": "سکھر بجلی کی تقسیم کار کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sukkur Bijli taqseem karne wali company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Karachi Water & Sewerage Corporation": {
+    "ur": "کراچی پانی اور سیوریج کارپوریشن",
+    "roman": "Karachi Pani aur Sewerage Corporation"
+  },
+  "Find public information and official service links from Karachi Water & Sewerage Corporation.": {
+    "ur": "کراچی پانی اور سیوریج کارپوریشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Karachi Pani aur Sewerage Corporation ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Post": {
+    "ur": "پاکستان ڈاک",
+    "roman": "Pakistan Daak"
+  },
+  "Find public information and official service links from Pakistan Post.": {
+    "ur": "پاکستان ڈاک کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Daak ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Tribal Areas Electricity Supply Company": {
+    "ur": "قبائلی علاقے بجلی فراہمی کمپنی",
+    "roman": "Tribal Areas Electricity Supply Company"
+  },
+  "Find public information and official service links from Tribal Areas Electricity Supply Company.": {
+    "ur": "قبائلی علاقے بجلی فراہمی کمپنی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Tribal Areas Electricity Supply Company ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "WASA Lahore": {
+    "ur": "WASA لاہور",
+    "roman": "WASA Lahore"
+  },
+  "Find public information and official service links from WASA Lahore.": {
+    "ur": "WASA لاہور کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "WASA Lahore ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Central Power Purchasing Agency": {
+    "ur": "مرکزی بجلی خریداری ایجنسی",
+    "roman": "Central Power Purchasing Agency"
+  },
+  "Find public information and official service links from Central Power Purchasing Agency.": {
+    "ur": "مرکزی بجلی خریداری ایجنسی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Central Power Purchasing Agency ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Energy (Petroleum Division)": {
+    "ur": "وزارت توانائی (پیٹرولیم ڈویژن)",
+    "roman": "Wazarat-e-Tawanai (Petroleum Division)"
+  },
+  "Find public information and official service links from Ministry of Energy (Petroleum Division).": {
+    "ur": "وزارت توانائی (پیٹرولیم ڈویژن) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Tawanai (Petroleum Division) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Energy (Power Division)": {
+    "ur": "وزارت توانائی (بجلی ڈویژن)",
+    "roman": "Wazarat-e-Tawanai (Power Division)"
+  },
+  "Find public information and official service links from Ministry of Energy (Power Division).": {
+    "ur": "وزارت توانائی (بجلی ڈویژن) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Tawanai (Power Division) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Energy Efficiency & Conservation Authority": {
+    "ur": "قومی توانائی بہتر استعمال اور بچت اتھارٹی",
+    "roman": "Qaumi Tawanai Efficiency aur Conservation Authority"
+  },
+  "Find public information and official service links from National Energy Efficiency & Conservation Authority.": {
+    "ur": "قومی توانائی بہتر استعمال اور بچت اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Tawanai Efficiency aur Conservation Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Water & Power Development Authority": {
+    "ur": "پانی اور بجلی ترقیات اتھارٹی",
+    "roman": "Pani aur Power Taraqqiyat Authority"
+  },
+  "Find public information and official service links from Water & Power Development Authority.": {
+    "ur": "پانی اور بجلی ترقیات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pani aur Power Taraqqiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Code": {
+    "ur": "بلوچستان قانون",
+    "roman": "Balochistan Code"
+  },
+  "Find public information and official service links from Balochistan Code.": {
+    "ur": "بلوچستان قانون کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Code ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Code (Federal Laws Database)": {
+    "ur": "پاکستان قانون (وفاقی قوانین ڈیٹا بیس)",
+    "roman": "Pakistan Code (Wafaqi Laws Database)"
+  },
+  "Find public information and official service links from Pakistan Code (Federal Laws Database).": {
+    "ur": "پاکستان قانون (وفاقی قوانین ڈیٹا بیس) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Code (Wafaqi Laws Database) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Laws Online (Punjab Code)": {
+    "ur": "پنجاب قوانین آن لائن (پنجاب قانون)",
+    "roman": "Punjab Laws Online (Punjab Code)"
+  },
+  "Find public information and official service links from Punjab Laws Online (Punjab Code).": {
+    "ur": "پنجاب قوانین آن لائن (پنجاب قانون) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Laws Online (Punjab Code) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Laws (Sindh Code)": {
+    "ur": "سندھ قوانین (سندھ قانون)",
+    "roman": "Sindh Laws (Sindh Code)"
+  },
+  "Find public information and official service links from Sindh Laws (Sindh Code).": {
+    "ur": "سندھ قوانین (سندھ قانون) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Laws (Sindh Code) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan High Court": {
+    "ur": "بلوچستان ہائی کورٹ",
+    "roman": "Balochistan High Court"
+  },
+  "Find public information and official service links from Balochistan High Court.": {
+    "ur": "بلوچستان ہائی کورٹ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan High Court ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Federal Tax Ombudsman": {
+    "ur": "وفاقی ٹیکس محتسب",
+    "roman": "Wafaqi Tax Mohtasib"
+  },
+  "Find public information and official service links from Federal Tax Ombudsman.": {
+    "ur": "وفاقی ٹیکس محتسب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Tax Mohtasib ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Law & Justice": {
+    "ur": "وزارت قانون اور انصاف",
+    "roman": "Wazarat-e-Qanoon aur Insaaf"
+  },
+  "Find public information and official service links from Ministry of Law & Justice.": {
+    "ur": "وزارت قانون اور انصاف کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Qanoon aur Insaaf ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Peshawar High Court": {
+    "ur": "پشاور ہائی کورٹ",
+    "roman": "Peshawar High Court"
+  },
+  "Find public information and official service links from Peshawar High Court.": {
+    "ur": "پشاور ہائی کورٹ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Peshawar High Court ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh High Court": {
+    "ur": "سندھ ہائی کورٹ",
+    "roman": "Sindh High Court"
+  },
+  "Find public information and official service links from Sindh High Court.": {
+    "ur": "سندھ ہائی کورٹ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh High Court ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Wafaqi Mohtasib (Federal Ombudsman)": {
+    "ur": "وفاقی محتسب (وفاقی محتسب)",
+    "roman": "Wafaqi Mohtasib (Wafaqi Mohtasib)"
+  },
+  "Find public information and official service links from Wafaqi Mohtasib (Federal Ombudsman).": {
+    "ur": "وفاقی محتسب (وفاقی محتسب) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Mohtasib (Wafaqi Mohtasib) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Federal Shariat Court": {
+    "ur": "وفاقی شریعت عدالت",
+    "roman": "Wafaqi Shariat Court"
+  },
+  "Find public information and official service links from Federal Shariat Court.": {
+    "ur": "وفاقی شریعت عدالت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Shariat Court ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Law & Justice Commission of Pakistan": {
+    "ur": "قانون اور انصاف کمیشن پاکستان",
+    "roman": "Qanoon aur Insaaf Commission ka Pakistan"
+  },
+  "Find public information and official service links from Law & Justice Commission of Pakistan.": {
+    "ur": "قانون اور انصاف کمیشن پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qanoon aur Insaaf Commission ka Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Human Rights": {
+    "ur": "وزارت انسانی حقوق",
+    "roman": "Wazarat-e-Insani huqooq"
+  },
+  "Find public information and official service links from Ministry of Human Rights.": {
+    "ur": "وزارت انسانی حقوق کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Insani huqooq ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Accountability Bureau": {
+    "ur": "قومی احتساب ادارہ",
+    "roman": "Qaumi Accountability Idara"
+  },
+  "Find public information and official service links from National Accountability Bureau.": {
+    "ur": "قومی احتساب ادارہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Accountability Idara ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Federal Investigation Agency": {
+    "ur": "وفاقی تحقیقات ایجنسی",
+    "roman": "Wafaqi Tehqiqat Agency"
+  },
+  "Find public information and official service links from Federal Investigation Agency.": {
+    "ur": "وفاقی تحقیقات ایجنسی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Tehqiqat Agency ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Khyber Pakhtunkhwa Police": {
+    "ur": "خیبر پختونخوا پولیس",
+    "roman": "Khyber Pakhtunkhwa Police"
+  },
+  "Find public information and official service links from Khyber Pakhtunkhwa Police.": {
+    "ur": "خیبر پختونخوا پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khyber Pakhtunkhwa Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Police": {
+    "ur": "پنجاب پولیس",
+    "roman": "Punjab Police"
+  },
+  "Find public information and official service links from Punjab Police.": {
+    "ur": "پنجاب پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Police": {
+    "ur": "سندھ پولیس",
+    "roman": "Sindh Police"
+  },
+  "Find public information and official service links from Sindh Police.": {
+    "ur": "سندھ پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Police": {
+    "ur": "بلوچستان پولیس",
+    "roman": "Balochistan Police"
+  },
+  "Find public information and official service links from Balochistan Police.": {
+    "ur": "بلوچستان پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Karachi Police": {
+    "ur": "کراچی پولیس",
+    "roman": "Karachi Police"
+  },
+  "Find public information and official service links from Karachi Police.": {
+    "ur": "کراچی پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Karachi Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Disaster Management Authority": {
+    "ur": "قومی آفات سے نمٹنے کا ادارہ اتھارٹی",
+    "roman": "Qaumi Aafaat se nimatne ka idara Authority"
+  },
+  "Find public information and official service links from National Disaster Management Authority.": {
+    "ur": "قومی آفات سے نمٹنے کا ادارہ اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Aafaat se nimatne ka idara Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Highways & Motorway Police": {
+    "ur": "قومی شاہراہیں اور موٹروے پولیس",
+    "roman": "Qaumi Highways aur Motorway Police"
+  },
+  "Find public information and official service links from National Highways & Motorway Police.": {
+    "ur": "قومی شاہراہیں اور موٹروے پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Highways aur Motorway Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Meteorological Department": {
+    "ur": "پاکستان موسمیات محکمہ",
+    "roman": "Pakistan Meteorological Mehkama"
+  },
+  "Find public information and official service links from Pakistan Meteorological Department.": {
+    "ur": "پاکستان موسمیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Meteorological Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Disaster Management Authority, Punjab": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, پنجاب",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Punjab"
+  },
+  "Find public information and official service links from Provincial Disaster Management Authority, Punjab.": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Emergency Service (Rescue 1122)": {
+    "ur": "پنجاب ہنگامی خدمت (ریسکیو 1122)",
+    "roman": "Punjab Hungami Khidmat (Rescue 1122)"
+  },
+  "Find public information and official service links from Punjab Emergency Service (Rescue 1122).": {
+    "ur": "پنجاب ہنگامی خدمت (ریسکیو 1122) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Hungami Khidmat (Rescue 1122) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Safe Cities Authority": {
+    "ur": "پنجاب محفوظ شہر اتھارٹی",
+    "roman": "Punjab Safe Cities Authority"
+  },
+  "Find public information and official service links from Punjab Safe Cities Authority.": {
+    "ur": "پنجاب محفوظ شہر اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Safe Cities Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Rescue 1122 Khyber Pakhtunkhwa": {
+    "ur": "ریسکیو 1122 خیبر پختونخوا",
+    "roman": "Rescue 1122 Khyber Pakhtunkhwa"
+  },
+  "Find public information and official service links from Rescue 1122 Khyber Pakhtunkhwa.": {
+    "ur": "ریسکیو 1122 خیبر پختونخوا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Rescue 1122 Khyber Pakhtunkhwa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Anti Narcotics Force": {
+    "ur": "انسداد منشیات فورس",
+    "roman": "Insidad Manshiyat Force"
+  },
+  "Find public information and official service links from Anti Narcotics Force.": {
+    "ur": "انسداد منشیات فورس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Insidad Manshiyat Force ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Counter Terrorism Authority": {
+    "ur": "قومی انسداد دہشت گردی اتھارٹی",
+    "roman": "Qaumi Counter Terrorism Authority"
+  },
+  "Find public information and official service links from National Counter Terrorism Authority.": {
+    "ur": "قومی انسداد دہشت گردی اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Counter Terrorism Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Disaster Management Authority, Balochistan": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, بلوچستان",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Balochistan"
+  },
+  "Find public information and official service links from Provincial Disaster Management Authority, Balochistan.": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Disaster Management Authority, Khyber Pakhtunkhwa": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, خیبر پختونخوا",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Khyber Pakhtunkhwa"
+  },
+  "Find public information and official service links from Provincial Disaster Management Authority, Khyber Pakhtunkhwa.": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, خیبر پختونخوا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Khyber Pakhtunkhwa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Disaster Management Authority, Sindh": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, سندھ",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Sindh"
+  },
+  "Find public information and official service links from Provincial Disaster Management Authority, Sindh.": {
+    "ur": "صوبائی آفات سے نمٹنے کا ادارہ اتھارٹی, سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Aafaat se nimatne ka idara Authority, Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "PTA Device Identification, Registration & Blocking System (DIRBS)": {
+    "ur": "PTA آلات شناخت, رجسٹریشن اور بلاکنگ نظام (DIRBS)",
+    "roman": "PTA Device Identification, Registration aur Blocking System (DIRBS)"
+  },
+  "Find public information and official service links from PTA Device Identification, Registration & Blocking System (DIRBS).": {
+    "ur": "PTA آلات شناخت, رجسٹریشن اور بلاکنگ نظام (DIRBS) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "PTA Device Identification, Registration aur Blocking System (DIRBS) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Electric Power Regulatory Authority": {
+    "ur": "قومی بجلی بجلی ضابطہ کار اتھارٹی",
+    "roman": "Qaumi Electric Power Zabta kaar Authority"
+  },
+  "Find public information and official service links from National Electric Power Regulatory Authority.": {
+    "ur": "قومی بجلی بجلی ضابطہ کار اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Electric Power Zabta kaar Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Oil & Gas Regulatory Authority": {
+    "ur": "تیل اور گیس ضابطہ کار اتھارٹی",
+    "roman": "Oil aur Gas Zabta kaar Authority"
+  },
+  "Find public information and official service links from Oil & Gas Regulatory Authority.": {
+    "ur": "تیل اور گیس ضابطہ کار اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Oil aur Gas Zabta kaar Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Telecommunication Authority": {
+    "ur": "پاکستان ٹیلی کمیونیکیشن اتھارٹی",
+    "roman": "Pakistan Telecommunication Authority"
+  },
+  "Find public information and official service links from Pakistan Telecommunication Authority.": {
+    "ur": "پاکستان ٹیلی کمیونیکیشن اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Telecommunication Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Competition Commission of Pakistan": {
+    "ur": "مسابقت کمیشن پاکستان",
+    "roman": "Musabiqat Commission ka Pakistan"
+  },
+  "Find public information and official service links from Competition Commission of Pakistan.": {
+    "ur": "مسابقت کمیشن پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Musabiqat Commission ka Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Electronic Media Regulatory Authority": {
+    "ur": "پاکستان الیکٹرانک میڈیا ضابطہ کار اتھارٹی",
+    "roman": "Pakistan Electronic Media Zabta kaar Authority"
+  },
+  "Find public information and official service links from Pakistan Electronic Media Regulatory Authority.": {
+    "ur": "پاکستان الیکٹرانک میڈیا ضابطہ کار اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Electronic Media Zabta kaar Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Nuclear Regulatory Authority": {
+    "ur": "پاکستان جوہری ضابطہ کار اتھارٹی",
+    "roman": "Pakistan Nuclear Zabta kaar Authority"
+  },
+  "Find public information and official service links from Pakistan Nuclear Regulatory Authority.": {
+    "ur": "پاکستان جوہری ضابطہ کار اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Nuclear Zabta kaar Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Public Procurement Regulatory Authority": {
+    "ur": "عوامی خریداری ضابطہ کار اتھارٹی",
+    "roman": "Awami Khareedari Zabta kaar Authority"
+  },
+  "Find public information and official service links from Public Procurement Regulatory Authority.": {
+    "ur": "عوامی خریداری ضابطہ کار اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Awami Khareedari Zabta kaar Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "e-Khidmat Markaz Punjab": {
+    "ur": "ای خدمت مرکز پنجاب",
+    "roman": "e-Khidmat Markaz Punjab"
+  },
+  "Find public information and official service links from e-Khidmat Markaz Punjab.": {
+    "ur": "ای خدمت مرکز پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "e-Khidmat Markaz Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Excise & Taxation": {
+    "ur": "پنجاب ایکسائز اور ٹیکسیشن",
+    "roman": "Punjab Excise aur Taxation"
+  },
+  "Excise, Taxation & Narcotics Control Department": {
+    "ur": "ایکسائز, ٹیکسیشن اور منشیات کنٹرول محکمہ",
+    "roman": "Excise, Taxation aur Manshiyat Control Mehkama"
+  },
+  "Explore official vehicle and taxation service information.": {
+    "ur": "پنجاب ایکسائز اور ٹیکسیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Excise aur Taxation ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Government": {
+    "ur": "حکومت پنجاب",
+    "roman": "Hukoomat-e-Punjab"
+  },
+  "Government of Punjab": {
+    "ur": "حکومت پنجاب",
+    "roman": "Hukoomat-e-Punjab"
+  },
+  "Explore Punjab departments, announcements and citizen services.": {
+    "ur": "حکومت پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Hukoomat-e-Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Agriculture Department, Punjab": {
+    "ur": "زراعت محکمہ, پنجاب",
+    "roman": "Zaraat Mehkama, Punjab"
+  },
+  "Find public information and official service links from Agriculture Department, Punjab.": {
+    "ur": "زراعت محکمہ, پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Zaraat Mehkama, Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Board of Revenue, Punjab": {
+    "ur": "بورڈ کا محصولات, پنجاب",
+    "roman": "Board ka Mahsoolat, Punjab"
+  },
+  "Find public information and official service links from Board of Revenue, Punjab.": {
+    "ur": "بورڈ کا محصولات, پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Board ka Mahsoolat, Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Chief Minister Punjab": {
+    "ur": "وزیر اعلیٰ پنجاب",
+    "roman": "Wazeer-e-aala Punjab"
+  },
+  "Find public information and official service links from Chief Minister Punjab.": {
+    "ur": "وزیر اعلیٰ پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazeer-e-aala Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Lahore Development Authority": {
+    "ur": "لاہور ترقیات اتھارٹی",
+    "roman": "Lahore Taraqqiyat Authority"
+  },
+  "Find public information and official service links from Lahore Development Authority.": {
+    "ur": "لاہور ترقیات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Lahore Taraqqiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Primary & Secondary Healthcare Department, Punjab": {
+    "ur": "ابتدائی اور ثانوی صحت کی دیکھ بھال محکمہ, پنجاب",
+    "roman": "Ibtidai aur Sanwi Healthcare Mehkama, Punjab"
+  },
+  "Find public information and official service links from Primary & Secondary Healthcare Department, Punjab.": {
+    "ur": "ابتدائی اور ثانوی صحت کی دیکھ بھال محکمہ, پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Ibtidai aur Sanwi Healthcare Mehkama, Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Food Authority": {
+    "ur": "پنجاب خوراک اتھارٹی",
+    "roman": "Punjab Khuraak Authority"
+  },
+  "Find public information and official service links from Punjab Food Authority.": {
+    "ur": "پنجاب خوراک اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Khuraak Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Revenue Authority": {
+    "ur": "پنجاب محصولات اتھارٹی",
+    "roman": "Punjab Mahsoolat Authority"
+  },
+  "Find public information and official service links from Punjab Revenue Authority.": {
+    "ur": "پنجاب محصولات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Mahsoolat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "School Education Department, Punjab": {
+    "ur": "اسکول تعلیم محکمہ, پنجاب",
+    "roman": "School Taleem Mehkama, Punjab"
+  },
+  "Find public information and official service links from School Education Department, Punjab.": {
+    "ur": "اسکول تعلیم محکمہ, پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "School Taleem Mehkama, Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Specialized Healthcare & Medical Education Department, Punjab": {
+    "ur": "خصوصی صحت کی دیکھ بھال اور طبی تعلیم محکمہ, پنجاب",
+    "roman": "Specialized Healthcare aur Tibbi Taleem Mehkama, Punjab"
+  },
+  "Find public information and official service links from Specialized Healthcare & Medical Education Department, Punjab.": {
+    "ur": "خصوصی صحت کی دیکھ بھال اور طبی تعلیم محکمہ, پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Specialized Healthcare aur Tibbi Taleem Mehkama, Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Labour & Human Resource Department, Punjab": {
+    "ur": "محنت اور افرادی وسائل محکمہ, پنجاب",
+    "roman": "Mehnat aur Afradi wasail Mehkama, Punjab"
+  },
+  "Find public information and official service links from Labour & Human Resource Department, Punjab.": {
+    "ur": "محنت اور افرادی وسائل محکمہ, پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Mehnat aur Afradi wasail Mehkama, Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Assembly of the Punjab": {
+    "ur": "صوبائی اسمبلی کا دی پنجاب",
+    "roman": "Soobai Assembly ka The Punjab"
+  },
+  "Find public information and official service links from Provincial Assembly of the Punjab.": {
+    "ur": "صوبائی اسمبلی کا دی پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Assembly ka The Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Education Sector Reform Programme": {
+    "ur": "پنجاب تعلیم شعبہ اصلاحات پروگرام",
+    "roman": "Punjab Taleem Sector Reform Programme"
+  },
+  "Find public information and official service links from Punjab Education Sector Reform Programme.": {
+    "ur": "پنجاب تعلیم شعبہ اصلاحات پروگرام کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Taleem Sector Reform Programme ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Information Technology Board": {
+    "ur": "پنجاب انفارمیشن ٹیکنالوجی بورڈ",
+    "roman": "Punjab Information Technology Board"
+  },
+  "Find public information and official service links from Punjab Information Technology Board.": {
+    "ur": "پنجاب انفارمیشن ٹیکنالوجی بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Information Technology Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Excise & Taxation": {
+    "ur": "سندھ ایکسائز اور ٹیکسیشن",
+    "roman": "Sindh Excise aur Taxation"
+  },
+  "Government of Sindh": {
+    "ur": "حکومت سندھ",
+    "roman": "Hukoomat-e-Sindh"
+  },
+  "Find provincial excise and vehicle-related information.": {
+    "ur": "سندھ ایکسائز اور ٹیکسیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Excise aur Taxation ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Government": {
+    "ur": "سندھ حکومت",
+    "roman": "Sindh Hukoomat"
+  },
+  "Browse provincial government information and departments.": {
+    "ur": "سندھ حکومت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Hukoomat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Zameen (Land Records, Board of Revenue Sindh)": {
+    "ur": "سندھ زمین (اراضی ریکارڈ, بورڈ کا محصولات سندھ)",
+    "roman": "Sindh Zameen (Arazi record, Board ka Mahsoolat Sindh)"
+  },
+  "Find public information and official service links from Sindh Zameen (Land Records, Board of Revenue Sindh).": {
+    "ur": "سندھ زمین (اراضی ریکارڈ, بورڈ کا محصولات سندھ) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Zameen (Arazi record, Board ka Mahsoolat Sindh) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Karachi Metropolitan Corporation": {
+    "ur": "کراچی میٹروپولیٹن کارپوریشن",
+    "roman": "Karachi Metropolitan Corporation"
+  },
+  "Find public information and official service links from Karachi Metropolitan Corporation.": {
+    "ur": "کراچی میٹروپولیٹن کارپوریشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Karachi Metropolitan Corporation ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "School Education & Literacy Department, Sindh": {
+    "ur": "اسکول تعلیم اور خواندگی محکمہ, سندھ",
+    "roman": "School Taleem aur Khawandagi Mehkama, Sindh"
+  },
+  "Find public information and official service links from School Education & Literacy Department, Sindh.": {
+    "ur": "اسکول تعلیم اور خواندگی محکمہ, سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "School Taleem aur Khawandagi Mehkama, Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Building Control Authority": {
+    "ur": "سندھ عمارت کنٹرول اتھارٹی",
+    "roman": "Sindh Imarat Control Authority"
+  },
+  "Find public information and official service links from Sindh Building Control Authority.": {
+    "ur": "سندھ عمارت کنٹرول اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Imarat Control Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Minimum Wages Board": {
+    "ur": "سندھ کم از کم اجرت بورڈ",
+    "roman": "Sindh Kam az kam ujrat Board"
+  },
+  "Find public information and official service links from Sindh Minimum Wages Board.": {
+    "ur": "سندھ کم از کم اجرت بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Kam az kam ujrat Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Revenue Board": {
+    "ur": "سندھ محصولات بورڈ",
+    "roman": "Sindh Mahsoolat Board"
+  },
+  "Find public information and official service links from Sindh Revenue Board.": {
+    "ur": "سندھ محصولات بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Mahsoolat Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Finance Department, Sindh": {
+    "ur": "خزانہ محکمہ, سندھ",
+    "roman": "Khazana Mehkama, Sindh"
+  },
+  "Find public information and official service links from Finance Department, Sindh.": {
+    "ur": "خزانہ محکمہ, سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khazana Mehkama, Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Food Authority": {
+    "ur": "سندھ خوراک اتھارٹی",
+    "roman": "Sindh Khuraak Authority"
+  },
+  "Find public information and official service links from Sindh Food Authority.": {
+    "ur": "سندھ خوراک اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Khuraak Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Higher Education Commission": {
+    "ur": "سندھ اعلیٰ تعلیم کمیشن",
+    "roman": "Sindh Aala Taleem Commission"
+  },
+  "Find public information and official service links from Sindh Higher Education Commission.": {
+    "ur": "سندھ اعلیٰ تعلیم کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Aala Taleem Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Excise, Taxation & Narcotics Control Department, Khyber Pakhtunkhwa": {
+    "ur": "ایکسائز, ٹیکسیشن اور منشیات کنٹرول محکمہ, خیبر پختونخوا",
+    "roman": "Excise, Taxation aur Manshiyat Control Mehkama, Khyber Pakhtunkhwa"
+  },
+  "Find public information and official service links from Excise, Taxation & Narcotics Control Department, Khyber Pakhtunkhwa.": {
+    "ur": "ایکسائز, ٹیکسیشن اور منشیات کنٹرول محکمہ, خیبر پختونخوا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Excise, Taxation aur Manshiyat Control Mehkama, Khyber Pakhtunkhwa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "KP e-Citizen Portal": {
+    "ur": "KP e-شہری پورٹل",
+    "roman": "KP e-Shehri Portal"
+  },
+  "Find public information and official service links from KP e-Citizen Portal.": {
+    "ur": "KP e-شہری پورٹل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "KP e-Shehri Portal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Dastak (KP Citizen Services App Portal)": {
+    "ur": "دستک (KP شہری خدمات ایپ پورٹل)",
+    "roman": "Dastak (KP Shehri Khidmaat App Portal)"
+  },
+  "Find public information and official service links from Dastak (KP Citizen Services App Portal).": {
+    "ur": "دستک (KP شہری خدمات ایپ پورٹل) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Dastak (KP Shehri Khidmaat App Portal) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Elementary & Secondary Education Department, Khyber Pakhtunkhwa": {
+    "ur": "ابتدائی اور ثانوی تعلیم محکمہ, خیبر پختونخوا",
+    "roman": "Ibtidai aur Sanwi Taleem Mehkama, Khyber Pakhtunkhwa"
+  },
+  "Find public information and official service links from Elementary & Secondary Education Department, Khyber Pakhtunkhwa.": {
+    "ur": "ابتدائی اور ثانوی تعلیم محکمہ, خیبر پختونخوا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Ibtidai aur Sanwi Taleem Mehkama, Khyber Pakhtunkhwa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Health Department, Khyber Pakhtunkhwa": {
+    "ur": "صحت محکمہ, خیبر پختونخوا",
+    "roman": "Sehat Mehkama, Khyber Pakhtunkhwa"
+  },
+  "Find public information and official service links from Health Department, Khyber Pakhtunkhwa.": {
+    "ur": "صحت محکمہ, خیبر پختونخوا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sehat Mehkama, Khyber Pakhtunkhwa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Khyber Pakhtunkhwa Revenue Authority": {
+    "ur": "خیبر پختونخوا محصولات اتھارٹی",
+    "roman": "Khyber Pakhtunkhwa Mahsoolat Authority"
+  },
+  "Find public information and official service links from Khyber Pakhtunkhwa Revenue Authority.": {
+    "ur": "اس ادارے کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Is idaray ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "KP e-Stamping": {
+    "ur": "KP ای اسٹیمپنگ",
+    "roman": "KP e-Stamping"
+  },
+  "Find public information and official service links from KP e-Stamping.": {
+    "ur": "KP ای اسٹیمپنگ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "KP e-Stamping ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Khyber Pakhtunkhwa Food Safety & Halal Food Authority": {
+    "ur": "خیبر پختونخوا خوراک حفاظت اور حلال خوراک اتھارٹی",
+    "roman": "Khyber Pakhtunkhwa Khuraak Safety aur Halal Khuraak Authority"
+  },
+  "Find public information and official service links from Khyber Pakhtunkhwa Food Safety & Halal Food Authority.": {
+    "ur": "خیبر پختونخوا خوراک حفاظت اور حلال خوراک اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khyber Pakhtunkhwa Khuraak Safety aur Halal Khuraak Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Khyber Pakhtunkhwa Information Technology Board": {
+    "ur": "خیبر پختونخوا انفارمیشن ٹیکنالوجی بورڈ",
+    "roman": "Khyber Pakhtunkhwa Information Technology Board"
+  },
+  "Find public information and official service links from Khyber Pakhtunkhwa Information Technology Board.": {
+    "ur": "خیبر پختونخوا انفارمیشن ٹیکنالوجی بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khyber Pakhtunkhwa Information Technology Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Local Government Department, Khyber Pakhtunkhwa": {
+    "ur": "بلدیات محکمہ, خیبر پختونخوا",
+    "roman": "Baldiyat Mehkama, Khyber Pakhtunkhwa"
+  },
+  "Find public information and official service links from Local Government Department, Khyber Pakhtunkhwa.": {
+    "ur": "بلدیات محکمہ, خیبر پختونخوا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Baldiyat Mehkama, Khyber Pakhtunkhwa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Government": {
+    "ur": "بلوچستان حکومت",
+    "roman": "Balochistan Hukoomat"
+  },
+  "Government of Balochistan": {
+    "ur": "حکومت بلوچستان",
+    "roman": "Hukoomat-e-Balochistan"
+  },
+  "Explore provincial departments and government information.": {
+    "ur": "بلوچستان حکومت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Hukoomat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Revenue Authority": {
+    "ur": "بلوچستان محصولات اتھارٹی",
+    "roman": "Balochistan Mahsoolat Authority"
+  },
+  "Find public information and official service links from Balochistan Revenue Authority.": {
+    "ur": "بلوچستان محصولات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Mahsoolat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Zameen (Land Records)": {
+    "ur": "بلوچستان زمین (اراضی ریکارڈ)",
+    "roman": "Balochistan Zameen (Arazi record)"
+  },
+  "Find public information and official service links from Balochistan Zameen (Land Records).": {
+    "ur": "بلوچستان زمین (اراضی ریکارڈ) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Zameen (Arazi record) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Excise Portal Balochistan (vehicle tax/registration)": {
+    "ur": "ایکسائز پورٹل بلوچستان (گاڑی ٹیکس/رجسٹریشن)",
+    "roman": "Excise Portal Balochistan (vehicle Tax/Registration)"
+  },
+  "Find public information and official service links from Excise Portal Balochistan (vehicle tax/registration).": {
+    "ur": "ایکسائز پورٹل بلوچستان (گاڑی ٹیکس/رجسٹریشن) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Excise Portal Balochistan (vehicle Tax/Registration) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Excise, Taxation & Anti-Narcotics Department, Balochistan": {
+    "ur": "ایکسائز, ٹیکسیشن اور انسداد-منشیات محکمہ, بلوچستان",
+    "roman": "Excise, Taxation aur Insidad-Manshiyat Mehkama, Balochistan"
+  },
+  "Find public information and official service links from Excise, Taxation & Anti-Narcotics Department, Balochistan.": {
+    "ur": "ایکسائز, ٹیکسیشن اور انسداد-منشیات محکمہ, بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Excise, Taxation aur Insidad-Manshiyat Mehkama, Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Finance Department, Balochistan": {
+    "ur": "خزانہ محکمہ, بلوچستان",
+    "roman": "Khazana Mehkama, Balochistan"
+  },
+  "Find public information and official service links from Finance Department, Balochistan.": {
+    "ur": "خزانہ محکمہ, بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khazana Mehkama, Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Health Department, Balochistan": {
+    "ur": "صحت محکمہ, بلوچستان",
+    "roman": "Sehat Mehkama, Balochistan"
+  },
+  "Find public information and official service links from Health Department, Balochistan.": {
+    "ur": "صحت محکمہ, بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sehat Mehkama, Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "School Education Department, Balochistan": {
+    "ur": "اسکول تعلیم محکمہ, بلوچستان",
+    "roman": "School Taleem Mehkama, Balochistan"
+  },
+  "Find public information and official service links from School Education Department, Balochistan.": {
+    "ur": "اسکول تعلیم محکمہ, بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "School Taleem Mehkama, Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "AJ&K Government": {
+    "ur": "AJ&K حکومت",
+    "roman": "AJ&K Hukoomat"
+  },
+  "Government of Azad Jammu & Kashmir": {
+    "ur": "حکومت آزاد جموں و کشمیر",
+    "roman": "Hukoomat-e-Azad Jammu & Kashmir"
+  },
+  "Explore government departments and public information.": {
+    "ur": "AJ&K حکومت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "AJ&K Hukoomat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Government": {
+    "ur": "گلگت بلتستان حکومت",
+    "roman": "Gilgit-Baltistan Hukoomat"
+  },
+  "Government of Gilgit-Baltistan": {
+    "ur": "حکومت گلگت بلتستان",
+    "roman": "Hukoomat-e-Gilgit-Baltistan"
+  },
+  "Find regional government departments and public information.": {
+    "ur": "گلگت بلتستان حکومت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Hukoomat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Azad Jammu & Kashmir Police": {
+    "ur": "آزاد جموں و کشمیر پولیس",
+    "roman": "Azad Jammu & Kashmir Police"
+  },
+  "Find public information and official service links from Azad Jammu & Kashmir Police.": {
+    "ur": "آزاد جموں و کشمیر پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Azad Jammu & Kashmir Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Excise & Taxation Department, Gilgit-Baltistan": {
+    "ur": "ایکسائز اور ٹیکسیشن محکمہ, گلگت بلتستان",
+    "roman": "Excise aur Taxation Mehkama, Gilgit-Baltistan"
+  },
+  "Find public information and official service links from Excise & Taxation Department, Gilgit-Baltistan.": {
+    "ur": "ایکسائز اور ٹیکسیشن محکمہ, گلگت بلتستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Excise aur Taxation Mehkama, Gilgit-Baltistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Police": {
+    "ur": "گلگت بلتستان پولیس",
+    "roman": "Gilgit-Baltistan Police"
+  },
+  "Find public information and official service links from Gilgit-Baltistan Police.": {
+    "ur": "گلگت بلتستان پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Azad Jammu & Kashmir Legislative Assembly": {
+    "ur": "آزاد جموں و کشمیر قانون ساز اسمبلی",
+    "roman": "Azad Jammu & Kashmir Legislative Assembly"
+  },
+  "Find public information and official service links from Azad Jammu & Kashmir Legislative Assembly.": {
+    "ur": "آزاد جموں و کشمیر قانون ساز اسمبلی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Azad Jammu & Kashmir Legislative Assembly ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Chief Court": {
+    "ur": "گلگت بلتستان چیف عدالت",
+    "roman": "Gilgit-Baltistan Chief Court"
+  },
+  "Find public information and official service links from Gilgit-Baltistan Chief Court.": {
+    "ur": "گلگت بلتستان چیف عدالت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Chief Court ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Health Department, Azad Jammu & Kashmir": {
+    "ur": "صحت محکمہ, آزاد جموں و کشمیر",
+    "roman": "Sehat Mehkama, Azad Jammu & Kashmir"
+  },
+  "Find public information and official service links from Health Department, Azad Jammu & Kashmir.": {
+    "ur": "صحت محکمہ, آزاد جموں و کشمیر کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sehat Mehkama, Azad Jammu & Kashmir ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "High Court of Azad Jammu & Kashmir": {
+    "ur": "ہائی کورٹ کا آزاد جموں و کشمیر",
+    "roman": "High Court ka Azad Jammu & Kashmir"
+  },
+  "Find public information and official service links from High Court of Azad Jammu & Kashmir.": {
+    "ur": "ہائی کورٹ کا آزاد جموں و کشمیر کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "High Court ka Azad Jammu & Kashmir ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Prime Minister of Azad Jammu & Kashmir": {
+    "ur": "وزیر اعظم کا آزاد جموں و کشمیر",
+    "roman": "Wazeer-e-azam ka Azad Jammu & Kashmir"
+  },
+  "Find public information and official service links from Prime Minister of Azad Jammu & Kashmir.": {
+    "ur": "وزیر اعظم کا آزاد جموں و کشمیر کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazeer-e-azam ka Azad Jammu & Kashmir ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Supreme Court of Azad Jammu & Kashmir": {
+    "ur": "سپریم کورٹ کا آزاد جموں و کشمیر",
+    "roman": "Supreme Court ka Azad Jammu & Kashmir"
+  },
+  "Find public information and official service links from Supreme Court of Azad Jammu & Kashmir.": {
+    "ur": "سپریم کورٹ کا آزاد جموں و کشمیر کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Supreme Court ka Azad Jammu & Kashmir ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Excise & Taxation Department, Islamabad": {
+    "ur": "ایکسائز اور ٹیکسیشن محکمہ, اسلام آباد",
+    "roman": "Excise aur Taxation Mehkama, Islamabad"
+  },
+  "Find public information and official service links from Excise & Taxation Department, Islamabad.": {
+    "ur": "ایکسائز اور ٹیکسیشن محکمہ, اسلام آباد کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Excise aur Taxation Mehkama, Islamabad ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Capital Development Authority": {
+    "ur": "دارالحکومت ترقیات اتھارٹی",
+    "roman": "Capital Taraqqiyat Authority"
+  },
+  "CDA Islamabad": {
+    "ur": "CDA اسلام آباد",
+    "roman": "CDA Islamabad"
+  },
+  "Find Islamabad civic and property-related information.": {
+    "ur": "دارالحکومت ترقیات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Capital Taraqqiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Federal Directorate of Education, Islamabad": {
+    "ur": "وفاقی ڈائریکٹوریٹ کا تعلیم, اسلام آباد",
+    "roman": "Wafaqi Directorate ka Taleem, Islamabad"
+  },
+  "Find public information and official service links from Federal Directorate of Education, Islamabad.": {
+    "ur": "وفاقی ڈائریکٹوریٹ کا تعلیم, اسلام آباد کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wafaqi Directorate ka Taleem, Islamabad ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Islamabad Capital Territory Administration": {
+    "ur": "اسلام آباد انتظامیہ",
+    "roman": "Islamabad Capital Territory Intizamiya"
+  },
+  "Find public information and official service links from Islamabad Capital Territory Administration.": {
+    "ur": "اسلام آباد انتظامیہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Islamabad Capital Territory Intizamiya ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Islamabad Police": {
+    "ur": "اسلام آباد پولیس",
+    "roman": "Islamabad Police"
+  },
+  "Islamabad Capital Police": {
+    "ur": "اسلام آباد دارالحکومت پولیس",
+    "roman": "Islamabad Capital Police"
+  },
+  "Find police citizen-service information and contact channels.": {
+    "ur": "اسلام آباد پولیس کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Islamabad Police ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Metropolitan Corporation Islamabad": {
+    "ur": "میٹروپولیٹن کارپوریشن اسلام آباد",
+    "roman": "Metropolitan Corporation Islamabad"
+  },
+  "Find public information and official service links from Metropolitan Corporation Islamabad.": {
+    "ur": "میٹروپولیٹن کارپوریشن اسلام آباد کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Metropolitan Corporation Islamabad ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Foreign Affairs": {
+    "ur": "وزارت خارجہ امور",
+    "roman": "Wazarat-e-Foreign Umoor"
+  },
+  "Find public information and official service links from Ministry of Foreign Affairs.": {
+    "ur": "وزارت خارجہ امور کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Foreign Umoor ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Overseas Pakistanis & Human Resource Development": {
+    "ur": "وزارت سمندر پار پاکستانی اور افرادی وسائل ترقیات",
+    "roman": "Wazarat-e-Overseas Pakistanis aur Afradi wasail Taraqqiyat"
+  },
+  "Find public information and official service links from Ministry of Overseas Pakistanis & Human Resource Development.": {
+    "ur": "وزارت سمندر پار پاکستانی اور افرادی وسائل ترقیات کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Overseas Pakistanis aur Afradi wasail Taraqqiyat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Bureau of Statistics": {
+    "ur": "پاکستان ادارہ کا شماریات",
+    "roman": "Pakistan Idara ka Shumariyat"
+  },
+  "Find public information and official service links from Pakistan Bureau of Statistics.": {
+    "ur": "پاکستان ادارہ کا شماریات کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Idara ka Shumariyat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Ministry of Planning, Development & Special Initiatives (Planning Commission)": {
+    "ur": "وزارت منصوبہ بندی, ترقیات اور خصوصی اقدامات (منصوبہ بندی کمیشن)",
+    "roman": "Wazarat-e-Mansooba bandi, Taraqqiyat aur Khusoosi Initiatives (Mansooba bandi Commission)"
+  },
+  "Find public information and official service links from Ministry of Planning, Development & Special Initiatives (Planning Commission).": {
+    "ur": "وزارت منصوبہ بندی, ترقیات اور خصوصی اقدامات (منصوبہ بندی کمیشن) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazarat-e-Mansooba bandi, Taraqqiyat aur Khusoosi Initiatives (Mansooba bandi Commission) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Online Visa": {
+    "ur": "پاکستان آن لائن ویزا",
+    "roman": "Pakistan Online Visa"
+  },
+  "Visit the official Pakistan online visa portal.": {
+    "ur": "پاکستان آن لائن ویزا کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Online Visa ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "SECP": {
+    "ur": "سیکیورٹیز اینڈ ایکسچینج کمیشن پاکستان",
+    "roman": "SECP Pakistan"
+  },
+  "Securities and Exchange Commission of Pakistan": {
+    "ur": "Securities اور Exchange کمیشن پاکستان",
+    "roman": "Securities aur Exchange Commission ka Pakistan"
+  },
+  "Explore company registration and corporate regulatory information.": {
+    "ur": "سیکیورٹیز اینڈ ایکسچینج کمیشن پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "SECP Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Jobs Portal": {
+    "ur": "قومی روزگار پورٹل",
+    "roman": "Qaumi rozgar portal"
+  },
+  "Browse government recruitment opportunities on the official portal.": {
+    "ur": "قومی روزگار پورٹل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi rozgar portal ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Dastak Punjab": {
+    "ur": "دستک پنجاب",
+    "roman": "Dastak Punjab"
+  },
+  "Explore available self-service and doorstep government services.": {
+    "ur": "دستک پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Dastak Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "e-Khidmat Markaz": {
+    "ur": "ای خدمت مرکز",
+    "roman": "e-Khidmat Markaz"
+  },
+  "Find facilitation-centre services and visit guidance.": {
+    "ur": "ای خدمت مرکز کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "e-Khidmat Markaz ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Land Records": {
+    "ur": "پنجاب اراضی ریکارڈ",
+    "roman": "Punjab arazi record"
+  },
+  "Punjab Land Records Authority": {
+    "ur": "پنجاب اراضی ریکارڈ اتھارٹی",
+    "roman": "Punjab Arazi record Authority"
+  },
+  "Find official land-record service information for Punjab.": {
+    "ur": "پنجاب اراضی ریکارڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab arazi record ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Khyber Pakhtunkhwa Government": {
+    "ur": "خیبر پختونخوا حکومت",
+    "roman": "Khyber Pakhtunkhwa Hukoomat"
+  },
+  "Government of Khyber Pakhtunkhwa": {
+    "ur": "حکومت خیبر پختونخوا",
+    "roman": "Hukoomat-e-Khyber Pakhtunkhwa"
+  },
+  "Find provincial departments and public information.": {
+    "ur": "خیبر پختونخوا حکومت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khyber Pakhtunkhwa Hukoomat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Pakistan Citizen’s Portal app": {
+    "ur": "پاکستان سٹیزن پورٹل ایپ",
+    "roman": "Pakistan Citizen Portal app"
+  },
+  "Get Android, iPhone and Huawei download links from the official department page.": {
+    "ur": "پاکستان سٹیزن پورٹل ایپ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Pakistan Citizen Portal app ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Source page reviewed": {
+    "ur": "فہرست شامل ہے؛ محکمے کی معلومات کا جائزہ باقی ہے۔",
+    "roman": "Fehrist shamil hai; mehkame ki maloomat ka jaiza baqi hai."
+  },
+  "Lahore District Portal": {
+    "ur": "لاہور ضلع پورٹل",
+    "roman": "Lahore Zila Portal"
+  },
+  "District Administration Lahore": {
+    "ur": "ضلع انتظامیہ لاہور",
+    "roman": "Zila Intizamiya Lahore"
+  },
+  "Explore district administration information, local departments and public resources.": {
+    "ur": "اس ادارے کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Is idaray ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Source discovered; editorial review required": {
+    "ur": "فہرست شامل ہے؛ محکمے کی معلومات کا جائزہ باقی ہے۔",
+    "roman": "Fehrist shamil hai; mehkame ki maloomat ka jaiza baqi hai."
+  },
+  "Rawalpindi District Portal": {
+    "ur": "راولپنڈی ضلع پورٹل",
+    "roman": "Rawalpindi Zila Portal"
+  },
+  "District Administration Rawalpindi": {
+    "ur": "ضلع انتظامیہ راولپنڈی",
+    "roman": "Zila Intizamiya Rawalpindi"
+  },
+  "Agriculture, Supply & Prices Department": {
+    "ur": "زراعت, فراہمی اور قیمتیں محکمہ",
+    "roman": "Zaraat, Supply aur Prices Mehkama"
+  },
+  "Explore public information and service links published by Agriculture, Supply & Prices Department.": {
+    "ur": "زراعت, فراہمی اور قیمتیں محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Zaraat, Supply aur Prices Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Official source discovered; service review pending": {
+    "ur": "فہرست شامل ہے؛ محکمے کی معلومات کا جائزہ باقی ہے۔",
+    "roman": "Fehrist shamil hai; mehkame ki maloomat ka jaiza baqi hai."
+  },
+  "Auqaf Religious Affairs Zakat & Ushr Department": {
+    "ur": "اوقاف مذہبی امور زکوٰۃ اور عشر محکمہ",
+    "roman": "Auqaf Mazhab i umoor Zakat aur Ushr Mehkama"
+  },
+  "Explore public information and service links published by Auqaf Religious Affairs Zakat & Ushr Department.": {
+    "ur": "اوقاف مذہبی امور زکوٰۃ اور عشر محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Auqaf Mazhab i umoor Zakat aur Ushr Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Benazir Bhutto Shaheed Human Resource Research & Development Board": {
+    "ur": "بینظیر بھٹو شہید افرادی وسائل تحقیق اور ترقیات بورڈ",
+    "roman": "Benazir Bhutto Shaheed Afradi wasail Tehqeeq aur Taraqqiyat Board"
+  },
+  "Explore public information and service links published by Benazir Bhutto Shaheed Human Resource Research & Development Board.": {
+    "ur": "بینظیر بھٹو شہید افرادی وسائل تحقیق اور ترقیات بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Benazir Bhutto Shaheed Afradi wasail Tehqeeq aur Taraqqiyat Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Board of Revenue": {
+    "ur": "بورڈ کا محصولات",
+    "roman": "Board ka Mahsoolat"
+  },
+  "Explore public information and service links published by Board of Revenue.": {
+    "ur": "بورڈ کا محصولات کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Board ka Mahsoolat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Bureau of Statistics Planning & Development Department Government of Sindh": {
+    "ur": "ادارہ کا شماریات منصوبہ بندی اور ترقیات محکمہ حکومت سندھ",
+    "roman": "Idara ka Shumariyat Mansooba bandi aur Taraqqiyat Mehkama Hukoomat-e-Sindh"
+  },
+  "Explore public information and service links published by Bureau of Statistics Planning & Development Department Government of Sindh.": {
+    "ur": "ادارہ کا شماریات منصوبہ بندی اور ترقیات محکمہ حکومت سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Idara ka Shumariyat Mansooba bandi aur Taraqqiyat Mehkama Hukoomat-e-Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Chief Minister's Inspection Enquiries and Implementation Team Department": {
+    "ur": "وزیر اعلیٰ معائنہ انکوائری اور عمل درآمد ٹیم محکمہ",
+    "roman": "Wazeer-e-aala's Inspection Enquiries aur Implementation Team Mehkama"
+  },
+  "Explore public information and service links published by Chief Minister's Inspection Enquiries and Implementation Team Department.": {
+    "ur": "وزیر اعلیٰ معائنہ انکوائری اور عمل درآمد ٹیم محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazeer-e-aala's Inspection Enquiries aur Implementation Team Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Chief Minister's Secretariat": {
+    "ur": "وزیر اعلیٰ سیکریٹریٹ",
+    "roman": "Wazeer-e-aala's Secretariat"
+  },
+  "Explore public information and service links published by Chief Minister's Secretariat.": {
+    "ur": "وزیر اعلیٰ سیکریٹریٹ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazeer-e-aala's Secretariat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Civil Defence": {
+    "ur": "سول دفاع",
+    "roman": "Civil Defence"
+  },
+  "Explore public information and service links published by Civil Defence.": {
+    "ur": "سول دفاع کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Civil Defence ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "College Education Department Government of Sindh": {
+    "ur": "کالج تعلیم محکمہ حکومت سندھ",
+    "roman": "College Taleem Mehkama Hukoomat-e-Sindh"
+  },
+  "Explore public information and service links published by College Education Department Government of Sindh.": {
+    "ur": "کالج تعلیم محکمہ حکومت سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "College Taleem Mehkama Hukoomat-e-Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Cooperative Department": {
+    "ur": "امداد باہمی محکمہ",
+    "roman": "Imdad bahami Mehkama"
+  },
+  "Explore public information and service links published by Cooperative Department.": {
+    "ur": "امداد باہمی محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Imdad bahami Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Culture,Tourism & Antiquities Department": {
+    "ur": "ثقافت,سیاحت اور نوادرات محکمہ",
+    "roman": "Saqafat,Sayahat aur Antiquities Mehkama"
+  },
+  "Explore public information and service links published by Culture,Tourism & Antiquities Department.": {
+    "ur": "ثقافت,سیاحت اور نوادرات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Saqafat,Sayahat aur Antiquities Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Department of Empowerment of Persons with Disabilities": {
+    "ur": "محکمہ کا بااختیار بنانا کا معذور افراد",
+    "roman": "Mehkama ka Ba-ikhtiyar banana ka Mazoor afrad"
+  },
+  "Explore public information and service links published by Department of Empowerment of Persons with Disabilities.": {
+    "ur": "محکمہ کا بااختیار بنانا کا معذور افراد کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Mehkama ka Ba-ikhtiyar banana ka Mazoor afrad ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Directorate of Climate Change and Carbon Finance, ECC & CDD, Government of Sindh": {
+    "ur": "ڈائریکٹوریٹ کا موسمیاتی تبدیلی اور کاربن خزانہ, ECC اور CDD, حکومت سندھ",
+    "roman": "Directorate ka Mausamiyati tabdeeli aur Carbon Khazana, ECC aur CDD, Hukoomat-e-Sindh"
+  },
+  "Explore public information and service links published by Directorate of Climate Change and Carbon Finance, ECC & CDD, Government of Sindh.": {
+    "ur": "ڈائریکٹوریٹ کا موسمیاتی تبدیلی اور کاربن خزانہ, ECC اور CDD, حکومت سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Directorate ka Mausamiyati tabdeeli aur Carbon Khazana, ECC aur CDD, Hukoomat-e-Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Directorate Of People’s Poverty Reduction, Planning & Development Department": {
+    "ur": "ڈائریکٹوریٹ کا عوام غربت کمی, منصوبہ بندی اور ترقیات محکمہ",
+    "roman": "Directorate ka People’s Poverty Reduction, Mansooba bandi aur Taraqqiyat Mehkama"
+  },
+  "Explore public information and service links published by Directorate Of People’s Poverty Reduction, Planning & Development Department.": {
+    "ur": "ڈائریکٹوریٹ کا عوام غربت کمی, منصوبہ بندی اور ترقیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Directorate ka People’s Poverty Reduction, Mansooba bandi aur Taraqqiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Energy Department": {
+    "ur": "توانائی محکمہ",
+    "roman": "Tawanai Mehkama"
+  },
+  "Explore public information and service links published by Energy Department.": {
+    "ur": "توانائی محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Tawanai Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Enquiries & Anti-Corruption Establishment, Sindh": {
+    "ur": "انکوائری اور انسداد-بدعنوانی اسٹیبلشمنٹ, سندھ",
+    "roman": "Enquiries aur Insidad-Badunwani Establishment, Sindh"
+  },
+  "Explore public information and service links published by Enquiries & Anti-Corruption Establishment, Sindh.": {
+    "ur": "انکوائری اور انسداد-بدعنوانی اسٹیبلشمنٹ, سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Enquiries aur Insidad-Badunwani Establishment, Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Environment Climate Change & Coastal Development Department": {
+    "ur": "ماحولیات موسمیاتی تبدیلی اور ساحلی ترقیات محکمہ",
+    "roman": "Maholiyat Mausamiyati tabdeeli aur Coastal Taraqqiyat Mehkama"
+  },
+  "Explore public information and service links published by Environment Climate Change & Coastal Development Department.": {
+    "ur": "ماحولیات موسمیاتی تبدیلی اور ساحلی ترقیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Maholiyat Mausamiyati tabdeeli aur Coastal Taraqqiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Food Department,Government of Sindh": {
+    "ur": "خوراک محکمہ,حکومت سندھ",
+    "roman": "Khuraak Mehkama,Hukoomat-e-Sindh"
+  },
+  "Explore public information and service links published by Food Department,Government of Sindh.": {
+    "ur": "خوراک محکمہ,حکومت سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khuraak Mehkama,Hukoomat-e-Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Forest & Wildlife Department": {
+    "ur": "جنگلات اور جنگلی حیات محکمہ",
+    "roman": "Janglaat aur Jangli hayat Mehkama"
+  },
+  "Explore public information and service links published by Forest & Wildlife Department.": {
+    "ur": "جنگلات اور جنگلی حیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Janglaat aur Jangli hayat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Government of Sindh Social Protection Unit Social Welfare Department": {
+    "ur": "حکومت سندھ سماجی تحفظ یونٹ سماجی بہبود محکمہ",
+    "roman": "Hukoomat-e-Sindh Samaji Tahaffuz Unit Samaji Behbood Mehkama"
+  },
+  "Explore public information and service links published by Government of Sindh Social Protection Unit Social Welfare Department.": {
+    "ur": "حکومت سندھ سماجی تحفظ یونٹ سماجی بہبود محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Hukoomat-e-Sindh Samaji Tahaffuz Unit Samaji Behbood Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Health Department": {
+    "ur": "صحت محکمہ",
+    "roman": "Sehat Mehkama"
+  },
+  "Explore public information and service links published by Health Department.": {
+    "ur": "صحت محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sehat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Home Department": {
+    "ur": "داخلہ محکمہ",
+    "roman": "Home Mehkama"
+  },
+  "Explore public information and service links published by Home Department.": {
+    "ur": "داخلہ محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Home Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Human Rights Department": {
+    "ur": "انسانی حقوق محکمہ",
+    "roman": "Insani huqooq Mehkama"
+  },
+  "Explore public information and service links published by Human Rights Department.": {
+    "ur": "انسانی حقوق محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Insani huqooq Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Human Settlement Department": {
+    "ur": "انسانی آباد کاری محکمہ",
+    "roman": "Human Settlement Mehkama"
+  },
+  "Explore public information and service links published by Human Settlement Department.": {
+    "ur": "انسانی آباد کاری محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Human Settlement Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Industries & Commerce Department": {
+    "ur": "صنعتیں اور تجارت محکمہ",
+    "roman": "Industries aur Commerce Mehkama"
+  },
+  "Explore public information and service links published by Industries & Commerce Department.": {
+    "ur": "صنعتیں اور تجارت محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Industries aur Commerce Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Information Department": {
+    "ur": "اطلاعات محکمہ",
+    "roman": "Ittilaat Mehkama"
+  },
+  "Explore public information and service links published by Information Department.": {
+    "ur": "اطلاعات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Ittilaat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Inter Provincial Coordination Department": {
+    "ur": "بین صوبائی رابطہ کاری محکمہ",
+    "roman": "Inter Soobai Coordination Mehkama"
+  },
+  "Explore public information and service links published by Inter Provincial Coordination Department.": {
+    "ur": "بین صوبائی رابطہ کاری محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Inter Soobai Coordination Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Investment Department": {
+    "ur": "سرمایہ کاری محکمہ",
+    "roman": "Investment Mehkama"
+  },
+  "Explore public information and service links published by Investment Department.": {
+    "ur": "سرمایہ کاری محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Investment Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Irrigation Department": {
+    "ur": "آبپاشی محکمہ",
+    "roman": "Aabpashi Mehkama"
+  },
+  "Explore public information and service links published by Irrigation Department.": {
+    "ur": "آبپاشی محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Aabpashi Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Karachi Fisheries Harbour Authority": {
+    "ur": "کراچی ماہی گیری بندرگاہ اتھارٹی",
+    "roman": "Karachi Mahi geeri Harbour Authority"
+  },
+  "Explore public information and service links published by Karachi Fisheries Harbour Authority.": {
+    "ur": "کراچی ماہی گیری بندرگاہ اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Karachi Mahi geeri Harbour Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Labour & Human Resources Department": {
+    "ur": "محنت اور انسانی وسائل محکمہ",
+    "roman": "Mehnat aur Human Resources Mehkama"
+  },
+  "Explore public information and service links published by Labour & Human Resources Department.": {
+    "ur": "محنت اور انسانی وسائل محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Mehnat aur Human Resources Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Livestock & Fisheries Department": {
+    "ur": "لائیو اسٹاک اور ماہی گیری محکمہ",
+    "roman": "Livestock aur Mahi geeri Mehkama"
+  },
+  "Explore public information and service links published by Livestock & Fisheries Department.": {
+    "ur": "لائیو اسٹاک اور ماہی گیری محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Livestock aur Mahi geeri Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Local Government Department": {
+    "ur": "بلدیات محکمہ",
+    "roman": "Baldiyat Mehkama"
+  },
+  "Explore public information and service links published by Local Government Department.": {
+    "ur": "بلدیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Baldiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Mines and Mineral Development Department": {
+    "ur": "کان کنی اور معدنی ترقیات محکمہ",
+    "roman": "Kaan kani aur Mineral Taraqqiyat Mehkama"
+  },
+  "Explore public information and service links published by Mines and Mineral Development Department.": {
+    "ur": "کان کنی اور معدنی ترقیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Kaan kani aur Mineral Taraqqiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Minorities Affairs Department": {
+    "ur": "اقلیتیں امور محکمہ",
+    "roman": "Minorities Umoor Mehkama"
+  },
+  "Explore public information and service links published by Minorities Affairs Department.": {
+    "ur": "اقلیتیں امور محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Minorities Umoor Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Municipal Services Delivery Program": {
+    "ur": "بلدیاتی خدمات فراہمی پروگرام",
+    "roman": "Municipal Khidmaat Delivery Program"
+  },
+  "Explore public information and service links published by Municipal Services Delivery Program.": {
+    "ur": "بلدیاتی خدمات فراہمی پروگرام کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Municipal Khidmaat Delivery Program ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "National Institute of Labour Administration Training (NILAT)": {
+    "ur": "قومی ادارہ کا محنت انتظامیہ تربیت (NILAT)",
+    "roman": "Qaumi Institute ka Mehnat Intizamiya Tarbiyat (NILAT)"
+  },
+  "Explore public information and service links published by National Institute of Labour Administration Training (NILAT).": {
+    "ur": "قومی ادارہ کا محنت انتظامیہ تربیت (NILAT) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qaumi Institute ka Mehnat Intizamiya Tarbiyat (NILAT) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Office of Solicitor": {
+    "ur": "دفتر کا قانونی مشیر",
+    "roman": "Office ka Solicitor"
+  },
+  "Explore public information and service links published by Office of Solicitor.": {
+    "ur": "دفتر کا قانونی مشیر کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Office ka Solicitor ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Official Assignee Law Department Government Of Sindh": {
+    "ur": "سرکاری نمائندہ قانون محکمہ حکومت سندھ",
+    "roman": "Official Assignee Qanoon Mehkama Hukoomat-e-Sindh"
+  },
+  "Explore public information and service links published by Official Assignee Law Department Government Of Sindh.": {
+    "ur": "سرکاری نمائندہ قانون محکمہ حکومت سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Official Assignee Qanoon Mehkama Hukoomat-e-Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Planning & Development Department": {
+    "ur": "منصوبہ بندی اور ترقیات محکمہ",
+    "roman": "Mansooba bandi aur Taraqqiyat Mehkama"
+  },
+  "Explore public information and service links published by Planning & Development Department.": {
+    "ur": "منصوبہ بندی اور ترقیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Mansooba bandi aur Taraqqiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Population Welfare Department": {
+    "ur": "آبادی بہبود محکمہ",
+    "roman": "Abadi Behbood Mehkama"
+  },
+  "Explore public information and service links published by Population Welfare Department.": {
+    "ur": "آبادی بہبود محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Abadi Behbood Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Prosecutor General Sindh": {
+    "ur": "استغاثہ افسر جنرل سندھ",
+    "roman": "Istighasa afsar General Sindh"
+  },
+  "Explore public information and service links published by Prosecutor General Sindh.": {
+    "ur": "استغاثہ افسر جنرل سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Istighasa afsar General Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Assembly of sindh": {
+    "ur": "صوبائی اسمبلی کا سندھ",
+    "roman": "Soobai Assembly ka Sindh"
+  },
+  "Explore public information and service links published by Provincial Assembly of sindh.": {
+    "ur": "صوبائی اسمبلی کا سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Assembly ka Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Local Government Commission": {
+    "ur": "صوبائی بلدیات کمیشن",
+    "roman": "Soobai Baldiyat Commission"
+  },
+  "Explore public information and service links published by Provincial Local Government Commission.": {
+    "ur": "صوبائی بلدیات کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Baldiyat Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Provincial Ombudsman Sindh (The Protection against Harassment of Women at Workplace)": {
+    "ur": "صوبائی محتسب سندھ (دی تحفظ کے خلاف ہراسانی کا خواتین میں کام کی جگہ)",
+    "roman": "Soobai Mohtasib Sindh (The Tahaffuz against Harassment ka Khawateen at Workplace)"
+  },
+  "Explore public information and service links published by Provincial Ombudsman Sindh (The Protection against Harassment of Women at Workplace).": {
+    "ur": "صوبائی محتسب سندھ (دی تحفظ کے خلاف ہراسانی کا خواتین میں کام کی جگہ) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Soobai Mohtasib Sindh (The Tahaffuz against Harassment ka Khawateen at Workplace) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Public Health Engineering & Rural Development Department": {
+    "ur": "عوامی صحت انجینئرنگ اور دیہی ترقیات محکمہ",
+    "roman": "Awami Sehat Engineering aur Dehi Taraqqiyat Mehkama"
+  },
+  "Explore public information and service links published by Public Health Engineering & Rural Development Department.": {
+    "ur": "عوامی صحت انجینئرنگ اور دیہی ترقیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Awami Sehat Engineering aur Dehi Taraqqiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Rehabilitation Department": {
+    "ur": "بحالی محکمہ",
+    "roman": "Rehabilitation Mehkama"
+  },
+  "Explore public information and service links published by Rehabilitation Department.": {
+    "ur": "بحالی محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Rehabilitation Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Research & Training Wing": {
+    "ur": "تحقیق اور تربیت شعبہ",
+    "roman": "Tehqeeq aur Tarbiyat Wing"
+  },
+  "Explore public information and service links published by Research & Training Wing.": {
+    "ur": "تحقیق اور تربیت شعبہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Tehqeeq aur Tarbiyat Wing ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Science & Information Techonology Department": {
+    "ur": "سائنس اور اطلاعات ٹیکنالوجی محکمہ",
+    "roman": "Science aur Ittilaat Techonology Mehkama"
+  },
+  "Explore public information and service links published by Science & Information Techonology Department.": {
+    "ur": "سائنس اور اطلاعات ٹیکنالوجی محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Science aur Ittilaat Techonology Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "SCPA": {
+    "ur": "SCPA",
+    "roman": "SCPA"
+  },
+  "Explore public information and service links published by SCPA.": {
+    "ur": "SCPA کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "SCPA ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Secretariat Provincial Ombudsman": {
+    "ur": "سیکریٹریٹ صوبائی محتسب",
+    "roman": "Secretariat Soobai Mohtasib"
+  },
+  "Explore public information and service links published by Secretariat Provincial Ombudsman.": {
+    "ur": "سیکریٹریٹ صوبائی محتسب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Secretariat Soobai Mohtasib ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Services General Administration & Coordination Department": {
+    "ur": "خدمات جنرل انتظامیہ اور رابطہ کاری محکمہ",
+    "roman": "Khidmaat General Intizamiya aur Coordination Mehkama"
+  },
+  "Explore public information and service links published by Services General Administration & Coordination Department.": {
+    "ur": "خدمات جنرل انتظامیہ اور رابطہ کاری محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khidmaat General Intizamiya aur Coordination Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Shaheed Benazir Bhutto Housing Cell": {
+    "ur": "شہید بینظیر بھٹو ہاؤسنگ سیل",
+    "roman": "Shaheed Benazir Bhutto Housing Cell"
+  },
+  "Explore public information and service links published by Shaheed Benazir Bhutto Housing Cell.": {
+    "ur": "شہید بینظیر بھٹو ہاؤسنگ سیل کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Shaheed Benazir Bhutto Housing Cell ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Benevolent Fund Board": {
+    "ur": "سندھ بہبود فنڈ بورڈ",
+    "roman": "Sindh Benevolent Fund Board"
+  },
+  "Explore public information and service links published by Sindh Benevolent Fund Board.": {
+    "ur": "سندھ بہبود فنڈ بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Benevolent Fund Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Civil Servants Housing Foundation": {
+    "ur": "سندھ سول ملازمین ہاؤسنگ فاؤنڈیشن",
+    "roman": "Sindh Civil Servants Housing Foundation"
+  },
+  "Explore public information and service links published by Sindh Civil Servants Housing Foundation.": {
+    "ur": "سندھ سول ملازمین ہاؤسنگ فاؤنڈیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Civil Servants Housing Foundation ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Coal Authority, Energy Department, Government of Sindh": {
+    "ur": "سندھ کوئلہ اتھارٹی, توانائی محکمہ, حکومت سندھ",
+    "roman": "Sindh Coal Authority, Tawanai Mehkama, Hukoomat-e-Sindh"
+  },
+  "Explore public information and service links published by Sindh Coal Authority, Energy Department, Government of Sindh.": {
+    "ur": "سندھ کوئلہ اتھارٹی, توانائی محکمہ, حکومت سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Coal Authority, Tawanai Mehkama, Hukoomat-e-Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Coastal Development Authority": {
+    "ur": "سندھ ساحلی ترقیات اتھارٹی",
+    "roman": "Sindh Coastal Taraqqiyat Authority"
+  },
+  "Explore public information and service links published by Sindh Coastal Development Authority.": {
+    "ur": "سندھ ساحلی ترقیات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Coastal Taraqqiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Commission for the Protection of Journalists and other Media Practitioners": {
+    "ur": "سندھ کمیشن کے لیے دی تحفظ کا صحافی اور دیگر میڈیا کارکن",
+    "roman": "Sindh Commission ke liye The Tahaffuz ka Journalists aur other Media Practitioners"
+  },
+  "Explore public information and service links published by Sindh Commission for the Protection of Journalists and other Media Practitioners.": {
+    "ur": "سندھ کمیشن کے لیے دی تحفظ کا صحافی اور دیگر میڈیا کارکن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Commission ke liye The Tahaffuz ka Journalists aur other Media Practitioners ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Commission on the Status of women": {
+    "ur": "سندھ کمیشن پر دی حیثیت کا خواتین",
+    "roman": "Sindh Commission on The Status ka Khawateen"
+  },
+  "Explore public information and service links published by Sindh Commission on the Status of women.": {
+    "ur": "سندھ کمیشن پر دی حیثیت کا خواتین کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Commission on The Status ka Khawateen ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Educational Endowment Fund": {
+    "ur": "سندھ تعلیمی وقف فنڈ",
+    "roman": "Sindh Educational Waqf fund"
+  },
+  "Explore public information and service links published by Sindh Educational Endowment Fund.": {
+    "ur": "سندھ تعلیمی وقف فنڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Educational Waqf fund ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Environmental Protection Agency": {
+    "ur": "سندھ ماحولیاتی تحفظ ایجنسی",
+    "roman": "Sindh Environmental Tahaffuz Agency"
+  },
+  "Explore public information and service links published by Sindh Environmental Protection Agency.": {
+    "ur": "سندھ ماحولیاتی تحفظ ایجنسی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Environmental Tahaffuz Agency ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Governor House Karachi Islamic Republic of Pakistan": {
+    "ur": "سندھ گورنر ہاؤس کراچی اسلامی جمہوریہ پاکستان",
+    "roman": "Sindh Governor House Karachi Islamic Republic ka Pakistan"
+  },
+  "Explore public information and service links published by Sindh Governor House Karachi Islamic Republic of Pakistan.": {
+    "ur": "سندھ گورنر ہاؤس کراچی اسلامی جمہوریہ پاکستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Governor House Karachi Islamic Republic ka Pakistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Information Commission": {
+    "ur": "سندھ اطلاعات کمیشن",
+    "roman": "Sindh Ittilaat Commission"
+  },
+  "Explore public information and service links published by Sindh Information Commission.": {
+    "ur": "سندھ اطلاعات کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Ittilaat Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Mass Transit Authority (SMTA)": {
+    "ur": "سندھ عوامی ٹرانزٹ اتھارٹی (SMTA)",
+    "roman": "Sindh Mass Transit Authority (SMTA)"
+  },
+  "Explore public information and service links published by Sindh Mass Transit Authority (SMTA).": {
+    "ur": "سندھ عوامی ٹرانزٹ اتھارٹی (SMTA) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Mass Transit Authority (SMTA) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Mental Health Authority": {
+    "ur": "سندھ ذہنی صحت اتھارٹی",
+    "roman": "Sindh Mental Sehat Authority"
+  },
+  "Explore public information and service links published by Sindh Mental Health Authority.": {
+    "ur": "سندھ ذہنی صحت اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Mental Sehat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Mines Department": {
+    "ur": "سندھ کان کنی محکمہ",
+    "roman": "Sindh Kaan kani Mehkama"
+  },
+  "Explore public information and service links published by Sindh Mines Department.": {
+    "ur": "سندھ کان کنی محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Kaan kani Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Persons with Disabilities Protection Authority Department": {
+    "ur": "سندھ معذور افراد تحفظ اتھارٹی محکمہ",
+    "roman": "Sindh Mazoor afrad Tahaffuz Authority Mehkama"
+  },
+  "Explore public information and service links published by Sindh Persons with Disabilities Protection Authority Department.": {
+    "ur": "سندھ معذور افراد تحفظ اتھارٹی محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Mazoor afrad Tahaffuz Authority Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Prisons & Corrections Service (SPCS)": {
+    "ur": "سندھ جیل خانہ جات اور اصلاحات خدمت (SPCS)",
+    "roman": "Sindh Jail khana jaat aur Corrections Khidmat (SPCS)"
+  },
+  "Explore public information and service links published by Sindh Prisons & Corrections Service (SPCS).": {
+    "ur": "سندھ جیل خانہ جات اور اصلاحات خدمت (SPCS) کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Jail khana jaat aur Corrections Khidmat (SPCS) ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Technical Education and Vocational Training Authority": {
+    "ur": "سندھ تکنیکی تعلیم اور فنی تربیت اتھارٹی",
+    "roman": "Sindh Takneeki Taleem aur Fanni Tarbiyat Authority"
+  },
+  "Explore public information and service links published by Sindh Technical Education and Vocational Training Authority.": {
+    "ur": "سندھ تکنیکی تعلیم اور فنی تربیت اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Takneeki Taleem aur Fanni Tarbiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sindh Wildlife Department": {
+    "ur": "سندھ جنگلی حیات محکمہ",
+    "roman": "Sindh Jangli hayat Mehkama"
+  },
+  "Explore public information and service links published by Sindh Wildlife Department.": {
+    "ur": "سندھ جنگلی حیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Sindh Jangli hayat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Social Protection Department": {
+    "ur": "سماجی تحفظ محکمہ",
+    "roman": "Samaji Tahaffuz Mehkama"
+  },
+  "Explore public information and service links published by Social Protection Department.": {
+    "ur": "سماجی تحفظ محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Samaji Tahaffuz Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Social Welfare Department": {
+    "ur": "سماجی بہبود محکمہ",
+    "roman": "Samaji Behbood Mehkama"
+  },
+  "Explore public information and service links published by Social Welfare Department.": {
+    "ur": "سماجی بہبود محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Samaji Behbood Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Sports & Youth Affairs Department Government of Sindh": {
+    "ur": "کھیل اور نوجوان امور محکمہ حکومت سندھ",
+    "roman": "Khel aur Youth Umoor Mehkama Hukoomat-e-Sindh"
+  },
+  "Explore public information and service links published by Sports & Youth Affairs Department Government of Sindh.": {
+    "ur": "کھیل اور نوجوان امور محکمہ حکومت سندھ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khel aur Youth Umoor Mehkama Hukoomat-e-Sindh ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "SPPRA": {
+    "ur": "SPPRA",
+    "roman": "SPPRA"
+  },
+  "Explore public information and service links published by SPPRA.": {
+    "ur": "SPPRA کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "SPPRA ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Thar Coal & Energy Board": {
+    "ur": "تھر کوئلہ اور توانائی بورڈ",
+    "roman": "Thar Coal aur Tawanai Board"
+  },
+  "Explore public information and service links published by Thar Coal & Energy Board.": {
+    "ur": "تھر کوئلہ اور توانائی بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Thar Coal aur Tawanai Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Training Management & Research (TMR) Wing, SGA&CD": {
+    "ur": "تربیت انتظام اور تحقیق (TMR) شعبہ, SGA&CD",
+    "roman": "Tarbiyat Intizam aur Tehqeeq (TMR) Wing, SGA&CD"
+  },
+  "Explore public information and service links published by Training Management & Research (TMR) Wing, SGA&CD.": {
+    "ur": "تربیت انتظام اور تحقیق (TMR) شعبہ, SGA&CD کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Tarbiyat Intizam aur Tehqeeq (TMR) Wing, SGA&CD ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Transport & Mass Transit Department": {
+    "ur": "ٹرانسپورٹ اور عوامی ٹرانزٹ محکمہ",
+    "roman": "Transport aur Mass Transit Mehkama"
+  },
+  "Explore public information and service links published by Transport & Mass Transit Department.": {
+    "ur": "ٹرانسپورٹ اور عوامی ٹرانزٹ محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Transport aur Mass Transit Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Universities & Boards Department": {
+    "ur": "جامعات اور بورڈز محکمہ",
+    "roman": "Jamiaat aur Boards Mehkama"
+  },
+  "Explore public information and service links published by Universities & Boards Department.": {
+    "ur": "جامعات اور بورڈز محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Jamiaat aur Boards Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Women Development Department": {
+    "ur": "خواتین ترقیات محکمہ",
+    "roman": "Khawateen Taraqqiyat Mehkama"
+  },
+  "Explore public information and service links published by Women Development Department.": {
+    "ur": "خواتین ترقیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khawateen Taraqqiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Works & Services Department": {
+    "ur": "تعمیرات اور خدمات محکمہ",
+    "roman": "Tameerat aur Khidmaat Mehkama"
+  },
+  "Explore public information and service links published by Works & Services Department.": {
+    "ur": "تعمیرات اور خدمات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Tameerat aur Khidmaat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Zulfikarabad Development Authority": {
+    "ur": "ذوالفقارآباد ترقیات اتھارٹی",
+    "roman": "Zulfikarabad Taraqqiyat Authority"
+  },
+  "Explore public information and service links published by Zulfikarabad Development Authority.": {
+    "ur": "ذوالفقارآباد ترقیات اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Zulfikarabad Taraqqiyat Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Accountant General Punjab": {
+    "ur": "اکاؤنٹنٹ جنرل پنجاب",
+    "roman": "Accountant General Punjab"
+  },
+  "Explore public information and service links published by Accountant General Punjab.": {
+    "ur": "اکاؤنٹنٹ جنرل پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Accountant General Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Advocate General Punjab": {
+    "ur": "ایڈووکیٹ جنرل پنجاب",
+    "roman": "Advocate General Punjab"
+  },
+  "Explore public information and service links published by Advocate General Punjab.": {
+    "ur": "ایڈووکیٹ جنرل پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Advocate General Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Auqaf and Religious Affairs Punjab": {
+    "ur": "اوقاف اور مذہبی امور پنجاب",
+    "roman": "Auqaf aur Mazhab i umoor Punjab"
+  },
+  "Explore public information and service links published by Auqaf and Religious Affairs Punjab.": {
+    "ur": "اوقاف اور مذہبی امور پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Auqaf aur Mazhab i umoor Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Chief Minister Inspection Team Punjab": {
+    "ur": "وزیر اعلیٰ معائنہ ٹیم پنجاب",
+    "roman": "Wazeer-e-aala Muaina team Punjab"
+  },
+  "Explore public information and service links published by Chief Minister Inspection Team Punjab.": {
+    "ur": "وزیر اعلیٰ معائنہ ٹیم پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Wazeer-e-aala Muaina team Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Communication and Works Punjab": {
+    "ur": "مواصلات اور تعمیرات پنجاب",
+    "roman": "Mawasilaat aur Tameerat Punjab"
+  },
+  "Explore public information and service links published by Communication and Works Punjab.": {
+    "ur": "مواصلات اور تعمیرات پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Mawasilaat aur Tameerat Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Cooperatives Department Punjab": {
+    "ur": "امداد باہمی محکمہ پنجاب",
+    "roman": "Imdad bahami Mehkama Punjab"
+  },
+  "Explore public information and service links published by Cooperatives Department Punjab.": {
+    "ur": "امداد باہمی محکمہ پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Imdad bahami Mehkama Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Energy Department Punjab": {
+    "ur": "توانائی محکمہ پنجاب",
+    "roman": "Tawanai Mehkama Punjab"
+  },
+  "Explore public information and service links published by Energy Department Punjab.": {
+    "ur": "توانائی محکمہ پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Tawanai Mehkama Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Online College Admissions Punjab": {
+    "ur": "آن لائن کالج داخلے پنجاب",
+    "roman": "Online College Admissions Punjab"
+  },
+  "Explore public information and service links published by Online College Admissions Punjab.": {
+    "ur": "آن لائن کالج داخلے پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Online College Admissions Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Blood Transfusion Authority": {
+    "ur": "پنجاب خون منتقلی اتھارٹی",
+    "roman": "Punjab Blood Transfusion Authority"
+  },
+  "Explore public information and service links published by Punjab Blood Transfusion Authority.": {
+    "ur": "پنجاب خون منتقلی اتھارٹی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Blood Transfusion Authority ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Punjab Agriculture Research Board": {
+    "ur": "پنجاب زراعت تحقیق بورڈ",
+    "roman": "Punjab Zaraat Tehqeeq Board"
+  },
+  "Explore public information and service links published by Punjab Agriculture Research Board.": {
+    "ur": "پنجاب زراعت تحقیق بورڈ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Punjab Zaraat Tehqeeq Board ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Department of Tourist Services Punjab": {
+    "ur": "محکمہ کا سیاح خدمات پنجاب",
+    "roman": "Mehkama ka Tourist Khidmaat Punjab"
+  },
+  "Explore public information and service links published by Department of Tourist Services Punjab.": {
+    "ur": "محکمہ کا سیاح خدمات پنجاب کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Mehkama ka Tourist Khidmaat Punjab ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "KP Provincial Assembly": {
+    "ur": "KP صوبائی اسمبلی",
+    "roman": "KP Soobai Assembly"
+  },
+  "Explore public information and service links published by KP Provincial Assembly.": {
+    "ur": "KP صوبائی اسمبلی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "KP Soobai Assembly ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "KP Information Commission": {
+    "ur": "KP اطلاعات کمیشن",
+    "roman": "KP Ittilaat Commission"
+  },
+  "Explore public information and service links published by KP Information Commission.": {
+    "ur": "KP اطلاعات کمیشن کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "KP Ittilaat Commission ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "On Farm Water Management KP": {
+    "ur": "پر کھیت پانی انتظام KP",
+    "roman": "On Farm Pani Intizam KP"
+  },
+  "Explore public information and service links published by On Farm Water Management KP.": {
+    "ur": "پر کھیت پانی انتظام KP کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "On Farm Pani Intizam KP ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Irrigation Department KP": {
+    "ur": "آبپاشی محکمہ KP",
+    "roman": "Aabpashi Mehkama KP"
+  },
+  "Explore public information and service links published by Irrigation Department KP.": {
+    "ur": "آبپاشی محکمہ KP کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Aabpashi Mehkama KP ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Finance Department KP": {
+    "ur": "خزانہ محکمہ KP",
+    "roman": "Khazana Mehkama KP"
+  },
+  "Explore public information and service links published by Finance Department KP.": {
+    "ur": "خزانہ محکمہ KP کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khazana Mehkama KP ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "KP Government Email Directory": {
+    "ur": "KP حکومت ای میل ڈائریکٹری",
+    "roman": "KP Hukoomat Email Directory"
+  },
+  "Explore public information and service links published by KP Government Email Directory.": {
+    "ur": "KP حکومت ای میل ڈائریکٹری کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "KP Hukoomat Email Directory ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Agriculture and Cooperatives Balochistan": {
+    "ur": "زراعت اور امداد باہمی بلوچستان",
+    "roman": "Zaraat aur Imdad bahami Balochistan"
+  },
+  "Explore public information and service links published by Agriculture and Cooperatives Balochistan.": {
+    "ur": "زراعت اور امداد باہمی بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Zaraat aur Imdad bahami Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Board of Revenue Balochistan": {
+    "ur": "بورڈ کا محصولات بلوچستان",
+    "roman": "Board ka Mahsoolat Balochistan"
+  },
+  "Explore public information and service links published by Board of Revenue Balochistan.": {
+    "ur": "بورڈ کا محصولات بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Board ka Mahsoolat Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Local Government Balochistan": {
+    "ur": "بلدیات بلوچستان",
+    "roman": "Baldiyat Balochistan"
+  },
+  "Explore public information and service links published by Local Government Balochistan.": {
+    "ur": "بلدیات بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Baldiyat Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Prosecution Department Balochistan": {
+    "ur": "استغاثہ محکمہ بلوچستان",
+    "roman": "Istighasa Mehkama Balochistan"
+  },
+  "Explore public information and service links published by Prosecution Department Balochistan.": {
+    "ur": "استغاثہ محکمہ بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Istighasa Mehkama Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Law and Parliamentary Affairs Balochistan": {
+    "ur": "قانون اور پارلیمانی امور بلوچستان",
+    "roman": "Qanoon aur Parliamentary Umoor Balochistan"
+  },
+  "Explore public information and service links published by Law and Parliamentary Affairs Balochistan.": {
+    "ur": "قانون اور پارلیمانی امور بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Qanoon aur Parliamentary Umoor Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Finance Department Balochistan": {
+    "ur": "خزانہ محکمہ بلوچستان",
+    "roman": "Khazana Mehkama Balochistan"
+  },
+  "Explore public information and service links published by Finance Department Balochistan.": {
+    "ur": "خزانہ محکمہ بلوچستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Khazana Mehkama Balochistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Balochistan Development Programme": {
+    "ur": "بلوچستان ترقیات پروگرام",
+    "roman": "Balochistan Taraqqiyat Programme"
+  },
+  "Explore public information and service links published by Balochistan Development Programme.": {
+    "ur": "بلوچستان ترقیات پروگرام کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Balochistan Taraqqiyat Programme ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Finance Department": {
+    "ur": "گلگت بلتستان خزانہ محکمہ",
+    "roman": "Gilgit-Baltistan Khazana Mehkama"
+  },
+  "Explore public information and service links published by Gilgit-Baltistan Finance Department.": {
+    "ur": "گلگت بلتستان خزانہ محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Khazana Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan IT Department": {
+    "ur": "گلگت بلتستان IT محکمہ",
+    "roman": "Gilgit-Baltistan IT Mehkama"
+  },
+  "Explore public information and service links published by Gilgit-Baltistan IT Department.": {
+    "ur": "گلگت بلتستان IT محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan IT Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Education Management Information System": {
+    "ur": "گلگت بلتستان تعلیم انتظام اطلاعات نظام",
+    "roman": "Gilgit-Baltistan Taleem Intizam Ittilaat System"
+  },
+  "Explore public information and service links published by Gilgit-Baltistan Education Management Information System.": {
+    "ur": "گلگت بلتستان تعلیم انتظام اطلاعات نظام کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Taleem Intizam Ittilaat System ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Assembly": {
+    "ur": "گلگت بلتستان اسمبلی",
+    "roman": "Gilgit-Baltistan Assembly"
+  },
+  "Explore public information and service links published by Gilgit-Baltistan Assembly.": {
+    "ur": "گلگت بلتستان اسمبلی کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Assembly ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Planning and Development": {
+    "ur": "گلگت بلتستان منصوبہ بندی اور ترقیات",
+    "roman": "Gilgit-Baltistan Mansooba bandi aur Taraqqiyat"
+  },
+  "Explore public information and service links published by Gilgit-Baltistan Planning and Development.": {
+    "ur": "گلگت بلتستان منصوبہ بندی اور ترقیات کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Mansooba bandi aur Taraqqiyat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Gilgit-Baltistan Tourism": {
+    "ur": "گلگت بلتستان سیاحت",
+    "roman": "Gilgit-Baltistan Sayahat"
+  },
+  "Explore public information and service links published by Gilgit-Baltistan Tourism.": {
+    "ur": "گلگت بلتستان سیاحت کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Gilgit-Baltistan Sayahat ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "Rescue 1122 Gilgit-Baltistan": {
+    "ur": "ریسکیو 1122 گلگت بلتستان",
+    "roman": "Rescue 1122 Gilgit-Baltistan"
+  },
+  "Explore public information and service links published by Rescue 1122 Gilgit-Baltistan.": {
+    "ur": "ریسکیو 1122 گلگت بلتستان کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "Rescue 1122 Gilgit-Baltistan ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "AJK Finance Department": {
+    "ur": "AJK خزانہ محکمہ",
+    "roman": "AJK Khazana Mehkama"
+  },
+  "Explore public information and service links published by AJK Finance Department.": {
+    "ur": "AJK خزانہ محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "AJK Khazana Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "AJK Higher Education Department": {
+    "ur": "AJK اعلیٰ تعلیم محکمہ",
+    "roman": "AJK Aala Taleem Mehkama"
+  },
+  "Explore public information and service links published by AJK Higher Education Department.": {
+    "ur": "AJK اعلیٰ تعلیم محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "AJK Aala Taleem Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "AJK Planning and Development Department": {
+    "ur": "AJK منصوبہ بندی اور ترقیات محکمہ",
+    "roman": "AJK Mansooba bandi aur Taraqqiyat Mehkama"
+  },
+  "Explore public information and service links published by AJK Planning and Development Department.": {
+    "ur": "AJK منصوبہ بندی اور ترقیات محکمہ کی عوامی معلومات اور خدمات کے سرکاری لنکس دیکھیں۔",
+    "roman": "AJK Mansooba bandi aur Taraqqiyat Mehkama ki awami maloomat aur khidmaat ke sarkari links dekhein."
+  },
+  "resources. One clearer starting point. Search by task, department or a saved keyword.": {
+    "ur": "وسائل۔ کام، محکمے یا محفوظ الفاظ کے ذریعے آسان تلاش۔",
+    "roman": "wasail. Kaam, mehkame ya mehfooz alfaaz ke zariye aasaan talash."
+  },
+  "Official destinations · No account needed": {
+    "ur": "سرکاری ویب سائٹس · اکاؤنٹ کی ضرورت نہیں",
+    "roman": "Sarkari websites · Account ki zaroorat nahi"
+  },
+  "Raabta": {
+    "ur": "رابطہ",
+    "roman": "Raabta"
+  },
+  "Discovery source ↗": {
+    "ur": "فہرست کا ذریعہ ↗",
+    "roman": "Fehrist ka zariya ↗"
+  },
+  "website": {
+    "ur": "ویب سائٹ",
+    "roman": "Website"
+  },
+  "app": {
+    "ur": "ایپ",
+    "roman": "App"
+  },
+  "district reference entries": {
+    "ur": "اضلاع کی حوالہ فہرستیں",
+    "roman": "azla ki hawala fehristein"
+  },
+  "Raabta is an independent directory that helps you find Pakistan’s government websites, apps and public-service information.": {
+    "ur": "رابطہ ایک آزاد ڈائریکٹری ہے جو پاکستان کی سرکاری ویب سائٹس، ایپس اور عوامی خدمات تلاش کرنے میں مدد دیتی ہے۔",
+    "roman": "Raabta aik azad directory hai jo Pakistan ki sarkari websites, apps aur awami khidmaat talash karne mein madad deti hai."
+  },
+  "Choose your province and district, then search by task or department. Local listings appear first, followed by relevant regional and federal listings. Use local-only mode to exclude broader listings.": {
+    "ur": "صوبہ اور ضلع منتخب کریں، پھر کام یا محکمے کے مطابق تلاش کریں۔ مقامی فہرستیں پہلے اور صوبائی و وفاقی فہرستیں بعد میں آئیں گی۔ صرف مقامی نتائج کے لیے مقامی فلٹر منتخب کریں۔",
+    "roman": "Sooba aur zila muntakhib karein, phir kaam ya mehkame ke mutabiq talash karein. Maqami fehristein pehle aur soobai o wafaqi fehristein baad mein aayengi. Sirf maqami nataij ke liye maqami filter chunein."
+  },
+  "All 194 entries from the supplied Ask Pakistan directory are retained. Additional listings come from official provincial directories and department pages. This is a directory, not a complete inventory of government services.": {
+    "ur": "آسک پاکستان کی فراہم کردہ ڈائریکٹری کی تمام ۱۹۴ فہرستیں موجود ہیں۔ مزید وسائل سرکاری صوبائی اور محکمانہ صفحات سے شامل کیے گئے ہیں۔ یہ تمام سرکاری خدمات کی مکمل فہرست ہونے کا دعویٰ نہیں کرتی۔",
+    "roman": "Ask Pakistan ki faraham karda directory ki tamam 194 fehristein maujood hain. Mazeed wasail sarkari soobai aur mehkama jati safhaat se shamil kiye gaye hain. Yeh tamam sarkari khidmaat ki mukammal fehrist honay ka dawa nahi karti."
+  },
+  "The district reference set is dated 2 November 2026. Published sources differ for some newly created or activated districts. Karezat is included with its status under review. New administrative notifications may require updates.": {
+    "ur": "اضلاع کی حوالہ فہرست ۲ نومبر ۲۰۲۶ کی ہے۔ بعض نئے اضلاع کے بارے میں شائع شدہ ذرائع مختلف ہیں۔ کاریزات کا درجہ زیرِ جائزہ ہے۔ نئی سرکاری اطلاعات پر فہرست تبدیل ہو سکتی ہے۔",
+    "roman": "Azla ki hawala fehrist 2 November 2026 ki hai. Baaz naye azla ke bare mein shaya shuda zaraye mukhtalif hain. Karezat ka darja zair-e-jaiza hai. Nayi sarkari ittilaat par fehrist tabdeel ho sakti hai."
+  },
+  "Every listing provides a source link. Importing a listing does not verify its availability, eligibility or service coverage. Confirm important details with the responsible department.": {
+    "ur": "ہر فہرست میں ذریعے کا لنک موجود ہے۔ فہرست میں شامل ہونا دستیابی، اہلیت یا علاقے کی تصدیق نہیں۔ ضروری تفصیلات متعلقہ محکمے سے معلوم کریں۔",
+    "roman": "Har fehrist mein zariye ka link maujood hai. Fehrist mein shamil hona dastiyabi, ahliat ya ilaqay ki tasdeeq nahi. Zaroori tafseelat mutaliqa mehkame se maloom karein."
+  },
+  "Bookmarks, language and theme preferences are saved only in your browser. There is no account, backend or document upload. Icons and fonts use Google services, which receive standard network information.": {
+    "ur": "محفوظ لنکس، زبان اور تھیم صرف آپ کے براؤزر میں محفوظ ہوتے ہیں۔ اکاؤنٹ، بیک اینڈ یا دستاویز اپ لوڈ نہیں ہے۔ آئیکن اور فونٹ گوگل کی خدمات استعمال کرتے ہیں جنہیں معمول کی نیٹ ورک معلومات موصول ہوتی ہیں۔",
+    "roman": "Mehfooz links, zaban aur theme sirf aap ke browser mein save hotay hain. Account, backend ya documents upload nahi hai. Icons aur fonts Google ki khidmaat istemal karte hain jinhein mamool ki network maloomat milti hain."
+  },
+  "This static edition does not submit reports. The project owner can update the JSON files, validate them and redeploy. Owner contact details should be configured before public launch.": {
+    "ur": "اس ورژن میں رپورٹ جمع نہیں ہوتی۔ مالک JSON فائلیں تبدیل، جانچ اور دوبارہ شائع کر سکتا ہے۔ عوامی آغاز سے پہلے رابطے کی معلومات شامل کریں۔",
+    "roman": "Is version mein report jama nahi hoti. Malik JSON files tabdeel, jaanch aur dobara shaya kar sakta hai. Awami aaghaz se pehle rabtay ki maloomat shamil karein."
+  },
+  "Raabta is not a government website. Applications, logins, payments and complaints take place on the relevant official platform.": {
+    "ur": "رابطہ سرکاری ویب سائٹ نہیں ہے۔ درخواستیں، لاگ ان، ادائیگیاں اور شکایات متعلقہ سرکاری پلیٹ فارم پر ہوتی ہیں۔",
+    "roman": "Raabta sarkari website nahi hai. Darkhwastein, login, adaigiyan aur shikayaat mutaliqa sarkari platform par hoti hain."
+  },
+  "404 · PAGE NOT FOUND": {
+    "ur": "۴۰۴ · صفحہ نہیں ملا",
+    "roman": "404 · Safha nahi mila"
+  },
+  "A different path awaits.": {
+    "ur": "کوئی اور راستہ تلاش کریں۔",
+    "roman": "Koi aur rasta talash karein."
+  },
+  "This page does not exist in the directory.": {
+    "ur": "یہ صفحہ ڈائریکٹری میں موجود نہیں۔",
+    "roman": "Yeh safha directory mein maujood nahi."
+  },
+  "Explore services →": {
+    "ur": "خدمات دیکھیں ←",
+    "roman": "Khidmaat dekhein →"
+  },
+  "Status under review": {
+    "ur": "درجہ زیر جائزہ",
+    "roman": "Darja zair-e-jaiza"
+  },
+  "Save": {
+    "ur": "محفوظ کریں",
+    "roman": "Mehfooz karein"
+  },
+  "Unsave": {
+    "ur": "ہٹائیں",
+    "roman": "Hatayein"
+  }
+}
