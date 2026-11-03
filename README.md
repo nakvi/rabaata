@@ -1,4 +1,4 @@
-# Raabta — Pakistan Directory V3
+# Raabta — Pakistan Directory
 
 A complete static Next.js + React + TypeScript project for finding government websites and apps. Deploy on Vercel without Laravel, a database or API keys.
 
